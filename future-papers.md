@@ -1,3 +1,23 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-[A Radio Source Coincident with the Superluminous Supernova PTF10hgi: Evidence for a Central Engine and an Analogue of the Repeating FRB121102?](https://arxiv.org/abs/1901.10479)
+1. [Statistical inference of the distance to ASKAP FRBs](https://arxiv.org/abs/1902.10120)
+
+2. [Limit on the population of repeating fast radio bursts from the ASKAP/CRAFT lat50 survey](https://arxiv.org/abs/1902.04932)
+
+3. [Cosmic Anisotropy and Fast Radio Bursts](https://arxiv.org/abs/1902.03580)
+
+4. [Fast radio bursts as synchrotron maser emission from decelerating relativistic blast waves](https://arxiv.org/abs/1902.01866)
+
+5. [Conversion Measure of Faraday Rotation-Conversion with application to Fast Radio Bursts](https://arxiv.org/abs/1902.01485)
+
+6. [Are all fast radio bursts repeating sources?](https://arxiv.org/abs/1902.00272)
+
+7. [Probing Galactic Halos with Fast Radio Bursts](https://arxiv.org/abs/1901.11051)
+
+8. [Coherence constraints on physical parameters at bright radio sources and FRB emission mechanism](https://arxiv.org/abs/1901.03260)
+
+9. [Population modelling of FRBs from intrinsic properties](https://arxiv.org/abs/1902.10225)
+
+10. [Investigation of the asteroid-neutron star collision model for the repeating fast radio bursts](https://arxiv.org/abs/1902.05203)
+
+11. [Constraining the era of helium reionization using fast radio bursts](https://arxiv.org/abs/1902.06981)
