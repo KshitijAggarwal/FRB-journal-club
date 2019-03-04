@@ -21,3 +21,5 @@
 10. [Investigation of the asteroid-neutron star collision model for the repeating fast radio bursts](https://arxiv.org/abs/1902.05203)
 
 11. [Constraining the era of helium reionization using fast radio bursts](https://arxiv.org/abs/1902.06981)
+
+12. [Implications from ASKAP Fast Radio Burst Statistics](https://arxiv.org/abs/1903.00014)
