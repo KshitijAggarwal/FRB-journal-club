@@ -2,6 +2,15 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU 
 
+<h2>14 March</h2>
+
+1. [Are all fast radio bursts repeating sources?](https://arxiv.org/abs/1902.00272): Presented by Golnoosh Golpayegani
+
+2. [Investigation of the asteroid-neutron star collision model for the repeating fast radio bursts](https://arxiv.org/abs/1902.05203): Presented by Paul Brook
+
+
+<h2>7 March</h2>
+
 <h2>28 February</h2>
 
 The [talks](<https://sites.google.com/view/frb2019-amsterdam/programme?authuser=0>) presented at FRB meeting in Amsterdam were discussed.  
