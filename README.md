@@ -29,4 +29,4 @@ The [talks](<https://sites.google.com/view/frb2019-amsterdam/programme?authuser=
 
 1. 13 CHIME FRBs [Detection of Fast Radio Bursts at Radio Frequencies Down to 400 MHz]( https://arxiv.org/abs/1901.04524)
 2. Second Repeater [A Second Source of Repeating Fast Radio Bursts]( https://arxiv.org/abs/1901.04525)
-3. FRB 180301 [A Fast Radio Burst with frequency-dependent polarization detected during Breakthrough Listen observations](
+3. FRB 180301 [A Fast Radio Burst with frequency-dependent polarization detected during Breakthrough Listen observations](https://arxiv.org/abs/1901.07412)
