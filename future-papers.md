@@ -29,3 +29,7 @@
 * [A Survey of the Galactic Plane for Dispersed Pulses with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/1903.04694)
 
 * [GREENBURST: a commensal fast radio burst searchback-end for the Green Bank Telescope](https://arxiv.org/abs/1903.05573)
+
+* [A Southern sky search for repeating Fast Radio Bursts using the Australian SKA Pathfinder](https://arxiv.org/abs/1903.06525)
+
+* [Fast Radio Burst Tomography of the Unseen Universe](https://arxiv.org/abs/1903.06535)
