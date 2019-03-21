@@ -11,6 +11,8 @@ Public repository for FRB Journal Club at Department of Physics and Astronomy at
 
 <h2>7 March</h2>
 
+1. [Estimates of Fast Radio Burst Dispersion Measures from Cosmological Simulations](https://arxiv.org/abs/1903.07630): Presented by Nihan Pol
+
 <h2>28 February</h2>
 
 The [talks](<https://sites.google.com/view/frb2019-amsterdam/programme?authuser=0>) presented at FRB meeting in Amsterdam were discussed.  
