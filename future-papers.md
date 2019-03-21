@@ -33,3 +33,5 @@
 * [A Southern sky search for repeating Fast Radio Bursts using the Australian SKA Pathfinder](https://arxiv.org/abs/1903.06525)
 
 * [Fast Radio Burst Tomography of the Unseen Universe](https://arxiv.org/abs/1903.06535)
+
+* [On the Use of Fast Radio Burst Dispersion Measures as Distance Measures](https://arxiv.org/abs/1903.08175)
