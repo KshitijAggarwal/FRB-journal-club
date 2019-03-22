@@ -18,20 +18,14 @@
 
 * [Constraining the era of helium reionization using fast radio bursts](https://arxiv.org/abs/1902.06981)
 
-* [Implications from ASKAP Fast Radio Burst Statistics](https://arxiv.org/abs/1903.00014)
-
 * [Statistical discrimination of RFI and astronomical transients in 2-bit digitized time domain signals](https://arxiv.org/abs/1903.00588)
-
-* [A sample of low energy bursts from FRB 121102](https://arxiv.org/abs/1903.02249)
 
 * [On the Time-Frequency Downward Drifting of Repeating Fast Radio Bursts](https://arxiv.org/abs/1903.03982)
 
 * [A Survey of the Galactic Plane for Dispersed Pulses with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/1903.04694)
 
-* [GREENBURST: a commensal fast radio burst searchback-end for the Green Bank Telescope](https://arxiv.org/abs/1903.05573)
-
-* [A Southern sky search for repeating Fast Radio Bursts using the Australian SKA Pathfinder](https://arxiv.org/abs/1903.06525)
-
 * [Fast Radio Burst Tomography of the Unseen Universe](https://arxiv.org/abs/1903.06535)
 
 * [On the Use of Fast Radio Burst Dispersion Measures as Distance Measures](https://arxiv.org/abs/1903.08175)
+
+* [Second Repeating FRB 180814.J0422+73: Ten-year Fermi-LAT Upper limits and Implications](https://arxiv.org/abs/1903.07329)
