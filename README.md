@@ -2,11 +2,26 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU 
 
+<h2>21 March</h2>
+
+1. [Implications from ASKAP Fast Radio Burst Statistics](https://arxiv.org/abs/1903.00014): Presented by Kshitij Aggarwal
+
+Other papers discussed:
+* [GREENBURST: a commensal fast radio burst searchback-end for the Green Bank Telescope](https://arxiv.org/abs/1903.05573)
+
+* [A Southern sky search for repeating Fast Radio Bursts using the Australian SKA Pathfinder](https://arxiv.org/abs/1903.06525)
+
+
 <h2>14 March</h2>
 
 1. [Are all fast radio bursts repeating sources?](https://arxiv.org/abs/1902.00272): Presented by Golnoosh Golpayegani
 
 2. [Investigation of the asteroid-neutron star collision model for the repeating fast radio bursts](https://arxiv.org/abs/1902.05203): Presented by Paul Brook
+
+Other Papers discussed:
+
+* [A sample of low energy bursts from FRB 121102](https://arxiv.org/abs/1903.02249)
+
 
 
 <h2>7 March</h2>
