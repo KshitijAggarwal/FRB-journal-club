@@ -29,3 +29,5 @@
 * [On the Use of Fast Radio Burst Dispersion Measures as Distance Measures](https://arxiv.org/abs/1903.08175)
 
 * [Second Repeating FRB 180814.J0422+73: Ten-year Fermi-LAT Upper limits and Implications](https://arxiv.org/abs/1903.07329)
+
+* [On the possibility of registering X-ray flares related to fast radio bursts with the SRG/eROSITA telescope](https://arxiv.org/abs/1903.10991)
