@@ -31,3 +31,5 @@
 * [Second Repeating FRB 180814.J0422+73: Ten-year Fermi-LAT Upper limits and Implications](https://arxiv.org/abs/1903.07329)
 
 * [On the possibility of registering X-ray flares related to fast radio bursts with the SRG/eROSITA telescope](https://arxiv.org/abs/1903.10991)
+
+* [Similar behaviors between FRB 121102 and solar type III radio bursts](https://arxiv.org/abs/1903.11895)
