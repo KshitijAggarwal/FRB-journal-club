@@ -33,3 +33,5 @@
 * [On the possibility of registering X-ray flares related to fast radio bursts with the SRG/eROSITA telescope](https://arxiv.org/abs/1903.10991)
 
 * [Similar behaviors between FRB 121102 and solar type III radio bursts](https://arxiv.org/abs/1903.11895)
+
+* [The localization of single pulse in VLBI observation](https://arxiv.org/abs/1810.08933)
