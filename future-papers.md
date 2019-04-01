@@ -35,3 +35,7 @@
 * [Similar behaviors between FRB 121102 and solar type III radio bursts](https://arxiv.org/abs/1903.11895)
 
 * [The localization of single pulse in VLBI observation](https://arxiv.org/abs/1810.08933)
+
+* [Constraining the Fast Radio Burst (FRB) properties using the detections at Parkes, ASKAP and CHIME](https://arxiv.org/abs/1903.12404)
+
+* [Fast Radio Bursts from Terraformation](https://arxiv.org/abs/1903.12186)
