@@ -2,6 +2,15 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU 
 
+<h2>4 April</h2>
+
+1. [Fast radio bursts as giant pulses from young rapidly rotating pulsars](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462..941L/abstract): Presented by Devansh Agarwal
+
+Other papers discussed:
+* [Similar behaviors between FRB 121102 and solar type III radio bursts](https://arxiv.org/abs/1903.11895)
+
+* [Fast Radio Bursts from Terraformation](https://arxiv.org/abs/1903.12186)
+
 <h2>21 March</h2>
 
 1. [Implications from ASKAP Fast Radio Burst Statistics](https://arxiv.org/abs/1903.00014): Presented by Kshitij Aggarwal
