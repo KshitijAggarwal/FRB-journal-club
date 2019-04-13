@@ -2,6 +2,11 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU 
 
+<h2>11 April</h2>
+
+1. [The localization of single pulse in VLBI observation](https://arxiv.org/abs/1810.08933): Presented by Justin Linford
+
+
 <h2>4 April</h2>
 
 1. [Fast radio bursts as giant pulses from young rapidly rotating pulsars](https://ui.adsabs.harvard.edu/abs/2016MNRAS.462..941L/abstract): Presented by Devansh Agarwal
