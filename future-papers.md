@@ -32,6 +32,4 @@
 
 * [On the possibility of registering X-ray flares related to fast radio bursts with the SRG/eROSITA telescope](https://arxiv.org/abs/1903.10991)
 
-* [The localization of single pulse in VLBI observation](https://arxiv.org/abs/1810.08933)
-
 * [Constraining the Fast Radio Burst (FRB) properties using the detections at Parkes, ASKAP and CHIME](https://arxiv.org/abs/1903.12404)
