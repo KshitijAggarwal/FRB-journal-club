@@ -1,6 +1,15 @@
 # FRB-journal-club
 
-Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU 
+Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
+
+<h2>18 April</h2>
+
+1. [Fast Radio Burst Tomography of the Unseen Universe](https://arxiv.org/abs/1903.06535): Presented by Joseph Kania
+
+Other papers discussed:
+* [Second Repeating FRB 180814.J0422+73: Ten-year Fermi-LAT Upper limits and Implications](https://arxiv.org/abs/1903.07329)
+
+* [On the possibility of registering X-ray flares related to fast radio bursts with the SRG/eROSITA telescope](https://arxiv.org/abs/1903.10991)
 
 <h2>11 April</h2>
 
