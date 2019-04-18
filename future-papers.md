@@ -24,12 +24,6 @@
 
 * [A Survey of the Galactic Plane for Dispersed Pulses with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/1903.04694)
 
-* [Fast Radio Burst Tomography of the Unseen Universe](https://arxiv.org/abs/1903.06535)
-
 * [On the Use of Fast Radio Burst Dispersion Measures as Distance Measures](https://arxiv.org/abs/1903.08175)
-
-* [Second Repeating FRB 180814.J0422+73: Ten-year Fermi-LAT Upper limits and Implications](https://arxiv.org/abs/1903.07329)
-
-* [On the possibility of registering X-ray flares related to fast radio bursts with the SRG/eROSITA telescope](https://arxiv.org/abs/1903.10991)
 
 * [Constraining the Fast Radio Burst (FRB) properties using the detections at Parkes, ASKAP and CHIME](https://arxiv.org/abs/1903.12404)
