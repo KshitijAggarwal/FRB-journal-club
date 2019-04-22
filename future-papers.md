@@ -27,3 +27,5 @@
 * [On the Use of Fast Radio Burst Dispersion Measures as Distance Measures](https://arxiv.org/abs/1903.08175)
 
 * [Constraining the Fast Radio Burst (FRB) properties using the detections at Parkes, ASKAP and CHIME](https://arxiv.org/abs/1903.12404)
+
+* [Cosmology-independent estimate of the fraction of baryon mass in the IGM from fast radio burst observations](https://arxiv.org/abs/1904.08927)
