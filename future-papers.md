@@ -29,3 +29,7 @@
 * [Constraining the Fast Radio Burst (FRB) properties using the detections at Parkes, ASKAP and CHIME](https://arxiv.org/abs/1903.12404)
 
 * [Cosmology-independent estimate of the fraction of baryon mass in the IGM from fast radio burst observations](https://arxiv.org/abs/1904.08927)
+
+* [An Introduction to Topological Data Analysis for Physicists: From LGM to FRBs](https://arxiv.org/abs/1904.11044)
+
+* [A Radio Bursts Detection Method Based on Hough Transform](https://arxiv.org/abs/1904.11618)
