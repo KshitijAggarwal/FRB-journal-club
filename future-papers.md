@@ -33,3 +33,7 @@
 * [An Introduction to Topological Data Analysis for Physicists: From LGM to FRBs](https://arxiv.org/abs/1904.11044)
 
 * [A Radio Bursts Detection Method Based on Hough Transform](https://arxiv.org/abs/1904.11618)
+
+* [Repeating Fast Radio Bursts from Magnetars with Low Magnetospheric Twist](https://arxiv.org/abs/1904.12036)
+
+* [A universal energy distribution for FRB 121102](https://arxiv.org/abs/1904.12408)
