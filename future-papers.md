@@ -37,3 +37,5 @@
 * [Repeating Fast Radio Bursts from Magnetars with Low Magnetospheric Twist](https://arxiv.org/abs/1904.12036)
 
 * [A universal energy distribution for FRB 121102](https://arxiv.org/abs/1904.12408)
+
+* [Detection of Fast Radio Bursts on the Large Scanning Antenna of the Lebedev Physical Institute](https://arxiv.org/abs/1812.10716)
