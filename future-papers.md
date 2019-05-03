@@ -41,3 +41,5 @@
 * [Detection of Fast Radio Bursts on the Large Scanning Antenna of the Lebedev Physical Institute](https://arxiv.org/abs/1812.10716)
 
 * [Interpreting the distributions of FRB observables](https://arxiv.org/abs/1905.00755)
+
+* [A Real-Time, All-Sky, High Time Resolution, Direct Imager for the Long Wavelength Array](https://arxiv.org/abs/1904.11422)
