@@ -39,3 +39,5 @@
 * [A universal energy distribution for FRB 121102](https://arxiv.org/abs/1904.12408)
 
 * [Detection of Fast Radio Bursts on the Large Scanning Antenna of the Lebedev Physical Institute](https://arxiv.org/abs/1812.10716)
+
+* [Interpreting the distributions of FRB observables](https://arxiv.org/abs/1905.00755)
