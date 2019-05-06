@@ -43,3 +43,5 @@
 * [Interpreting the distributions of FRB observables](https://arxiv.org/abs/1905.00755)
 
 * [A Real-Time, All-Sky, High Time Resolution, Direct Imager for the Long Wavelength Array](https://arxiv.org/abs/1904.11422)
+
+* [GBTrans: A commensal search for radio pulses with the Green Bank twenty metre telescope](https://arxiv.org/abs/1905.00980)
