@@ -4,8 +4,6 @@
 
 * [Limit on the population of repeating fast radio bursts from the ASKAP/CRAFT lat50 survey](https://arxiv.org/abs/1902.04932)
 
-* [Cosmic Anisotropy and Fast Radio Bursts](https://arxiv.org/abs/1902.03580)
-
 * [Fast radio bursts as synchrotron maser emission from decelerating relativistic blast waves](https://arxiv.org/abs/1902.01866)
 
 * [Conversion Measure of Faraday Rotation-Conversion with application to Fast Radio Bursts](https://arxiv.org/abs/1902.01485)
@@ -47,3 +45,6 @@
 * [GBTrans: A commensal search for radio pulses with the Green Bank twenty metre telescope](https://arxiv.org/abs/1905.00980)
 
 * [Probing cosmic anisotropy with GW/FRB as upgraded standard sirens](https://arxiv.org/abs/1905.01803)
+
+* [Cosmic Anisotropy and Fast Radio Bursts](https://arxiv.org/abs/1902.03580)
+
