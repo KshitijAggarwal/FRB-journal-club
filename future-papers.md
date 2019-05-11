@@ -48,3 +48,8 @@
 
 * [Cosmic Anisotropy and Fast Radio Bursts](https://arxiv.org/abs/1902.03580)
 
+* [How bright are fast optical bursts associated with fast radio bursts?](https://arxiv.org/abs/1905.02429)
+
+* [Five new real-time detections of Fast Radio Bursts with UTMOST](https://arxiv.org/abs/1905.02293)
+
+* [The UTMOST Survey for Magnetars, Intermittent pulsars, RRATs and FRBs I: System description and overview](https://arxiv.org/abs/1905.02415)
