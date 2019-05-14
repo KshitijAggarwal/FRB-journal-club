@@ -53,3 +53,5 @@
 * [Five new real-time detections of Fast Radio Bursts with UTMOST](https://arxiv.org/abs/1905.02293)
 
 * [The UTMOST Survey for Magnetars, Intermittent pulsars, RRATs and FRBs I: System description and overview](https://arxiv.org/abs/1905.02415)
+
+* [Fruitbat: A Python Package for Estimating Redshifts of Fast Radio Bursts](https://arxiv.org/abs/1905.04294)
