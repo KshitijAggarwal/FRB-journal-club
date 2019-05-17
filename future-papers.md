@@ -55,3 +55,7 @@
 * [The UTMOST Survey for Magnetars, Intermittent pulsars, RRATs and FRBs I: System description and overview](https://arxiv.org/abs/1905.02415)
 
 * [Fruitbat: A Python Package for Estimating Redshifts of Fast Radio Bursts](https://arxiv.org/abs/1905.04294)
+
+* [Recent VLBI Results on SN 1986J and the Possibility of FRBs Originating from Inside the Expanding Ejecta of Supernovae](https://arxiv.org/abs/1905.06690)
+
+* [A Search for High-Energy Counterparts to Fast Radio Bursts](https://arxiv.org/abs/1905.06818)
