@@ -59,3 +59,5 @@
 * [Recent VLBI Results on SN 1986J and the Possibility of FRBs Originating from Inside the Expanding Ejecta of Supernovae](https://arxiv.org/abs/1905.06690)
 
 * [A Search for High-Energy Counterparts to Fast Radio Bursts](https://arxiv.org/abs/1905.06818)
+
+* [Fast Radio Burst Cosmology and HIRAX](https://arxiv.org/abs/1905.07132)
