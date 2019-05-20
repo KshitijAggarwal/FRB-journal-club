@@ -61,3 +61,5 @@
 * [A Search for High-Energy Counterparts to Fast Radio Bursts](https://arxiv.org/abs/1905.06818)
 
 * [Fast Radio Burst Cosmology and HIRAX](https://arxiv.org/abs/1905.07132)
+
+* [Algorithms for FFT Beamforming Radio Interferometers](https://arxiv.org/abs/1710.08591)
