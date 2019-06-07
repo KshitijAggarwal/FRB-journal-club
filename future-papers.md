@@ -63,3 +63,5 @@
 * [Fast Radio Burst Cosmology and HIRAX](https://arxiv.org/abs/1905.07132)
 
 * [Algorithms for FFT Beamforming Radio Interferometers](https://arxiv.org/abs/1710.08591)
+
+* [Probing Dynamics of Boson Stars by Fast Radio Bursts and Gravitational Wave Detection](https://arxiv.org/abs/1906.02094)
