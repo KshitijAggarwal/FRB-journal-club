@@ -67,3 +67,5 @@
 * [Probing Dynamics of Boson Stars by Fast Radio Bursts and Gravitational Wave Detection](https://arxiv.org/abs/1906.02094)
 
 * [Energy function, formation rate and low-metallicity environment of fast radio bursts](https://arxiv.org/abs/1906.01176)
+
+* [Fast Radio Bursts: An Extragalactic Enigma](https://arxiv.org/abs/1906.05878)
