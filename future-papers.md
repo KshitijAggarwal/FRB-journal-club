@@ -69,3 +69,7 @@
 * [Energy function, formation rate and low-metallicity environment of fast radio bursts](https://arxiv.org/abs/1906.01176)
 
 * [Fast Radio Bursts: An Extragalactic Enigma](https://arxiv.org/abs/1906.05878)
+
+* [DSA-10: A Prototype Array for Localizing Fast Radio Bursts](https://arxiv.org/abs/1906.08699)
+
+* [The FRB 121102 host is atypical among nearby FRBs](https://arxiv.org/abs/1906.08749)
