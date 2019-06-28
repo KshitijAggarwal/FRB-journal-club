@@ -77,3 +77,5 @@
 * [CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102](https://arxiv.org/abs/1906.11305)
 
 * [A single fast radio burst localized to a massive galaxy at cosmological distance](https://arxiv.org/abs/1906.11476)
+
+* [Commensal discovery of four Fast Radio Bursts during Parkes Pulsar Timing Array observations](https://arxiv.org/abs/1906.09793)
