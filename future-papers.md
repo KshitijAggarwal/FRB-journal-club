@@ -79,3 +79,7 @@
 * [A single fast radio burst localized to a massive galaxy at cosmological distance](https://arxiv.org/abs/1906.11476)
 
 * [Commensal discovery of four Fast Radio Bursts during Parkes Pulsar Timing Array observations](https://arxiv.org/abs/1906.09793)
+
+* [A Quark-Nova in the wake of a core-collapse Supernova: a unifying model for long duration Gamma-Ray Bursts and Fast Radio Bursts](https://arxiv.org/abs/1906.09559)
+
+* [A Search of TESS Full Frame Images for a Simultaneous Optical Counterpart to FRB181228](https://arxiv.org/abs/1906.09673)
