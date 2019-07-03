@@ -83,3 +83,9 @@
 * [A Quark-Nova in the wake of a core-collapse Supernova: a unifying model for long duration Gamma-Ray Bursts and Fast Radio Bursts](https://arxiv.org/abs/1906.09559)
 
 * [A Search of TESS Full Frame Images for a Simultaneous Optical Counterpart to FRB181228](https://arxiv.org/abs/1906.09673)
+
+* [Fast Radio Bursts from Magnetars Born in Binary Neutron Star Mergers and Accretion Induced Collapse](https://arxiv.org/abs/1907.00016)
+
+* [Limits on the Weak Equivalence Principle and Photon Mass with FRB 121102 Sub-pulses](https://arxiv.org/abs/1907.00583)
+
+* [A fast radio burst localised to a massive galaxy](https://ui.adsabs.harvard.edu/abs/2019arXiv190701542R/abstract)
