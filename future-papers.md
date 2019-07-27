@@ -62,9 +62,9 @@
 
 * [Fast Radio Burst Cosmology and HIRAX](https://arxiv.org/abs/1905.07132)
 
-* [Algorithms for FFT Beamforming Radio Interferometers](https://arxiv.org/abs/1710.08591)
+* [.Algorithms for FFT Beamforming Radio Interferometers](https://arxiv.org/abs/1710.08591)
 
-* [Probing Dynamics of Boson Stars by Fast Radio Bursts and Gravitational Wave Detection](https://arxiv.org/abs/1906.02094)
+* [.Probing Dynamics of Boson Stars by Fast Radio Bursts and Gravitational Wave Detection](https://arxiv.org/abs/1906.02094)
 
 * [Energy function, formation rate and low-metallicity environment of fast radio bursts](https://arxiv.org/abs/1906.01176)
 
@@ -76,16 +76,18 @@
 
 * [CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102](https://arxiv.org/abs/1906.11305)
 
-* [A single fast radio burst localized to a massive galaxy at cosmological distance](https://arxiv.org/abs/1906.11476)
+* [.A single fast radio burst localized to a massive galaxy at cosmological distance](https://arxiv.org/abs/1906.11476)
 
-* [Commensal discovery of four Fast Radio Bursts during Parkes Pulsar Timing Array observations](https://arxiv.org/abs/1906.09793)
+* [.Commensal discovery of four Fast Radio Bursts during Parkes Pulsar Timing Array observations](https://arxiv.org/abs/1906.09793)
 
-* [A Quark-Nova in the wake of a core-collapse Supernova: a unifying model for long duration Gamma-Ray Bursts and Fast Radio Bursts](https://arxiv.org/abs/1906.09559)
+* [.A Quark-Nova in the wake of a core-collapse Supernova: a unifying model for long duration Gamma-Ray Bursts and Fast Radio Bursts](https://arxiv.org/abs/1906.09559)
 
 * [A Search of TESS Full Frame Images for a Simultaneous Optical Counterpart to FRB181228](https://arxiv.org/abs/1906.09673)
 
-* [Fast Radio Bursts from Magnetars Born in Binary Neutron Star Mergers and Accretion Induced Collapse](https://arxiv.org/abs/1907.00016)
+* [.Fast Radio Bursts from Magnetars Born in Binary Neutron Star Mergers and Accretion Induced Collapse](https://arxiv.org/abs/1907.00016)
 
-* [Limits on the Weak Equivalence Principle and Photon Mass with FRB 121102 Sub-pulses](https://arxiv.org/abs/1907.00583)
+* [.Limits on the Weak Equivalence Principle and Photon Mass with FRB 121102 Sub-pulses](https://arxiv.org/abs/1907.00583)
 
-* [A fast radio burst localised to a massive galaxy](https://ui.adsabs.harvard.edu/abs/2019arXiv190701542R/abstract)
+* [.A fast radio burst localised to a massive galaxy](https://ui.adsabs.harvard.edu/abs/2019arXiv190701542R/abstract)
+
+* [.A search for gamma-ray prompt emission associated with the Lorimer Burst FRB010724](https://arxiv.org/abs/1907.08386)
