@@ -91,3 +91,5 @@
 * [.A fast radio burst localised to a massive galaxy](https://ui.adsabs.harvard.edu/abs/2019arXiv190701542R/abstract)
 
 * [.A search for gamma-ray prompt emission associated with the Lorimer Burst FRB010724](https://arxiv.org/abs/1907.08386)
+
+* [.The prevalence of repeating fast radio bursts](https://arxiv.org/abs/1907.06619)
