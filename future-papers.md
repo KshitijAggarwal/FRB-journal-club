@@ -76,7 +76,7 @@
 
 * [CHIME/FRB Detection of the Original Repeating Fast Radio Burst Source FRB 121102](https://arxiv.org/abs/1906.11305)
 
-* [.A single fast radio burst localized to a massive galaxy at cosmological distance](https://arxiv.org/abs/1906.11476)
+* [A single fast radio burst localized to a massive galaxy at cosmological distance](https://arxiv.org/abs/1906.11476)
 
 * [.Commensal discovery of four Fast Radio Bursts during Parkes Pulsar Timing Array observations](https://arxiv.org/abs/1906.09793)
 
@@ -88,8 +88,16 @@
 
 * [.Limits on the Weak Equivalence Principle and Photon Mass with FRB 121102 Sub-pulses](https://arxiv.org/abs/1907.00583)
 
-* [.A fast radio burst localised to a massive galaxy](https://ui.adsabs.harvard.edu/abs/2019arXiv190701542R/abstract)
+* [A fast radio burst localised to a massive galaxy](https://ui.adsabs.harvard.edu/abs/2019arXiv190701542R/abstract)
 
 * [.A search for gamma-ray prompt emission associated with the Lorimer Burst FRB010724](https://arxiv.org/abs/1907.08386)
 
 * [.The prevalence of repeating fast radio bursts](https://arxiv.org/abs/1907.06619)
+
+* [Piggyback search for fast radio bursts using Nanshan 26m and Kunming 40m radio telescopes -- I. Observing and data analysis systems, discovery of a mysterious peryton](https://arxiv.org/abs/1907.13056)
+
+* [.Fast radio bursts and their associated nebulae or afterglows](https://arxiv.org/abs/1907.12473)
+
+* [.Constraining FRB progenitors from flux distribution](https://arxiv.org/abs/1907.11992)
+
+* [Luminosity-duration relation of fast radio bursts](https://arxiv.org/abs/1907.11730)
