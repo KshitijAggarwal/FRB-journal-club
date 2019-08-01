@@ -96,8 +96,8 @@
 
 * [Piggyback search for fast radio bursts using Nanshan 26m and Kunming 40m radio telescopes -- I. Observing and data analysis systems, discovery of a mysterious peryton](https://arxiv.org/abs/1907.13056)
 
-* [.Fast radio bursts and their associated nebulae or afterglows](https://arxiv.org/abs/1907.12473)
+* [Fast radio bursts and their associated nebulae or afterglows](https://arxiv.org/abs/1907.12473)
 
-* [.Constraining FRB progenitors from flux distribution](https://arxiv.org/abs/1907.11992)
+* [Constraining FRB progenitors from flux distribution](https://arxiv.org/abs/1907.11992)
 
 * [Luminosity-duration relation of fast radio bursts](https://arxiv.org/abs/1907.11730)
