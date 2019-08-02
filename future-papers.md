@@ -78,7 +78,7 @@
 
 * [A single fast radio burst localized to a massive galaxy at cosmological distance](https://arxiv.org/abs/1906.11476)
 
-* [.Commensal discovery of four Fast Radio Bursts during Parkes Pulsar Timing Array observations](https://arxiv.org/abs/1906.09793)
+* [Commensal discovery of four Fast Radio Bursts during Parkes Pulsar Timing Array observations](https://arxiv.org/abs/1906.09793)
 
 * [.A Quark-Nova in the wake of a core-collapse Supernova: a unifying model for long duration Gamma-Ray Bursts and Fast Radio Bursts](https://arxiv.org/abs/1906.09559)
 
@@ -86,7 +86,7 @@
 
 * [.Fast Radio Bursts from Magnetars Born in Binary Neutron Star Mergers and Accretion Induced Collapse](https://arxiv.org/abs/1907.00016)
 
-* [.Limits on the Weak Equivalence Principle and Photon Mass with FRB 121102 Sub-pulses](https://arxiv.org/abs/1907.00583)
+* [Limits on the Weak Equivalence Principle and Photon Mass with FRB 121102 Sub-pulses](https://arxiv.org/abs/1907.00583)
 
 * [A fast radio burst localised to a massive galaxy](https://ui.adsabs.harvard.edu/abs/2019arXiv190701542R/abstract)
 
@@ -101,3 +101,13 @@
 * [Constraining FRB progenitors from flux distribution](https://arxiv.org/abs/1907.11992)
 
 * [Luminosity-duration relation of fast radio bursts](https://arxiv.org/abs/1907.11730)
+
+* [Testing weak equivalence principle, swampland and H0 tension with fast single radio bursts FRB 180924 and FRB 190523](https://arxiv.org/abs/1907.02838)
+
+* [.Fast Radio Burst dispersion measures and rotation measures and the origin of intergalactic magnetic fields](https://arxiv.org/abs/1907.09650)
+
+* [.Constraining the Evolution of the Baryon Fraction in the IGM with FRB and H(z) data](https://arxiv.org/abs/1907.09772)
+
+* [Young magnetars with fracturing crusts as fast radio burst repeaters](https://arxiv.org/abs/1907.10394)
+
+* [Prospects of strongly lensed repeating fast radio bursts: complementary constraints on dark energy evolution](https://arxiv.org/abs/1907.10488)
