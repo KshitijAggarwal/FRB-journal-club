@@ -108,6 +108,8 @@
 
 * [.Constraining the Evolution of the Baryon Fraction in the IGM with FRB and H(z) data](https://arxiv.org/abs/1907.09772)
 
-* [Young magnetars with fracturing crusts as fast radio burst repeaters](https://arxiv.org/abs/1907.10394)
+* [.Young magnetars with fracturing crusts as fast radio burst repeaters](https://arxiv.org/abs/1907.10394)
 
-* [Prospects of strongly lensed repeating fast radio bursts: complementary constraints on dark energy evolution](https://arxiv.org/abs/1907.10488)
+* [.Prospects of strongly lensed repeating fast radio bursts: complementary constraints on dark energy evolution](https://arxiv.org/abs/1907.10488)
+
+* [A 21 cm pilot survey for pulsars and transients using the Focal L-Band Array for the Green Bank Telescope](https://arxiv.org/abs/1908.02690)
