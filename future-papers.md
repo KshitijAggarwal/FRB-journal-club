@@ -113,3 +113,7 @@
 * [.Prospects of strongly lensed repeating fast radio bursts: complementary constraints on dark energy evolution](https://arxiv.org/abs/1907.10488)
 
 * [A 21 cm pilot survey for pulsars and transients using the Focal L-Band Array for the Green Bank Telescope](https://arxiv.org/abs/1908.02690)
+
+* [Distinct properties of the radio burst emission from the magnetar XTE J1810-197](https://arxiv.org/abs/1908.04304)
+
+* [CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources](https://arxiv.org/abs/1908.03507)
