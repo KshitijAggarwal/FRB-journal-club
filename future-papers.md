@@ -117,3 +117,5 @@
 * [Distinct properties of the radio burst emission from the magnetar XTE J1810-197](https://arxiv.org/abs/1908.04304)
 
 * [CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources](https://arxiv.org/abs/1908.03507)
+
+* [Fast Radio Burst Injection Tests](https://arxiv.org/abs/1907.07948)
