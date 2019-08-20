@@ -2,6 +2,14 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>19 August</h2>
+
+1. [A 21 cm pilot survey for pulsars and transients using the Focal L-Band Array for the Green Bank Telescope](https://arxiv.org/abs/1908.02690): Presented by Devansh Agarwal
+
+2. [CHIME/FRB Detection of Eight New Repeating Fast Radio Burst Sources](https://arxiv.org/abs/1908.03507): Presented by Kshitij Aggarwal
+
+3. [Fast Radio Burst Injection Tests](https://arxiv.org/abs/1907.07948): Presented by Kshitij Aggarwal
+
 <h2>18 April</h2>
 
 1. [Fast Radio Burst Tomography of the Unseen Universe](https://arxiv.org/abs/1903.06535): Presented by Joseph Kania
