@@ -115,3 +115,9 @@
 * [Distinct properties of the radio burst emission from the magnetar XTE J1810-197](https://arxiv.org/abs/1908.04304)
 
 * [VERITAS Observations of Fast Radio Bursts](https://arxiv.org/abs/1908.06471)
+
+* [Searching for optical and VHE counterparts of fast radio bursts with MAGIC](https://arxiv.org/abs/1908.07506)
+
+* [.Blast Waves from Magnetar Flares and Fast Radio Bursts](https://arxiv.org/abs/1908.07743) 
+
+* [.Frequency drifts in FRBs due to radius-to-frequency mapping in magnetospheres of neutron stars](https://arxiv.org/abs/1908.07313) and [Coherence constraints on physical parameters at bright radio sources and FRB emission mechanism](https://arxiv.org/abs/1901.03260)
