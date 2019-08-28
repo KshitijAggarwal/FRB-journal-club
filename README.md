@@ -2,6 +2,13 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>26 August</h2>
+
+1. [VERITAS Observations of Fast Radio Bursts](https://arxiv.org/abs/1908.06471): Presented by Devansh Agarwal 
+
+2. [Luminosity-duration relation of fast radio bursts](https://arxiv.org/abs/1907.11730): Presented by Devansh Agarwal
+
+
 <h2>19 August</h2>
 
 1. [A 21 cm pilot survey for pulsars and transients using the Focal L-Band Array for the Green Bank Telescope](https://arxiv.org/abs/1908.02690): Presented by Devansh Agarwal
