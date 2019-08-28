@@ -100,8 +100,6 @@
 
 * [Constraining FRB progenitors from flux distribution](https://arxiv.org/abs/1907.11992)
 
-* [Luminosity-duration relation of fast radio bursts](https://arxiv.org/abs/1907.11730)
-
 * [Testing weak equivalence principle, swampland and H0 tension with fast single radio bursts FRB 180924 and FRB 190523](https://arxiv.org/abs/1907.02838)
 
 * [.Fast Radio Burst dispersion measures and rotation measures and the origin of intergalactic magnetic fields](https://arxiv.org/abs/1907.09650)
@@ -114,10 +112,14 @@
 
 * [Distinct properties of the radio burst emission from the magnetar XTE J1810-197](https://arxiv.org/abs/1908.04304)
 
-* [VERITAS Observations of Fast Radio Bursts](https://arxiv.org/abs/1908.06471)
-
 * [Searching for optical and VHE counterparts of fast radio bursts with MAGIC](https://arxiv.org/abs/1908.07506)
 
 * [.Blast Waves from Magnetar Flares and Fast Radio Bursts](https://arxiv.org/abs/1908.07743) 
 
 * [.Frequency drifts in FRBs due to radius-to-frequency mapping in magnetospheres of neutron stars](https://arxiv.org/abs/1908.07313) and [Coherence constraints on physical parameters at bright radio sources and FRB emission mechanism](https://arxiv.org/abs/1901.03260)
+
+* [Faint repetitions from a bright Fast Radio Burst source](https://arxiv.org/abs/1908.10026)
+
+* [Non-detection of fast radio bursts from six gamma-ray burst remnants with possible magnetar engines](https://arxiv.org/abs/1908.10222)
+
+* [A Search for MeV to TeV Neutrinos from Fast Radio Bursts with IceCube](https://arxiv.org/abs/1908.09997)
