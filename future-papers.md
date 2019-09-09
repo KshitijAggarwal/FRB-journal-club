@@ -123,3 +123,16 @@
 * [Non-detection of fast radio bursts from six gamma-ray burst remnants with possible magnetar engines](https://arxiv.org/abs/1908.10222)
 
 * [A Search for MeV to TeV Neutrinos from Fast Radio Bursts with IceCube](https://arxiv.org/abs/1908.09997)
+
+* [Periodic Fast Radio Bursts from Young Neutron Stars](https://arxiv.org/abs/1909.00004)
+
+* [Searches for neutrinos from fast radio bursts with IceCube](https://arxiv.org/abs/1909.00078)
+
+* [Looking for fast optical bursts from FRB121102: case study for a small telescopes with sub-second temporal resolution](https://arxiv.org/abs/1909.00476)
+
+* [The Galactic Halo Contribution to the Dispersion Measure of Extragalactic Fast Radio Bursts](https://arxiv.org/abs/1909.00849)
+
+* [The Integrated Pulse Profiles of Fast Radio Bursts](https://arxiv.org/abs/1909.01612)
+
+* [Probing Diffuse Gas with Fast Radio Bursts](https://arxiv.org/abs/1909.02821)
+
