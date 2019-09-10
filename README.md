@@ -2,6 +2,13 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>9 September</h2>
+
+1. [How bright are fast optical bursts associated with fast radio bursts?](https://arxiv.org/abs/1905.02429): Presented by Greg Walsh
+
+2. [On the Use of Fast Radio Burst Dispersion Measures as Distance Measures](https://arxiv.org/abs/1903.08175): Presented by Greg Walsh
+
+
 <h2>26 August</h2>
 
 1. [VERITAS Observations of Fast Radio Bursts](https://arxiv.org/abs/1908.06471): Presented by Devansh Agarwal 
