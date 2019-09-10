@@ -22,8 +22,6 @@
 
 * [A Survey of the Galactic Plane for Dispersed Pulses with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/1903.04694)
 
-* [On the Use of Fast Radio Burst Dispersion Measures as Distance Measures](https://arxiv.org/abs/1903.08175)
-
 * [Constraining the Fast Radio Burst (FRB) properties using the detections at Parkes, ASKAP and CHIME](https://arxiv.org/abs/1903.12404)
 
 * [Cosmology-independent estimate of the fraction of baryon mass in the IGM from fast radio burst observations](https://arxiv.org/abs/1904.08927)
@@ -47,8 +45,6 @@
 * [Probing cosmic anisotropy with GW/FRB as upgraded standard sirens](https://arxiv.org/abs/1905.01803)
 
 * [Cosmic Anisotropy and Fast Radio Bursts](https://arxiv.org/abs/1902.03580)
-
-* [How bright are fast optical bursts associated with fast radio bursts?](https://arxiv.org/abs/1905.02429)
 
 * [Five new real-time detections of Fast Radio Bursts with UTMOST](https://arxiv.org/abs/1905.02293)
 
@@ -135,4 +131,3 @@
 * [The Integrated Pulse Profiles of Fast Radio Bursts](https://arxiv.org/abs/1909.01612)
 
 * [Probing Diffuse Gas with Fast Radio Bursts](https://arxiv.org/abs/1909.02821)
-
