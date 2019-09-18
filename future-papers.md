@@ -135,3 +135,5 @@
 * [A fast radio burst in the direction of the Virgo cluster](https://arxiv.org/abs/1909.05779)
 
 * [A cumulative search for hard X/γ-Ray emission associated with fast radio bursts in Fermi/GBM data](https://arxiv.org/abs/1909.07165)
+
+* [A search for short-term hard X-ray bursts in the direction of the repeating FRB 121102](https://arxiv.org/abs/1909.07626)
