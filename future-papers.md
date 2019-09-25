@@ -139,3 +139,5 @@
 * [A search for short-term hard X-ray bursts in the direction of the repeating FRB 121102](https://arxiv.org/abs/1909.07626)
 
 * [Radius-to-frequency mapping and FRB frequency drifts](https://arxiv.org/abs/1909.10409)
+
+* [FRB 171019: An event of binary neutron star merger?](https://arxiv.org/abs/1909.10961)
