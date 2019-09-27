@@ -141,3 +141,7 @@
 * [Radius-to-frequency mapping and FRB frequency drifts](https://arxiv.org/abs/1909.10409)
 
 * [FRB 171019: An event of binary neutron star merger?](https://arxiv.org/abs/1909.10961)
+
+* [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681)
+
+* [A Deep Targeted Search for Fast Radio Bursts from the Sites of Low-Redshift Short Gamma-Ray Bursts](https://arxiv.org/abs/1909.11682)
