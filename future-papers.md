@@ -145,3 +145,9 @@
 * [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681)
 
 * [A Deep Targeted Search for Fast Radio Bursts from the Sites of Low-Redshift Short Gamma-Ray Bursts](https://arxiv.org/abs/1909.11682)
+
+* [The Fast Radio Burst Luminosity Function and Death Line in the Low-Twist Magnetar Model](https://arxiv.org/abs/1910.06979)
+
+* [Single Pulse Detection Algorithms for Real-time Fast Radio Burst Searches using GPUs](https://arxiv.org/abs/1910.08324)
+
+* [Synthesizing the intrinsic FRB population using frbpoppy](https://arxiv.org/abs/1910.08365)
