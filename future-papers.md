@@ -132,8 +132,6 @@
 
 * [Probing Diffuse Gas with Fast Radio Bursts](https://arxiv.org/abs/1909.02821)
 
-* [A fast radio burst in the direction of the Virgo cluster](https://arxiv.org/abs/1909.05779)
-
 * [A cumulative search for hard X/γ-Ray emission associated with fast radio bursts in Fermi/GBM data](https://arxiv.org/abs/1909.07165)
 
 * [A search for short-term hard X-ray bursts in the direction of the repeating FRB 121102](https://arxiv.org/abs/1909.07626)
@@ -144,10 +142,7 @@
 
 * [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681)
 
-* [A Deep Targeted Search for Fast Radio Bursts from the Sites of Low-Redshift Short Gamma-Ray Bursts](https://arxiv.org/abs/1909.11682)
-
 * [The Fast Radio Burst Luminosity Function and Death Line in the Low-Twist Magnetar Model](https://arxiv.org/abs/1910.06979)
 
 * [Single Pulse Detection Algorithms for Real-time Fast Radio Burst Searches using GPUs](https://arxiv.org/abs/1910.08324)
 
-* [Synthesizing the intrinsic FRB population using frbpoppy](https://arxiv.org/abs/1910.08365)
