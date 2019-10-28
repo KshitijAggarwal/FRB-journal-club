@@ -2,6 +2,23 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+
+<h2>28 October</h2>
+
+1. [A fast radio burst in the direction of the Virgo cluster](https://arxiv.org/abs/1909.05779): Presented by Devansh Agarwal
+2. [Enhanced Rates of Fast Radio Bursts from Galaxy Clusters](https://ui.adsabs.harvard.edu/abs/2018ApJ...863..132F/abstract): Presented by Devansh Agarwal
+
+
+
+<h2>21 October</h2>
+
+1. [Synthesizing the intrinsic FRB population using frbpoppy](https://arxiv.org/abs/1910.08365): Presented by Kshitij Aggarwal
+
+Other papers discussed:
+* [A Deep Targeted Search for Fast Radio Bursts from the Sites of Low-Redshift Short Gamma-Ray Bursts](https://arxiv.org/abs/1909.11682)
+ 
+
+
 <h2>9 September</h2>
 
 1. [How bright are fast optical bursts associated with fast radio bursts?](https://arxiv.org/abs/1905.02429): Presented by Greg Walsh
