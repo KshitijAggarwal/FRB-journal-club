@@ -2,6 +2,12 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>4 November</h2>
+
+1. [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681): Presented by Joseph Kania
+2. [GBTrans: A commensal search for radio pulses with the Green Bank twenty metre telescope](https://arxiv.org/abs/1905.00980): Presented by Devansh Agarwal
+3. [Single Pulse Detection Algorithms for Real-time Fast Radio Burst Searches using GPUs](https://arxiv.org/abs/1910.08324): Presented by Kshitij Aggarwal
+
 
 <h2>28 October</h2>
 
