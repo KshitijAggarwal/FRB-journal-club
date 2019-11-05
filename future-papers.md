@@ -140,4 +140,6 @@
 
 * [The Fast Radio Burst Luminosity Function and Death Line in the Low-Twist Magnetar Model](https://arxiv.org/abs/1910.06979)
 
+* [Statistical properties magnetar bursts and FRB 121102](https://arxiv.org/abs/1910.14201)
 
+* [Prompt X-ray emission from Fast Radio Bursts --- Upper limits with AstroSat](https://arxiv.org/abs/1911.00537)
