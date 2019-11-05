@@ -40,8 +40,6 @@
 
 * [A Real-Time, All-Sky, High Time Resolution, Direct Imager for the Long Wavelength Array](https://arxiv.org/abs/1904.11422)
 
-* [GBTrans: A commensal search for radio pulses with the Green Bank twenty metre telescope](https://arxiv.org/abs/1905.00980)
-
 * [Probing cosmic anisotropy with GW/FRB as upgraded standard sirens](https://arxiv.org/abs/1905.01803)
 
 * [Cosmic Anisotropy and Fast Radio Bursts](https://arxiv.org/abs/1902.03580)
@@ -126,8 +124,6 @@
 
 * [Looking for fast optical bursts from FRB121102: case study for a small telescopes with sub-second temporal resolution](https://arxiv.org/abs/1909.00476)
 
-* [The Galactic Halo Contribution to the Dispersion Measure of Extragalactic Fast Radio Bursts](https://arxiv.org/abs/1909.00849)
-
 * [The Integrated Pulse Profiles of Fast Radio Bursts](https://arxiv.org/abs/1909.01612)
 
 * [Probing Diffuse Gas with Fast Radio Bursts](https://arxiv.org/abs/1909.02821)
@@ -140,9 +136,8 @@
 
 * [FRB 171019: An event of binary neutron star merger?](https://arxiv.org/abs/1909.10961)
 
-* [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681)
+* [The Galactic Halo Contribution to the Dispersion Measure of Extragalactic Fast Radio Bursts](https://arxiv.org/abs/1909.00849)
 
 * [The Fast Radio Burst Luminosity Function and Death Line in the Low-Twist Magnetar Model](https://arxiv.org/abs/1910.06979)
 
-* [Single Pulse Detection Algorithms for Real-time Fast Radio Burst Searches using GPUs](https://arxiv.org/abs/1910.08324)
 
