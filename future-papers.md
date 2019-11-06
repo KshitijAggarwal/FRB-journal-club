@@ -143,3 +143,5 @@
 * [Statistical properties magnetar bursts and FRB 121102](https://arxiv.org/abs/1910.14201)
 
 * [Prompt X-ray emission from Fast Radio Bursts --- Upper limits with AstroSat](https://arxiv.org/abs/1911.00537)
+
+* [LRP 2020 Whitepaper: The Canadian Hydrogen Observatory and Radio-transient Detector (CHORD)](https://arxiv.org/abs/1911.01777)
