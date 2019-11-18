@@ -2,6 +2,17 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>18 November</h2>
+
+1. [Statistical properties magnetar bursts and FRB 121102](https://arxiv.org/abs/1910.14201): Presented by Kshitij Aggarwal
+
+2. [FRB 171019: An event of binary neutron star merger?](https://arxiv.org/abs/1909.10961): Presented by Kshitij Aggarwal
+
+Other papers discussed: 
+
+* [LRP 2020 Whitepaper: The Canadian Hydrogen Observatory and Radio-transient Detector (CHORD)](https://arxiv.org/abs/1911.01777)
+
+
 <h2>4 November</h2>
 
 1. [The low density and magnetization of a massive galaxy halo exposed by a fast radio burst](https://arxiv.org/abs/1909.11681): Presented by Joseph Kania
