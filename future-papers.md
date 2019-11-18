@@ -134,14 +134,9 @@
 
 * [Radius-to-frequency mapping and FRB frequency drifts](https://arxiv.org/abs/1909.10409)
 
-* [FRB 171019: An event of binary neutron star merger?](https://arxiv.org/abs/1909.10961)
-
 * [The Galactic Halo Contribution to the Dispersion Measure of Extragalactic Fast Radio Bursts](https://arxiv.org/abs/1909.00849)
 
 * [The Fast Radio Burst Luminosity Function and Death Line in the Low-Twist Magnetar Model](https://arxiv.org/abs/1910.06979)
 
-* [Statistical properties magnetar bursts and FRB 121102](https://arxiv.org/abs/1910.14201)
-
 * [Prompt X-ray emission from Fast Radio Bursts --- Upper limits with AstroSat](https://arxiv.org/abs/1911.00537)
 
-* [LRP 2020 Whitepaper: The Canadian Hydrogen Observatory and Radio-transient Detector (CHORD)](https://arxiv.org/abs/1911.01777)
