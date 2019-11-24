@@ -140,3 +140,4 @@
 
 * [Prompt X-ray emission from Fast Radio Bursts --- Upper limits with AstroSat](https://arxiv.org/abs/1911.00537)
 
+* [Constraints on the Engines of Fast Radio Bursts](https://arxiv.org/abs/1911.05765)
