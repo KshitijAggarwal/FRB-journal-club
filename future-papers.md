@@ -141,3 +141,5 @@
 * [Prompt X-ray emission from Fast Radio Bursts --- Upper limits with AstroSat](https://arxiv.org/abs/1911.00537)
 
 * [Constraints on the Engines of Fast Radio Bursts](https://arxiv.org/abs/1911.05765)
+
+* [AGILE Observations of Two Repeating Fast Radio Bursts with Small Intrinsic Dispersion Measure](https://arxiv.org/abs/1911.10189)
