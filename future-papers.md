@@ -143,3 +143,5 @@
 * [Constraints on the Engines of Fast Radio Bursts](https://arxiv.org/abs/1911.05765)
 
 * [AGILE Observations of Two Repeating Fast Radio Bursts with Small Intrinsic Dispersion Measure](https://arxiv.org/abs/1911.10189)
+
+* [A LOFAR radio search for single and periodic pulses from M31](https://arxiv.org/abs/1911.11228)
