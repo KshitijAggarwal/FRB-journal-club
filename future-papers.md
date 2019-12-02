@@ -145,3 +145,5 @@
 * [AGILE Observations of Two Repeating Fast Radio Bursts with Small Intrinsic Dispersion Measure](https://arxiv.org/abs/1911.10189)
 
 * [A LOFAR radio search for single and periodic pulses from M31](https://arxiv.org/abs/1911.11228)
+
+* [Emission from a Pulsar Wind Nebula: Application to the Persistent Radio Counterpart of FRB 121102](https://arxiv.org/abs/1911.12833)
