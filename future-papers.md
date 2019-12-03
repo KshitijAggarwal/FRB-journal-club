@@ -138,12 +138,8 @@
 
 * [The Fast Radio Burst Luminosity Function and Death Line in the Low-Twist Magnetar Model](https://arxiv.org/abs/1910.06979)
 
-* [Prompt X-ray emission from Fast Radio Bursts --- Upper limits with AstroSat](https://arxiv.org/abs/1911.00537)
-
 * [Constraints on the Engines of Fast Radio Bursts](https://arxiv.org/abs/1911.05765)
 
-* [AGILE Observations of Two Repeating Fast Radio Bursts with Small Intrinsic Dispersion Measure](https://arxiv.org/abs/1911.10189)
+* [Search for Fast Radio Bursts in the Direction of the Galaxies M31 and M33](https://arxiv.org/abs/1912.00179)
 
-* [A LOFAR radio search for single and periodic pulses from M31](https://arxiv.org/abs/1911.11228)
-
-* [Emission from a Pulsar Wind Nebula: Application to the Persistent Radio Counterpart of FRB 121102](https://arxiv.org/abs/1911.12833)
+* [Fast Radio Bursts Not Made By Neutron Stars](https://arxiv.org/abs/1912.00526)
