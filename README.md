@@ -2,6 +2,21 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>2 December</h2>
+
+Papers discussed:
+
+* [Prompt X-ray emission from Fast Radio Bursts --- Upper limits with AstroSat](https://arxiv.org/abs/1911.00537)
+
+* [AGILE Observations of Two Repeating Fast Radio Bursts with Small Intrinsic Dispersion Measure](https://arxiv.org/abs/1911.10189)
+
+* [A LOFAR radio search for single and periodic pulses from M31](https://arxiv.org/abs/1911.11228)
+
+* [Emission from a Pulsar Wind Nebula: Application to the Persistent Radio Counterpart of FRB 121102](https://arxiv.org/abs/1911.12833)
+
+
+
+
 <h2>18 November</h2>
 
 1. [Statistical properties magnetar bursts and FRB 121102](https://arxiv.org/abs/1910.14201): Presented by Kshitij Aggarwal
