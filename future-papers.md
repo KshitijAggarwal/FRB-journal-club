@@ -143,3 +143,5 @@
 * [Search for Fast Radio Bursts in the Direction of the Galaxies M31 and M33](https://arxiv.org/abs/1912.00179)
 
 * [Fast Radio Bursts Not Made By Neutron Stars](https://arxiv.org/abs/1912.00526)
+
+* [Scale-invariance in the repeating fast radio burst 121102](https://arxiv.org/abs/1912.01191)
