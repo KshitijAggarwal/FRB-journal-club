@@ -2,6 +2,17 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>9 December</h2>
+
+Papers discussed:
+
+* [Scale-invariance in the repeating fast radio burst 121102](https://arxiv.org/abs/1912.01191)
+
+* [Search for Fast Radio Bursts in the Direction of the Galaxies M31 and M33](https://arxiv.org/abs/1912.00179)
+
+* [Fast Radio Bursts Not Made By Neutron Stars](https://arxiv.org/abs/1912.00526)
+
+
 <h2>2 December</h2>
 
 Papers discussed:
