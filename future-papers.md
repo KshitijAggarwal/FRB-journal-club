@@ -139,3 +139,13 @@
 * [The Fast Radio Burst Luminosity Function and Death Line in the Low-Twist Magnetar Model](https://arxiv.org/abs/1910.06979)
 
 * [Constraints on the Engines of Fast Radio Bursts](https://arxiv.org/abs/1911.05765)
+
+* [Looking for MACHOs in the Spectra of Fast Radio Bursts](https://arxiv.org/abs/1912.07620)
+
+* [Nonlinear scattering of Fast Radio Bursts](https://arxiv.org/abs/1912.08150)
+
+* [Which bright fast radio bursts repeat?](https://arxiv.org/abs/1912.07847)
+
+* [The Impact of the Environment of White Dwarf Mergers on Fast Radio Bursts](https://arxiv.org/abs/1912.08287)
+
+* [Strong excess Faraday rotation on the Inside of the Sagittarius spiral arm](https://arxiv.org/abs/1911.08536)
