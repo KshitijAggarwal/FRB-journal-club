@@ -149,3 +149,5 @@
 * [The Impact of the Environment of White Dwarf Mergers on Fast Radio Bursts](https://arxiv.org/abs/1912.08287)
 
 * [Strong excess Faraday rotation on the Inside of the Sagittarius spiral arm](https://arxiv.org/abs/1911.08536)
+
+* [Characterizing fast radio bursts through statistical cross-correlations](https://arxiv.org/abs/1912.09520)
