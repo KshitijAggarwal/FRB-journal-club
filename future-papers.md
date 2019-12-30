@@ -151,3 +151,7 @@
 * [Strong excess Faraday rotation on the Inside of the Sagittarius spiral arm](https://arxiv.org/abs/1911.08536)
 
 * [Characterizing fast radio bursts through statistical cross-correlations](https://arxiv.org/abs/1912.09520)
+
+* [Repeating fast radio bursts with WSRT/Apertif](https://arxiv.org/abs/1912.12217)
+
+* [Imprint of local environment on fast radio burst observations](https://arxiv.org/abs/1912.12241)
