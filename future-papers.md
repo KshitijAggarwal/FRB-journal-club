@@ -155,3 +155,7 @@
 * [Repeating fast radio bursts with WSRT/Apertif](https://arxiv.org/abs/1912.12217)
 
 * [Imprint of local environment on fast radio burst observations](https://arxiv.org/abs/1912.12241)
+
+* [Feature Matching Conditional GAN for Fast Radio Burst Localization with Cluster-fed Telescope](https://iopscience.iop.org/article/10.3847/2041-8213/ab595e)
+
+* [Fast Searches for Astronomical Transients Based onFocal-Field Feature Matching](https://ieeexplore.ieee.org/document/8624401)
