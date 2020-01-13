@@ -9,3 +9,5 @@
 * [Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?](https://arxiv.org/abs/2001.02688)
 
 * [Nine New Repeating Fast Radio Burst Sources from CHIME/FRB](https://arxiv.org/abs/2001.03595)
+
+* [Real-Time RFI Mitigation for the Apertif Radio Transient System](https://arxiv.org/abs/2001.03389)
