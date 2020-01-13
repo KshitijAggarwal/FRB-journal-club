@@ -7,3 +7,5 @@
 * [A repeating fast radio burst source localised to a nearby spiral galaxy](https://arxiv.org/abs/2001.02222)
 
 * [Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?](https://arxiv.org/abs/2001.02688)
+
+* [Nine New Repeating Fast Radio Burst Sources from CHIME/FRB](https://arxiv.org/abs/2001.03595)
