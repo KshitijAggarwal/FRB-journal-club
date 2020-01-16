@@ -11,3 +11,5 @@
 * [Nine New Repeating Fast Radio Burst Sources from CHIME/FRB](https://arxiv.org/abs/2001.03595)
 
 * [Real-Time RFI Mitigation for the Apertif Radio Transient System](https://arxiv.org/abs/2001.03389)
+
+* [STARE2: Detecting Fast Radio Bursts in the Milky Way](https://arxiv.org/abs/2001.05077)
