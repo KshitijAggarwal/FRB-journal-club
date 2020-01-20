@@ -13,3 +13,5 @@
 * [Real-Time RFI Mitigation for the Apertif Radio Transient System](https://arxiv.org/abs/2001.03389)
 
 * [STARE2: Detecting Fast Radio Bursts in the Milky Way](https://arxiv.org/abs/2001.05077)
+
+* [A dispersion excess from pulsar wind nebulae and supernova remnants: Implications for pulsars and FRBs](https://arxiv.org/abs/2001.06019)
