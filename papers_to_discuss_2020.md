@@ -17,3 +17,11 @@
 * [A dispersion excess from pulsar wind nebulae and supernova remnants: Implications for pulsars and FRBs](https://arxiv.org/abs/2001.06019)
 
 * [Optimization of Radio Array Telescopes to Search for Fast Radio Bursts](https://arxiv.org/abs/2001.06526)
+
+* [Periodic activity from a fast radio burst source](https://arxiv.org/abs/2001.10275)
+
+* [Stimulated-emission based model of fast radio bursts](https://arxiv.org/abs/2001.10454)
+
+* [Fast radio bursts as strong waves interacting with ambient medium](https://arxiv.org/abs/2001.10758)
+
+* [Possible relation between persistent emission and rotation measure of fast radio bursts](https://arxiv.org/abs/2001.10761)
