@@ -6,6 +6,8 @@
 
 * [Updated constraints on superconducting cosmic strings from the astronomy of fast radio bursts](https://arxiv.org/abs/2001.11149)
 
+* [Detecting Helium Reionization with Fast Radio Bursts](https://arxiv.org/abs/2001.11517)
+
 <h3> Theory </h3>
 
 * [The effects of plasma lensing on the inferred dispersion measures of Fast Radio Bursts](https://arxiv.org/abs/2001.02100)
