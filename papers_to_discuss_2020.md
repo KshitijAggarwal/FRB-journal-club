@@ -1,18 +1,6 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [A repeating fast radio burst source localised to a nearby spiral galaxy](https://arxiv.org/abs/2001.02222)
-
-* [Nine New Repeating Fast Radio Burst Sources from CHIME/FRB](https://arxiv.org/abs/2001.03595)
-
 * [Real-Time RFI Mitigation for the Apertif Radio Transient System](https://arxiv.org/abs/2001.03389)
-
-* [STARE2: Detecting Fast Radio Bursts in the Milky Way](https://arxiv.org/abs/2001.05077)
-
-* [A dispersion excess from pulsar wind nebulae and supernova remnants: Implications for pulsars and FRBs](https://arxiv.org/abs/2001.06019)
-
-* [Optimization of Radio Array Telescopes to Search for Fast Radio Bursts](https://arxiv.org/abs/2001.06526)
-
-* [Periodic activity from a fast radio burst source](https://arxiv.org/abs/2001.10275)
 
 * [Exploring the dispersion measure of the Milky Way halo](https://arxiv.org/abs/2001.11105)
 
@@ -33,3 +21,5 @@
 * [Possible relation between persistent emission and rotation measure of fast radio bursts](https://arxiv.org/abs/2001.10761)
 
 * [Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?](https://arxiv.org/abs/2001.02688)
+
+* [Fast Radio Bursts from Interacting Binary Neutron Star Systems](https://arxiv.org/abs/2002.00335)
