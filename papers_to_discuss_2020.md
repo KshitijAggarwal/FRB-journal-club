@@ -8,6 +8,8 @@
 
 * [Detecting Helium Reionization with Fast Radio Bursts](https://arxiv.org/abs/2001.11517)
 
+* [A bright, high rotation-measure FRB that skewers the M33 halo](https://arxiv.org/abs/2002.01399)
+
 <h3> Theory </h3>
 
 * [The effects of plasma lensing on the inferred dispersion measures of Fast Radio Bursts](https://arxiv.org/abs/2001.02100)
