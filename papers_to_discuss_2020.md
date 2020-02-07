@@ -10,7 +10,11 @@
 
 * [A bright, high rotation-measure FRB that skewers the M33 halo](https://arxiv.org/abs/2002.01399)
 
+* [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
+
 <h3> Theory </h3>
+
+* [FRB-periodicity: weak pulsar in tight early B-star binary](https://arxiv.org/abs/2002.01920)
 
 * [The effects of plasma lensing on the inferred dispersion measures of Fast Radio Bursts](https://arxiv.org/abs/2001.02100)
 
