@@ -1,20 +1,18 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Real-Time RFI Mitigation for the Apertif Radio Transient System](https://arxiv.org/abs/2001.03389)
-
 * [Exploring the dispersion measure of the Milky Way halo](https://arxiv.org/abs/2001.11105)
-
-* [Updated constraints on superconducting cosmic strings from the astronomy of fast radio bursts](https://arxiv.org/abs/2001.11149)
 
 * [Detecting Helium Reionization with Fast Radio Bursts](https://arxiv.org/abs/2001.11517)
 
-* [A bright, high rotation-measure FRB that skewers the M33 halo](https://arxiv.org/abs/2002.01399)
-
 * [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
 
-<h3> Theory </h3>
+* [Searching for Galactic Micro-FRB with Lunar Scattering](https://arxiv.org/abs/2002.03506)
 
-* [FRB-periodicity: weak pulsar in tight early B-star binary](https://arxiv.org/abs/2002.01920)
+* [Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties](https://arxiv.org/abs/2002.03507)
+
+* [The remnant of neutron star-white dwarf merger and the repeating fast radio bursts](https://arxiv.org/abs/2002.03693)
+
+<h3> Theory </h3>
 
 * [The effects of plasma lensing on the inferred dispersion measures of Fast Radio Bursts](https://arxiv.org/abs/2001.02100)
 
