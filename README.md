@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>10 February</h2>
+
+Papers discussed:
+
+* [Real-Time RFI Mitigation for the Apertif Radio Transient System](https://arxiv.org/abs/2001.03389)
+
+* [Updated constraints on superconducting cosmic strings from the astronomy of fast radio bursts](https://arxiv.org/abs/2001.11149)
+
+* [A bright, high rotation-measure FRB that skewers the M33 halo](https://arxiv.org/abs/2002.01399)
+
+* [FRB-periodicity: weak pulsar in tight early B-star binary](https://arxiv.org/abs/2002.01920)
+
+
 <h2>3 February</h2>
 
 Papers discussed:
