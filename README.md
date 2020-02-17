@@ -2,6 +2,21 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>17 February</h2>
+
+Papers discussed:
+
+* [Fruitbat: A Python Package for Estimating Redshifts of Fast Radio Bursts](https://arxiv.org/abs/1905.04294)
+
+* [A Search for High-Energy Counterparts to Fast Radio Bursts](https://arxiv.org/abs/1905.06818)
+
+* [Five new real-time detections of Fast Radio Bursts with UTMOST](https://arxiv.org/abs/1905.02293)
+
+* [Searching for Galactic Micro-FRB with Lunar Scattering](https://arxiv.org/abs/2002.03506)
+
+* [Precessing flaring magnetar as a source of repeating FRB 180916.J0158+65](https://arxiv.org/abs/2002.04595)
+
+
 <h2>10 February</h2>
 
 Papers discussed:
