@@ -14,6 +14,8 @@
 
 <h3> Theory </h3>
 
+* [Periodic Fast Radio Bursts with Neutron Star Free/Radiative Precession](https://arxiv.org/abs/2002.05752)
+
 * [Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties](https://arxiv.org/abs/2002.03507)
 
 * [The remnant of neutron star-white dwarf merger and the repeating fast radio bursts](https://arxiv.org/abs/2002.03693)
