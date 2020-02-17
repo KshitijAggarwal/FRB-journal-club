@@ -6,8 +6,6 @@
 
 * [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
 
-* [Searching for Galactic Micro-FRB with Lunar Scattering](https://arxiv.org/abs/2002.03506)
-
 
 <h3> Theory </h3>
 
@@ -16,8 +14,6 @@
 * [Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties](https://arxiv.org/abs/2002.03507)
 
 * [The remnant of neutron star-white dwarf merger and the repeating fast radio bursts](https://arxiv.org/abs/2002.03693)
-
-* [Precessing flaring magnetar as a source of repeating FRB 180916.J0158+65](https://arxiv.org/abs/2002.04595)
 
 * [The effects of plasma lensing on the inferred dispersion measures of Fast Radio Bursts](https://arxiv.org/abs/2001.02100)
 
