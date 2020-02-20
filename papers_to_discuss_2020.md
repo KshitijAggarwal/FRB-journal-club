@@ -9,6 +9,8 @@
 
 <h3> Theory </h3>
 
+* [A Binary Comb Model for Periodic Fast Radio Bursts](https://arxiv.org/abs/2002.08297)
+
 * [Periodic Fast Radio Bursts with Neutron Star Free/Radiative Precession](https://arxiv.org/abs/2002.05752)
 
 * [Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties](https://arxiv.org/abs/2002.03507)
