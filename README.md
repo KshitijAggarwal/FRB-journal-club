@@ -2,6 +2,20 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>24 February</h2>
+
+Papers discussed:
+
+* [Exploring the dispersion measure of the Milky Way halo](https://arxiv.org/abs/2001.11105)
+
+* [A Binary Comb Model for Periodic Fast Radio Bursts](https://arxiv.org/abs/2002.08297)
+
+* [Periodic Fast Radio Bursts with Neutron Star Free/Radiative Precession](https://arxiv.org/abs/2002.05752)
+
+* [Probing Galactic Halos with Fast Radio Bursts](https://arxiv.org/abs/1901.11051)
+
+
+
 <h2>17 February</h2>
 
 Papers discussed:
