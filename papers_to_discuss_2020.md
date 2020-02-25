@@ -1,17 +1,14 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Exploring the dispersion measure of the Milky Way halo](https://arxiv.org/abs/2001.11105)
-
 * [Detecting Helium Reionization with Fast Radio Bursts](https://arxiv.org/abs/2001.11517)
 
 * [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
 
+* [Reconstructing the Fraction of Baryons in the Intergalactic Medium with Fast Radio Bursts via Gaussian Processes](https://arxiv.org/abs/2002.10189)
 
 <h3> Theory </h3>
 
-* [A Binary Comb Model for Periodic Fast Radio Bursts](https://arxiv.org/abs/2002.08297)
-
-* [Periodic Fast Radio Bursts with Neutron Star Free/Radiative Precession](https://arxiv.org/abs/2002.05752)
+* [Periodicity in fast radio bursts due to forced precession by a fallback disk](https://arxiv.org/abs/2002.10265)
 
 * [Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties](https://arxiv.org/abs/2002.03507)
 
