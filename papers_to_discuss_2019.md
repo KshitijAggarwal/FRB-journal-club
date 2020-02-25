@@ -8,8 +8,6 @@
 
 * [Conversion Measure of Faraday Rotation-Conversion with application to Fast Radio Bursts](https://arxiv.org/abs/1902.01485)
 
-* [Probing Galactic Halos with Fast Radio Bursts](https://arxiv.org/abs/1901.11051)
-
 * [Coherence constraints on physical parameters at bright radio sources and FRB emission mechanism](https://arxiv.org/abs/1901.03260)
 
 * [Population modelling of FRBs from intrinsic properties](https://arxiv.org/abs/1902.10225)
