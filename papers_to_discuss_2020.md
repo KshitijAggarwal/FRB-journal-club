@@ -8,6 +8,8 @@
 
 <h3> Theory </h3>
 
+* [A Neutron Star-White Dwarf Binary Model for Periodic Fast Radio Bursts](https://arxiv.org/abs/2002.10478)
+
 * [Periodicity in fast radio bursts due to forced precession by a fallback disk](https://arxiv.org/abs/2002.10265)
 
 * [Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties](https://arxiv.org/abs/2002.03507)
