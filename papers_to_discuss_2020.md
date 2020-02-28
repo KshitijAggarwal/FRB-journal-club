@@ -6,7 +6,12 @@
 
 * [Reconstructing the Fraction of Baryons in the Intergalactic Medium with Fast Radio Bursts via Gaussian Processes](https://arxiv.org/abs/2002.10189)
 
+* [Limits on Absorption from a 332-MHz survey for Fast Radio Bursts](https://arxiv.org/abs/2002.11178)
+
+
 <h3> Theory </h3>
+
+* [Magnetars from Neutron Star--White Dwarf Mergers: Application to Fast Radio Bursts](https://arxiv.org/abs/2002.11975)
 
 * [A Neutron Star-White Dwarf Binary Model for Periodic Fast Radio Bursts](https://arxiv.org/abs/2002.10478)
 
