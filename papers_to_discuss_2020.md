@@ -8,8 +8,16 @@
 
 * [Limits on Absorption from a 332-MHz survey for Fast Radio Bursts](https://arxiv.org/abs/2002.11178)
 
+* [Spectropolarimetric analysis of FRB 181112 at microsecond resolution: Implications for Fast Radio Burst emission mechanism](https://arxiv.org/abs/2002.12539)
+
+* [First Constraints on Compact Dark Matter from Fast Radio Burst Microstructure](https://arxiv.org/abs/2002.12533)
+
 
 <h3> Theory </h3>
+
+* [Test the hypothesis of compact-binary-coalescence origin of fast radio bursts through a multi-messenger approach](https://arxiv.org/abs/2002.12391)
+
+* [Repeating fast radio bursts caused by small bodies orbiting a pulsar or a magnetar](https://arxiv.org/abs/2002.12834)
 
 * [Magnetars from Neutron Star--White Dwarf Mergers: Application to Fast Radio Bursts](https://arxiv.org/abs/2002.11975)
 
