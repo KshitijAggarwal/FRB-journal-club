@@ -4,10 +4,6 @@
 
 * [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
 
-* [Reconstructing the Fraction of Baryons in the Intergalactic Medium with Fast Radio Bursts via Gaussian Processes](https://arxiv.org/abs/2002.10189)
-
-* [Limits on Absorption from a 332-MHz survey for Fast Radio Bursts](https://arxiv.org/abs/2002.11178)
-
 * [Spectropolarimetric analysis of FRB 181112 at microsecond resolution: Implications for Fast Radio Burst emission mechanism](https://arxiv.org/abs/2002.12539)
 
 * [First Constraints on Compact Dark Matter from Fast Radio Burst Microstructure](https://arxiv.org/abs/2002.12533)
@@ -23,8 +19,6 @@
 
 * [A Neutron Star-White Dwarf Binary Model for Periodic Fast Radio Bursts](https://arxiv.org/abs/2002.10478)
 
-* [Periodicity in fast radio bursts due to forced precession by a fallback disk](https://arxiv.org/abs/2002.10265)
-
 * [Fast radio bursts from activities of neutron stars newborn in BNS mergers: offset, birth rate and observational properties](https://arxiv.org/abs/2002.03507)
 
 * [The remnant of neutron star-white dwarf merger and the repeating fast radio bursts](https://arxiv.org/abs/2002.03693)
@@ -38,8 +32,6 @@
 * [Stimulated-emission based model of fast radio bursts](https://arxiv.org/abs/2001.10454)
 
 * [Fast radio bursts as strong waves interacting with ambient medium](https://arxiv.org/abs/2001.10758)
-
-* [Possible relation between persistent emission and rotation measure of fast radio bursts](https://arxiv.org/abs/2001.10761)
 
 * [Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?](https://arxiv.org/abs/2001.02688)
 
