@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>2 March</h2>
+
+Papers Discussed:
+
+* [Reconstructing the Fraction of Baryons in the Intergalactic Medium with Fast Radio Bursts via Gaussian Processes](https://arxiv.org/abs/2002.10189)
+
+* [Limits on Absorption from a 332-MHz survey for Fast Radio Bursts](https://arxiv.org/abs/2002.11178)
+
+* [Periodicity in fast radio bursts due to forced precession by a fallback disk](https://arxiv.org/abs/2002.10265)
+
+* [Possible relation between persistent emission and rotation measure of fast radio bursts](https://arxiv.org/abs/2001.10761)
+
+
 <h2>24 February</h2>
 
 Papers discussed:
