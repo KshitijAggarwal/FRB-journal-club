@@ -8,6 +8,7 @@
 
 * [First Constraints on Compact Dark Matter from Fast Radio Burst Microstructure](https://arxiv.org/abs/2002.12533)
 
+* [The rarity of repeating fast radio bursts from binary neutron star mergers](https://arxiv.org/abs/2003.01919)
 
 <h3> Theory </h3>
 
