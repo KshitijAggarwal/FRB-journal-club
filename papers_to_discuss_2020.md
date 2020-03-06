@@ -10,6 +10,8 @@
 
 * [The rarity of repeating fast radio bursts from binary neutron star mergers](https://arxiv.org/abs/2003.01919)
 
+* [Constraining a neutron star merger origin for localized fast radio bursts](https://arxiv.org/abs/2003.02706)
+
 <h3> Theory </h3>
 
 * [Test the hypothesis of compact-binary-coalescence origin of fast radio bursts through a multi-messenger approach](https://arxiv.org/abs/2002.12391)
