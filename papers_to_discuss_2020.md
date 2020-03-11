@@ -14,6 +14,12 @@
 
 * [Possible periodic activity in the repeating FRB 121102](https://arxiv.org/abs/2003.03596)
 
+* [The Northern Cross Fast Radio Burst project. I. Overview and pilot observations at 408 MHz](https://arxiv.org/abs/2003.04317)
+
+* [Periodic Fast Radio Bursts as a Probe of Extragalactic Asteroid Belts](https://arxiv.org/abs/2003.04644)
+
+* [On the FRB luminosity function -- II. Event rate density](https://arxiv.org/abs/2003.04848)
+
 <h3> Theory </h3>
 
 * [Test the hypothesis of compact-binary-coalescence origin of fast radio bursts through a multi-messenger approach](https://arxiv.org/abs/2002.12391)
