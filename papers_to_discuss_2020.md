@@ -22,6 +22,8 @@
 
 <h3> Theory </h3>
 
+* [Periodic Fast Radio Bursts from Axion Emission by Cosmic Superstrings](https://arxiv.org/abs/2003.07275)
+
 * [Test the hypothesis of compact-binary-coalescence origin of fast radio bursts through a multi-messenger approach](https://arxiv.org/abs/2002.12391)
 
 * [Repeating fast radio bursts caused by small bodies orbiting a pulsar or a magnetar](https://arxiv.org/abs/2002.12834)
