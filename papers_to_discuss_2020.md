@@ -26,6 +26,8 @@
 
 <h3> Theory </h3>
 
+* [Periodicity in recurrent fast radio bursts and the origin of ultra long period magnetars](https://arxiv.org/abs/2003.12509)
+
 * [Gravitational Waves and Possible Fast Radio Bursts from Axion Clumps](https://arxiv.org/abs/2003.10527)
 
 * [Periodic Fast Radio Bursts from Axion Emission by Cosmic Superstrings](https://arxiv.org/abs/2003.07275)
