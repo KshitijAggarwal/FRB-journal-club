@@ -20,7 +20,13 @@
 
 * [On the FRB luminosity function -- II. Event rate density](https://arxiv.org/abs/2003.04848)
 
+* [An explanation of the repetition/pulse width relation in FRBs](https://arxiv.org/abs/2003.11930)
+
+* [A search for prompt gamma-ray counterparts to fast radio bursts in the Insight-HXMT data](https://arxiv.org/abs/2003.10889)
+
 <h3> Theory </h3>
+
+* [Gravitational Waves and Possible Fast Radio Bursts from Axion Clumps](https://arxiv.org/abs/2003.10527)
 
 * [Periodic Fast Radio Bursts from Axion Emission by Cosmic Superstrings](https://arxiv.org/abs/2003.07275)
 
