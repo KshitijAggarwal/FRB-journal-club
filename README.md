@@ -2,6 +2,26 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>30 March</h2>
+
+Papers Discussed:
+
+* [Possible periodic activity in the repeating FRB 121102](https://arxiv.org/abs/2003.03596)
+
+* [The Northern Cross Fast Radio Burst project. I. Overview and pilot observations at 408 MHz](https://arxiv.org/abs/2003.04317)
+
+* [Spectropolarimetric analysis of FRB 181112 at microsecond resolution: Implications for Fast Radio Burst emission mechanism](https://arxiv.org/abs/2002.12539)
+
+* [An explanation of the repetition/pulse width relation in FRBs](https://arxiv.org/abs/2003.11930)
+
+* [A search for prompt gamma-ray counterparts to fast radio bursts in the Insight-HXMT data](https://arxiv.org/abs/2003.10889)
+
+* [Periodic Fast Radio Bursts from Axion Emission by Cosmic Superstrings](https://arxiv.org/abs/2003.07275)
+
+* [A Radio Bursts Detection Method Based on Hough Transform](https://arxiv.org/abs/1904.11618)
+
+
+
 <h2>2 March</h2>
 
 Papers Discussed:
