@@ -14,6 +14,8 @@
 
 * [On the FRB luminosity function -- II. Event rate density](https://arxiv.org/abs/2003.04848)
 
+* [Initial results from a realtime FRB search with the GBT](https://arxiv.org/abs/2003.14272)
+
 
 <h3> Theory </h3>
 
