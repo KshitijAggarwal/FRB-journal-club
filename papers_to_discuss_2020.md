@@ -16,6 +16,12 @@
 
 * [Initial results from a realtime FRB search with the GBT](https://arxiv.org/abs/2003.14272)
 
+* [Lessons learned from CHIME repeating FRBs](https://arxiv.org/abs/2003.12581)
+
+* [The lowest frequency Fast Radio Bursts: Sardinia Radio Telescope detection of the periodic FRB 180916 at 328 MHz](https://arxiv.org/abs/2003.12748)
+
+* [Constraints on compact dark matter with fast radio burst observations](https://arxiv.org/abs/2003.13349)
+
 
 <h3> Theory </h3>
 
