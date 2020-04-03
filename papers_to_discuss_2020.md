@@ -25,6 +25,10 @@
 
 <h3> Theory </h3>
 
+* [Radiation Forces Constrain the FRB Mechanism](https://arxiv.org/abs/2004.00645)
+
+* [FRB Coherent Emission from Decay of Alfven Waves](https://arxiv.org/abs/2004.00644)
+
 * [Periodicity in recurrent fast radio bursts and the origin of ultra long period magnetars](https://arxiv.org/abs/2003.12509)
 
 * [Gravitational Waves and Possible Fast Radio Bursts from Axion Clumps](https://arxiv.org/abs/2003.10527)
