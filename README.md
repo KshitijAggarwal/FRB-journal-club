@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>6 April</h2>
+
+Papers Discussed:
+
+* [First Constraints on Compact Dark Matter from Fast Radio Burst Microstructure](https://arxiv.org/abs/2002.12533): Presented by Paul Brook
+
+* [Constraints on compact dark matter with fast radio burst observations](https://arxiv.org/abs/2003.13349): Presented by Paul Brook
+
+* [Initial results from a realtime FRB search with the GBT](https://arxiv.org/abs/2003.14272)
+
+* [The lowest frequency Fast Radio Bursts: Sardinia Radio Telescope detection of the periodic FRB 180916 at 328 MHz](https://arxiv.org/abs/2003.12748)
+
+
 <h2>30 March</h2>
 
 Papers Discussed:
