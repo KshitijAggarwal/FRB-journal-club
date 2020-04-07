@@ -14,6 +14,10 @@
 
 * [Lessons learned from CHIME repeating FRBs](https://arxiv.org/abs/2003.12581)
 
+* [Detection of Repeating FRB 180916.J0158+65 Down to Frequencies of 300 MHz](https://arxiv.org/abs/2004.02862)
+
+* [Luminosity-duration relations and luminosity functions of repeating and non-repeating fast radio bursts](https://arxiv.org/abs/2004.02079)
+
 
 <h3> Theory </h3>
 
