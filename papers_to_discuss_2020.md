@@ -18,6 +18,9 @@
 
 * [Luminosity-duration relations and luminosity functions of repeating and non-repeating fast radio bursts](https://arxiv.org/abs/2004.02079)
 
+* [Gamma-Ray and X-Ray Observations of the Periodic-Repeater FRB 180916 During Active Phases](https://arxiv.org/abs/2004.03676)
+
+* [No Radio Bursts Detected from FIRST J141918.9+394036 in Green Bank Telescope Observations](https://iopscience.iop.org/article/10.3847/2515-5172/ab8736)
 
 <h3> Theory </h3>
 
