@@ -22,6 +22,9 @@
 
 * [No Radio Bursts Detected from FIRST J141918.9+394036 in Green Bank Telescope Observations](https://iopscience.iop.org/article/10.3847/2515-5172/ab8736)
 
+* [Parkes transient events: I. Database of single pulses, initial results and missing FRBs](https://arxiv.org/abs/2004.04601)
+
+
 <h3> Theory </h3>
 
 * [Radiation Forces Constrain the FRB Mechanism](https://arxiv.org/abs/2004.00645)
