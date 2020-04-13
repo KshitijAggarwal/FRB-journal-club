@@ -2,6 +2,24 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+
+<h2>13 April</h2>
+
+Papers Discussed:
+
+* [Periodic Fast Radio Bursts as a Probe of Extragalactic Asteroid Belts](https://arxiv.org/abs/2003.04644)
+
+* [Detection of Repeating FRB 180916.J0158+65 Down to Frequencies of 300 MHz](https://arxiv.org/abs/2004.02862)
+
+* [Luminosity-duration relations and luminosity functions of repeating and non-repeating fast radio bursts](https://arxiv.org/abs/2004.02079)
+
+* [Gamma-Ray and X-Ray Observations of the Periodic-Repeater FRB 180916 During Active Phases](https://arxiv.org/abs/2004.03676)
+
+* [No Radio Bursts Detected from FIRST J141918.9+394036 in Green Bank Telescope Observations](https://iopscience.iop.org/article/10.3847/2515-5172/ab8736)
+
+* [Parkes transient events: I. Database of single pulses, initial results and missing FRBs](https://arxiv.org/abs/2004.04601)
+
+
 <h2>6 April</h2>
 
 Papers Discussed:
