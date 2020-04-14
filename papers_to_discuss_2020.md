@@ -12,6 +12,8 @@
 
 * [Lessons learned from CHIME repeating FRBs](https://arxiv.org/abs/2003.12581)
 
+* [Simultaneous X-ray and Radio Observations of the Repeating Fast Radio Burst FRB 180916.J0158+65](https://arxiv.org/abs/2004.06082)
+
 
 <h3> Theory </h3>
 
