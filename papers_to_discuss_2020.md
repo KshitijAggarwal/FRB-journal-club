@@ -17,6 +17,8 @@
 
 <h3> Theory </h3>
 
+* [Fast radio bursts from axion stars moving through pulsar magnetospheres](https://arxiv.org/abs/2004.06486)
+
 * [Radiation Forces Constrain the FRB Mechanism](https://arxiv.org/abs/2004.00645)
 
 * [FRB Coherent Emission from Decay of Alfven Waves](https://arxiv.org/abs/2004.00644)
