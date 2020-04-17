@@ -14,6 +14,7 @@
 
 * [Simultaneous X-ray and Radio Observations of the Repeating Fast Radio Burst FRB 180916.J0158+65](https://arxiv.org/abs/2004.06082)
 
+* [A Dual-Band Radio Observation of FRB 121102 with the Deep Space Network and the Detection of Multiple Bursts](https://arxiv.org/abs/2004.06845)
 
 <h3> Theory </h3>
 
