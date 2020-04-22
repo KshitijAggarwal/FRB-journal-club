@@ -1,20 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Detecting Helium Reionization with Fast Radio Bursts](https://arxiv.org/abs/2001.11517)
-
 * [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
-
-* [The rarity of repeating fast radio bursts from binary neutron star mergers](https://arxiv.org/abs/2003.01919)
 
 * [Constraining a neutron star merger origin for localized fast radio bursts](https://arxiv.org/abs/2003.02706)
 
 * [On the FRB luminosity function -- II. Event rate density](https://arxiv.org/abs/2003.04848)
 
-* [Lessons learned from CHIME repeating FRBs](https://arxiv.org/abs/2003.12581)
-
-* [Simultaneous X-ray and Radio Observations of the Repeating Fast Radio Burst FRB 180916.J0158+65](https://arxiv.org/abs/2004.06082)
-
-* [A Dual-Band Radio Observation of FRB 121102 with the Deep Space Network and the Detection of Multiple Bursts](https://arxiv.org/abs/2004.06845)
 
 <h3> Theory </h3>
 
