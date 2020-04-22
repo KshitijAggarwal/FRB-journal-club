@@ -2,6 +2,20 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>20 April</h2>
+
+Papers Discussed:
+
+* [A Dual-Band Radio Observation of FRB 121102 with the Deep Space Network and the Detection of Multiple Bursts](https://arxiv.org/abs/2004.06845): Presented by Joseph Kania
+
+* [Lessons learned from CHIME repeating FRBs](https://arxiv.org/abs/2003.12581): Presented by Devansh Agarwal
+
+* [Detecting Helium Reionization with Fast Radio Bursts](https://arxiv.org/abs/2001.11517): Presented by Reshma Anna
+
+* [Simultaneous X-ray and Radio Observations of the Repeating Fast Radio Burst FRB 180916.J0158+65](https://arxiv.org/abs/2004.06082): Presented by Kshitij Aggarwal
+
+* [The rarity of repeating fast radio bursts from binary neutron star mergers](https://arxiv.org/abs/2003.01919): Presented by Kshitij Aggarwal
+
 
 <h2>13 April</h2>
 
