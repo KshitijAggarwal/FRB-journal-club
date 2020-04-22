@@ -6,6 +6,8 @@
 
 * [On the FRB luminosity function -- II. Event rate density](https://arxiv.org/abs/2003.04848)
 
+* [Cosmology-insensitive estimate of IGM baryon mass fraction from five localized fast radio bursts](https://arxiv.org/abs/2004.08393)
+
 
 <h3> Theory </h3>
 
