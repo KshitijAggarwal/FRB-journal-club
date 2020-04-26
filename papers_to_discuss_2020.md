@@ -8,8 +8,14 @@
 
 * [Cosmology-insensitive estimate of IGM baryon mass fraction from five localized fast radio bursts](https://arxiv.org/abs/2004.08393)
 
+* [The multiwavelength counterparts of fast radio bursts](https://arxiv.org/abs/2004.10787)
+
+* [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
+
 
 <h3> Theory </h3>
+
+* [A Geometrical Explanation for Repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11223)
 
 * [Fast radio bursts from axion stars moving through pulsar magnetospheres](https://arxiv.org/abs/2004.06486)
 
