@@ -12,8 +12,16 @@
 
 * [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
 
+* [A New Method to Measure Hubble Parameter H(z) using Fast Radio Bursts](https://arxiv.org/abs/2004.12649)
+
+* [Is GRB 110715A the progenitor of FRB 171209?](https://arxiv.org/abs/2004.12050)
+
 
 <h3> Theory </h3>
+
+* [A Geometrical Explanation for Repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11223)
+
+* [Persistent Radio Emission from Synchrotron Heating by a Repeating Fast Radio Burst Source in a Nebula](https://arxiv.org/abs/2004.12516)
 
 * [A Geometrical Explanation for Repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11223)
 
