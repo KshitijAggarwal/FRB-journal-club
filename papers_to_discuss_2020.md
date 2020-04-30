@@ -16,6 +16,8 @@
 
 * [Is GRB 110715A the progenitor of FRB 171209?](https://arxiv.org/abs/2004.12050)
 
+* [A Fast Radio Burst discovered in FAST drift scan survey](https://arxiv.org/abs/2004.14029)
+
 
 <h3> Theory </h3>
 
