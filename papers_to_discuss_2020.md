@@ -18,10 +18,10 @@
 
 * [A Fast Radio Burst discovered in FAST drift scan survey](https://arxiv.org/abs/2004.14029)
 
+* [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
+
 
 <h3> Theory </h3>
-
-* [A Geometrical Explanation for Repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11223)
 
 * [Persistent Radio Emission from Synchrotron Heating by a Repeating Fast Radio Burst Source in a Nebula](https://arxiv.org/abs/2004.12516)
 
