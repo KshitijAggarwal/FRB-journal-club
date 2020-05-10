@@ -24,6 +24,8 @@
 
 <h3> Theory </h3>
 
+* [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
+
 * [On the magnetospheric origin of Repeating Fast Radio Bursts](https://arxiv.org/abs/2005.02100)
 
 * [Persistent Radio Emission from Synchrotron Heating by a Repeating Fast Radio Burst Source in a Nebula](https://arxiv.org/abs/2004.12516)
