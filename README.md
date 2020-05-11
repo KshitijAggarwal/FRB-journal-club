@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>11 May</h2>
+
+Papers Discussed:
+
+* [On the FRB luminosity function -- II. Event rate density](https://arxiv.org/abs/2003.04848): Presented by Devansh Agarwal
+
+* [A Fast Radio Burst discovered in FAST drift scan survey](https://arxiv.org/abs/2004.14029): Presented by Joseph Kania
+
+* [A comparative study of host galaxy properties between Fast Radio Bursts and stellar transients](https://arxiv.org/abs/2005.02371): Presented by Kshitij Aggarwal
+
+* [A Geometrical Explanation for Repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11223): Presented by Reshma Anna
+
+
 <h2>20 April</h2>
 
 Papers Discussed:
