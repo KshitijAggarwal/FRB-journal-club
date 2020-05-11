@@ -4,8 +4,6 @@
 
 * [Constraining a neutron star merger origin for localized fast radio bursts](https://arxiv.org/abs/2003.02706)
 
-* [On the FRB luminosity function -- II. Event rate density](https://arxiv.org/abs/2003.04848)
-
 * [Cosmology-insensitive estimate of IGM baryon mass fraction from five localized fast radio bursts](https://arxiv.org/abs/2004.08393)
 
 * [The multiwavelength counterparts of fast radio bursts](https://arxiv.org/abs/2004.10787)
@@ -16,11 +14,8 @@
 
 * [Is GRB 110715A the progenitor of FRB 171209?](https://arxiv.org/abs/2004.12050)
 
-* [A Fast Radio Burst discovered in FAST drift scan survey](https://arxiv.org/abs/2004.14029)
-
 * [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
 
-* [A comparative study of host galaxy properties between Fast Radio Bursts and stellar transients](https://arxiv.org/abs/2005.02371)
 
 <h3> Theory </h3>
 
@@ -29,8 +24,6 @@
 * [On the magnetospheric origin of Repeating Fast Radio Bursts](https://arxiv.org/abs/2005.02100)
 
 * [Persistent Radio Emission from Synchrotron Heating by a Repeating Fast Radio Burst Source in a Nebula](https://arxiv.org/abs/2004.12516)
-
-* [A Geometrical Explanation for Repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11223)
 
 * [Fast radio bursts from axion stars moving through pulsar magnetospheres](https://arxiv.org/abs/2004.06486)
 
