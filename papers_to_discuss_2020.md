@@ -19,6 +19,8 @@
 
 <h3> Theory </h3>
 
+* [Implications of a "Fast Radio Burst" from a Galactic Magnetar](https://arxiv.org/abs/2005.05283)
+
 * [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
 
 * [On the magnetospheric origin of Repeating Fast Radio Bursts](https://arxiv.org/abs/2005.02100)
