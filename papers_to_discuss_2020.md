@@ -16,8 +16,15 @@
 
 * [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
 
+* [Zwicky Transient Facility constraints on the optical emission from the nearby repeating FRB 180916.J0158+65](https://arxiv.org/abs/2005.06273)
+
+* [A Data-Driven Technique Using Millisecond Transients to Measure the Milky Way Halo](https://arxiv.org/abs/2005.06256)
+
+* [INTEGRAL discovery of a burst with associated radio emission from the magnetar SGR 1935+2154](https://arxiv.org/abs/2005.06335)
 
 <h3> Theory </h3>
+
+* [A unified picture of Galactic and cosmological fast radio bursts](https://arxiv.org/abs/2005.06736)
 
 * [Implications of a "Fast Radio Burst" from a Galactic Magnetar](https://arxiv.org/abs/2005.05283)
 
