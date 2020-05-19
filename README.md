@@ -2,6 +2,20 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>18 May</h2>
+Papers Discussed:
+
+* [Zwicky Transient Facility constraints on the optical emission from the nearby repeating FRB 180916.J0158+65](https://arxiv.org/abs/2005.06273)
+
+* [A Data-Driven Technique Using Millisecond Transients to Measure the Milky Way Halo](https://arxiv.org/abs/2005.06256)
+
+* [INTEGRAL discovery of a burst with associated radio emission from the magnetar SGR 1935+2154](https://arxiv.org/abs/2005.06335)
+
+* [Cosmology-insensitive estimate of IGM baryon mass fraction from five localized fast radio bursts](https://arxiv.org/abs/2004.08393)
+
+* [Implications of a "Fast Radio Burst" from a Galactic Magnetar](https://arxiv.org/abs/2005.05283)
+
+
 <h2>11 May</h2>
 
 Papers Discussed:
