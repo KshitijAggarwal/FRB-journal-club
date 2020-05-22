@@ -14,8 +14,18 @@
 
 * [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
 
+* [Constraining dark photon dark matter with fast radio bursts](https://arxiv.org/abs/2005.08621)
+
+* [Detectability of radio afterglows from Fast Radio Bursts produced by Binary Neutron Star Mergers](https://arxiv.org/abs/2005.08112)
+
+* [A bright millisecond-duration radio burst from a Galactic magnetar](https://arxiv.org/abs/2005.10324)
+
+* [A fast radio burst associated with a Galactic magnetar](https://arxiv.org/abs/2005.10828)
+
 
 <h3> Theory </h3>
+
+* [Quark-Novae in the outskirts of galaxies: An explanation of the Fast Radio Burst phenomenon](https://arxiv.org/abs/2005.09793)
 
 * [A unified picture of Galactic and cosmological fast radio bursts](https://arxiv.org/abs/2005.06736)
 
