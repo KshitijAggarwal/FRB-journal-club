@@ -14,24 +14,35 @@
 
 * [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
 
-* [Constraining dark photon dark matter with fast radio bursts](https://arxiv.org/abs/2005.08621)
+* [Dark photon dark matter and fast radio bursts](https://arxiv.org/abs/2005.08621)
 
 * [Detectability of radio afterglows from Fast Radio Bursts produced by Binary Neutron Star Mergers](https://arxiv.org/abs/2005.08112)
+
+* [Applying saliency-map analysis in searches for pulsars and fast radio bursts](https://arxiv.org/abs/2005.11066)
+
+<h4> 1935+2154 </h4>
 
 * [A bright millisecond-duration radio burst from a Galactic magnetar](https://arxiv.org/abs/2005.10324)
 
 * [A fast radio burst associated with a Galactic magnetar](https://arxiv.org/abs/2005.10828)
 
+* [Identification of a non-thermal X-ray burst with the Galactic magnetar SGR 1935+2154 and a fast radio burst with Insight-HXMT](https://arxiv.org/abs/2005.11071)
 
-<h3> Theory </h3>
-
-* [Quark-Novae in the outskirts of galaxies: An explanation of the Fast Radio Burst phenomenon](https://arxiv.org/abs/2005.09793)
-
-* [A unified picture of Galactic and cosmological fast radio bursts](https://arxiv.org/abs/2005.06736)
+* [A peculiar hard X-ray counterpart of a Galactic fast radio burst](https://arxiv.org/abs/2005.11178)
 
 * [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
 
 * [On the magnetospheric origin of Repeating Fast Radio Bursts](https://arxiv.org/abs/2005.02100)
+
+* [On the Distance of SGR 1935+2154 Associated with FRB 200428](https://arxiv.org/abs/2005.11109)
+
+* [A unified picture of Galactic and cosmological fast radio bursts](https://arxiv.org/abs/2005.06736)
+
+
+
+<h3> Theory </h3>
+
+* [Quark-Novae in the outskirts of galaxies: An explanation of the Fast Radio Burst phenomenon](https://arxiv.org/abs/2005.09793)
 
 * [Persistent Radio Emission from Synchrotron Heating by a Repeating Fast Radio Burst Source in a Nebula](https://arxiv.org/abs/2004.12516)
 
