@@ -30,6 +30,10 @@
 
 * [A peculiar hard X-ray counterpart of a Galactic fast radio burst](https://arxiv.org/abs/2005.11178)
 
+* [Stringent upper limits on pulsed radio emission during an active bursting phase of the Galactic magnetar SGRJ1935+2154](https://arxiv.org/abs/2005.11479)
+
+* [An X-Ray Burst from a Magnetar Enlightening the Mechanism of Fast Radio Bursts](https://arxiv.org/abs/2005.12164)
+
 * [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
 
 * [On the magnetospheric origin of Repeating Fast Radio Bursts](https://arxiv.org/abs/2005.02100)
@@ -38,7 +42,7 @@
 
 * [A unified picture of Galactic and cosmological fast radio bursts](https://arxiv.org/abs/2005.06736)
 
-
+* [A Magnetar-Asteroid Impact Model for FRB 200428 Associated with an X-ray Burst from SGR 1935+2154](https://arxiv.org/abs/2005.12048)
 
 <h3> Theory </h3>
 
