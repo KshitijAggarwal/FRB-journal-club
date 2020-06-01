@@ -20,6 +20,18 @@
 
 * [Applying saliency-map analysis in searches for pulsars and fast radio bursts](https://arxiv.org/abs/2005.11066)
 
+* [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
+
+* [Dissecting the Local Environment of FRB 190608 in the Spiral Arm of its Host Galaxy](https://arxiv.org/abs/2005.13158)
+
+* [A search for supernova-like optical counterparts to ASKAP-localised Fast Radio Bursts](https://arxiv.org/abs/2005.13159)
+
+* [The host galaxies and progenitors of Fast Radio Bursts localized with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/2005.13160)
+
+* [A census of baryons in the Universe from localized fast radio bursts](https://arxiv.org/abs/2005.13161)
+
+* [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
+
 <h4> 1935+2154 </h4>
 
 * [A bright millisecond-duration radio burst from a Galactic magnetar](https://arxiv.org/abs/2005.10324)
