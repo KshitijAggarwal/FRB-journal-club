@@ -2,6 +2,25 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>1 June</h2>
+Papers Discussed:
+
+<h4> 1935+2154 </h4>
+
+* [A bright millisecond-duration radio burst from a Galactic magnetar](https://arxiv.org/abs/2005.10324)
+
+* [A fast radio burst associated with a Galactic magnetar](https://arxiv.org/abs/2005.10828)
+
+* [Identification of a non-thermal X-ray burst with the Galactic magnetar SGR 1935+2154 and a fast radio burst with Insight-HXMT](https://arxiv.org/abs/2005.11071)
+
+* [A peculiar hard X-ray counterpart of a Galactic fast radio burst](https://arxiv.org/abs/2005.11178)
+
+* [Stringent upper limits on pulsed radio emission during an active bursting phase of the Galactic magnetar SGRJ1935+2154](https://arxiv.org/abs/2005.11479)
+
+* [An X-Ray Burst from a Magnetar Enlightening the Mechanism of Fast Radio Bursts](https://arxiv.org/abs/2005.12164)
+
+
+
 <h2>18 May</h2>
 Papers Discussed:
 
