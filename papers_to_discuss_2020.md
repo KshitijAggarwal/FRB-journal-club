@@ -32,19 +32,9 @@
 
 * [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
 
+* [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
+
 <h4> 1935+2154 </h4>
-
-* [A bright millisecond-duration radio burst from a Galactic magnetar](https://arxiv.org/abs/2005.10324)
-
-* [A fast radio burst associated with a Galactic magnetar](https://arxiv.org/abs/2005.10828)
-
-* [Identification of a non-thermal X-ray burst with the Galactic magnetar SGR 1935+2154 and a fast radio burst with Insight-HXMT](https://arxiv.org/abs/2005.11071)
-
-* [A peculiar hard X-ray counterpart of a Galactic fast radio burst](https://arxiv.org/abs/2005.11178)
-
-* [Stringent upper limits on pulsed radio emission during an active bursting phase of the Galactic magnetar SGRJ1935+2154](https://arxiv.org/abs/2005.11479)
-
-* [An X-Ray Burst from a Magnetar Enlightening the Mechanism of Fast Radio Bursts](https://arxiv.org/abs/2005.12164)
 
 * [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
 
@@ -56,7 +46,13 @@
 
 * [A Magnetar-Asteroid Impact Model for FRB 200428 Associated with an X-ray Burst from SGR 1935+2154](https://arxiv.org/abs/2005.12048)
 
+* [The X-ray reactivation of the radio bursting magnetar SGR 1935+2154](https://arxiv.org/abs/2006.00215)
+
+* [Revisiting the confrontation of the shock-powered synchrotron maser model with the Galactic FRB 200428](https://arxiv.org/abs/2006.00484)
+
 <h3> Theory </h3>
+
+* [Periodically-repeating fast radio bursts: Lense-Thirring precession of a debris disk?](https://arxiv.org/abs/2006.01552)
 
 * [Quark-Novae in the outskirts of galaxies: An explanation of the Fast Radio Burst phenomenon](https://arxiv.org/abs/2005.09793)
 
