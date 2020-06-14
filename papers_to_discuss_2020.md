@@ -34,7 +34,16 @@
 
 * [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
 
+* [A Demonstration of Extremely Low Latency γ-ray, X-Ray & UV Follow-Up of a Millisecond Radio Transient](https://arxiv.org/abs/2006.04550)
+
+
 <h4> 1935+2154 </h4>
+
+* [FRB 200428: an Impact between an Asteroid and a Magnetar?](https://arxiv.org/abs/2006.04601)
+
+* [Plasmoid ejection by Alfvén waves and the fast radio bursts from SGR 1935+2154](https://arxiv.org/abs/2006.04649)
+
+* [A Variable X-ray Source Close to the Magnetar SGR 1935+2154](https://arxiv.org/abs/2006.06407)
 
 * [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
 
