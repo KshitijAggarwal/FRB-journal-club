@@ -2,6 +2,23 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>15 June</h2>
+Papers Discussed:
+
+* [Constraining a neutron star merger origin for localized fast radio bursts](https://arxiv.org/abs/2003.02706)
+
+* [Dissecting the Local Environment of FRB 190608 in the Spiral Arm of its Host Galaxy](https://arxiv.org/abs/2005.13158)
+
+* [The host galaxies and progenitors of Fast Radio Bursts localized with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/2005.13160)
+
+* [A Demonstration of Extremely Low Latency γ-ray, X-Ray & UV Follow-Up of a Millisecond Radio Transient](https://arxiv.org/abs/2006.04550)
+
+* [FRB 200428: an Impact between an Asteroid and a Magnetar?](https://arxiv.org/abs/2006.04601)
+
+* [A Variable X-ray Source Close to the Magnetar SGR 1935+2154](https://arxiv.org/abs/2006.06407)
+
+
+
 <h2>1 June</h2>
 Papers Discussed:
 
