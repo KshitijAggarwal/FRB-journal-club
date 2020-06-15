@@ -2,8 +2,6 @@
 
 * [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
 
-* [Constraining a neutron star merger origin for localized fast radio bursts](https://arxiv.org/abs/2003.02706)
-
 * [The multiwavelength counterparts of fast radio bursts](https://arxiv.org/abs/2004.10787)
 
 * [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
@@ -22,11 +20,7 @@
 
 * [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
 
-* [Dissecting the Local Environment of FRB 190608 in the Spiral Arm of its Host Galaxy](https://arxiv.org/abs/2005.13158)
-
 * [A search for supernova-like optical counterparts to ASKAP-localised Fast Radio Bursts](https://arxiv.org/abs/2005.13159)
-
-* [The host galaxies and progenitors of Fast Radio Bursts localized with the Australian Square Kilometre Array Pathfinder](https://arxiv.org/abs/2005.13160)
 
 * [A census of baryons in the Universe from localized fast radio bursts](https://arxiv.org/abs/2005.13161)
 
@@ -34,16 +28,14 @@
 
 * [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
 
-* [A Demonstration of Extremely Low Latency γ-ray, X-Ray & UV Follow-Up of a Millisecond Radio Transient](https://arxiv.org/abs/2006.04550)
-
 
 <h4> 1935+2154 </h4>
 
-* [FRB 200428: an Impact between an Asteroid and a Magnetar?](https://arxiv.org/abs/2006.04601)
+* [The FRB-SGR Connection](https://arxiv.org/abs/2006.03468)
+
+* [Pair separation in parallel electric field of a magnetar magnetosphere and narrow spectra of fast radio bursts](https://arxiv.org/abs/2006.03270)
 
 * [Plasmoid ejection by Alfvén waves and the fast radio bursts from SGR 1935+2154](https://arxiv.org/abs/2006.04649)
-
-* [A Variable X-ray Source Close to the Magnetar SGR 1935+2154](https://arxiv.org/abs/2006.06407)
 
 * [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
 
