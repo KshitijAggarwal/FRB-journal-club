@@ -28,6 +28,9 @@
 
 * [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
 
+* [Simultaneous multi-telescope observations of FRB 121102](https://arxiv.org/abs/2006.08662)
+
+* [A Quantitative Assessment of Communicating Extra-Terrestrial Intelligent Civilizations in the Galaxy and the Case of FRB-like Signals](https://arxiv.org/abs/2006.08493)
 
 <h4> 1935+2154 </h4>
 
