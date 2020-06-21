@@ -56,6 +56,8 @@
 
 <h3> Theory </h3>
 
+* [What binary systems are the most likely sources for periodically repeating FRBs?](https://arxiv.org/abs/2006.10328)
+
 * [Periodically-repeating fast radio bursts: Lense-Thirring precession of a debris disk?](https://arxiv.org/abs/2006.01552)
 
 * [Quark-Novae in the outskirts of galaxies: An explanation of the Fast Radio Burst phenomenon](https://arxiv.org/abs/2005.09793)
