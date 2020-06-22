@@ -2,6 +2,22 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>22 June</h2>
+Papers Discussed:
+
+* [A Quantitative Assessment of Communicating Extra-Terrestrial Intelligent Civilizations in the Galaxy and the Case of FRB-like Signals](https://arxiv.org/abs/2006.08493)
+
+* [Simultaneous multi-telescope observations of FRB 121102](https://arxiv.org/abs/2006.08662)
+
+* [A census of baryons in the Universe from localized fast radio bursts](https://arxiv.org/abs/2005.13161)
+
+* [VLA/realfast detection of burst from FRB180916.J0158+65 and Tests for Periodic Activity](https://arxiv.org/abs/2006.10513)
+
+* [Combined Limit on the Photon Mass with Nine Localized Fast Radio Bursts](https://arxiv.org/abs/2006.09680)
+
+* [A search for supernova-like optical counterparts to ASKAP-localised Fast Radio Bursts](https://arxiv.org/abs/2005.13159)
+
+
 <h2>15 June</h2>
 Papers Discussed:
 
