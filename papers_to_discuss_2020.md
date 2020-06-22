@@ -20,8 +20,6 @@
 
 * [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
 
-* [A search for supernova-like optical counterparts to ASKAP-localised Fast Radio Bursts](https://arxiv.org/abs/2005.13159)
-
 * [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
 
 * [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
