@@ -32,6 +32,8 @@
 
 * [A Quantitative Assessment of Communicating Extra-Terrestrial Intelligent Civilizations in the Galaxy and the Case of FRB-like Signals](https://arxiv.org/abs/2006.08493)
 
+* [Combined Limit on the Photon Mass with Nine Localized Fast Radio Bursts](https://arxiv.org/abs/2006.09680)
+
 <h4> 1935+2154 </h4>
 
 * [The FRB-SGR Connection](https://arxiv.org/abs/2006.03468)
