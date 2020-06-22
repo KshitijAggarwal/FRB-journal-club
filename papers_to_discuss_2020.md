@@ -34,6 +34,8 @@
 
 * [Combined Limit on the Photon Mass with Nine Localized Fast Radio Bursts](https://arxiv.org/abs/2006.09680)
 
+* [VLA/realfast detection of burst from FRB180916.J0158+65 and Tests for Periodic Activity](https://arxiv.org/abs/2006.10513)
+
 <h4> 1935+2154 </h4>
 
 * [The FRB-SGR Connection](https://arxiv.org/abs/2006.03468)
