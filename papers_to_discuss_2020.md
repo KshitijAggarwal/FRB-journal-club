@@ -22,19 +22,11 @@
 
 * [A search for supernova-like optical counterparts to ASKAP-localised Fast Radio Bursts](https://arxiv.org/abs/2005.13159)
 
-* [A census of baryons in the Universe from localized fast radio bursts](https://arxiv.org/abs/2005.13161)
-
 * [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
 
 * [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
 
-* [Simultaneous multi-telescope observations of FRB 121102](https://arxiv.org/abs/2006.08662)
 
-* [A Quantitative Assessment of Communicating Extra-Terrestrial Intelligent Civilizations in the Galaxy and the Case of FRB-like Signals](https://arxiv.org/abs/2006.08493)
-
-* [Combined Limit on the Photon Mass with Nine Localized Fast Radio Bursts](https://arxiv.org/abs/2006.09680)
-
-* [VLA/realfast detection of burst from FRB180916.J0158+65 and Tests for Periodic Activity](https://arxiv.org/abs/2006.10513)
 
 <h4> 1935+2154 </h4>
 
