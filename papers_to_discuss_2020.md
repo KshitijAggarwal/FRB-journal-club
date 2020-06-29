@@ -12,10 +12,6 @@
 
 * [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
 
-* [Dark photon dark matter and fast radio bursts](https://arxiv.org/abs/2005.08621)
-
-* [Detectability of radio afterglows from Fast Radio Bursts produced by Binary Neutron Star Mergers](https://arxiv.org/abs/2005.08112)
-
 * [Applying saliency-map analysis in searches for pulsars and fast radio bursts](https://arxiv.org/abs/2005.11066)
 
 * [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
@@ -24,9 +20,17 @@
 
 * [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
 
+* [Dispersion measure components within host galaxies of Fast Radio Bursts: observational constraints from statistical properties of FRBs](https://arxiv.org/abs/2005.12891)
+
+* [Constraining HeII Reionization Detection Uncertainties via Fast Radio Bursts](https://arxiv.org/abs/2006.11072)
+
 
 
 <h4> 1935+2154 </h4>
+
+* [Scintillation can explain the spectral structure of the bright radio burst from SGR 1935+2154](https://arxiv.org/abs/2006.13184)
+
+* [A possible polar origin for the FRB associated with a Galactic magnetar](https://arxiv.org/abs/2006.11358)
 
 * [The FRB-SGR Connection](https://arxiv.org/abs/2006.03468)
 
