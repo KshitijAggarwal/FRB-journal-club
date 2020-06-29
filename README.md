@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>29 June</h2>
+Papers Discussed:
+
+* [Dark photon dark matter and fast radio bursts](https://arxiv.org/abs/2005.08621)
+
+* [A search for fast radio burst-like emission from Fermi gamma-ray bursts](https://arxiv.org/abs/2006.14906)
+
+* [The radio/X-ray burst from SGR 1935+2154: radiation mechanisms and the possible QPOs](https://arxiv.org/abs/2006.14503)
+
+* [Origin of sources of repeating fast radio bursts with periodicity in close binary systems](https://arxiv.org/abs/2006.13037)
+
+* [Detectability of radio afterglows from Fast Radio Bursts produced by Binary Neutron Star Mergers](https://arxiv.org/abs/2005.08112)
+
 <h2>22 June</h2>
 Papers Discussed:
 
