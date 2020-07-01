@@ -24,9 +24,11 @@
 
 * [Constraining HeII Reionization Detection Uncertainties via Fast Radio Bursts](https://arxiv.org/abs/2006.11072)
 
-
+* [A population analysis of pulse broadening in ASKAP Fast Radio Bursts](https://arxiv.org/abs/2006.16502)
 
 <h4> 1935+2154 </h4>
+
+* [Periodic Windowed Behavior in SGR1935+2154 SGR Bursts](https://arxiv.org/abs/2006.16480)
 
 * [Scintillation can explain the spectral structure of the bright radio burst from SGR 1935+2154](https://arxiv.org/abs/2006.13184)
 
