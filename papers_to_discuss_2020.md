@@ -28,6 +28,8 @@
 
 <h4> 1935+2154 </h4>
 
+* [Fast Radio Burst Trains from Magnetar Oscillations](https://arxiv.org/abs/2006.16231)
+
 * [Periodic Windowed Behavior in SGR1935+2154 SGR Bursts](https://arxiv.org/abs/2006.16480)
 
 * [Scintillation can explain the spectral structure of the bright radio burst from SGR 1935+2154](https://arxiv.org/abs/2006.13184)
@@ -55,6 +57,8 @@
 * [Revisiting the confrontation of the shock-powered synchrotron maser model with the Galactic FRB 200428](https://arxiv.org/abs/2006.00484)
 
 <h3> Theory </h3>
+
+* [Free electron laser in magnetars/Fast Radio Bursts](https://arxiv.org/abs/2006.16029)
 
 * [What binary systems are the most likely sources for periodically repeating FRBs?](https://arxiv.org/abs/2006.10328)
 
