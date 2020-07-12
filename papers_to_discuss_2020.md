@@ -26,7 +26,22 @@
 
 * [A population analysis of pulse broadening in ASKAP Fast Radio Bursts](https://arxiv.org/abs/2006.16502)
 
+* [Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102](https://arxiv.org/abs/2007.01616)
+
+* [On the true fractions of repeating and non-repeating FRB sources](https://arxiv.org/abs/2007.02400)
+
+* [Gravitational Microlensing Time Delays at High Optical Depth: Image Parities and the Temporal Properties of Fast Radio Bursts](https://arxiv.org/abs/2007.03919)
+
+* [Probing primordial non-Gaussianity with Fast Radio Bursts](https://arxiv.org/abs/2007.04054)
+
+* [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
+
+* [Dispersion measure: Confusion, Constants & Clarity](https://arxiv.org/abs/2007.02886v1)
+
+
 <h4> 1935+2154 </h4>
+
+* [Constraining the X-ray - Infrared spectral index of second-timescale flares from SGR1935+2154 with Palomar Gattini-IR](https://arxiv.org/abs/2007.02978)
 
 * [Fast Radio Burst Trains from Magnetar Oscillations](https://arxiv.org/abs/2006.16231)
 
