@@ -38,8 +38,12 @@
 
 * [Dispersion measure: Confusion, Constants & Clarity](https://arxiv.org/abs/2007.02886v1)
 
+* [A Distant Fast Radio Burst Associated to its Host Galaxy with the Very Large Array](https://arxiv.org/abs/2007.02155)
+
 
 <h4> 1935+2154 </h4>
+
+* [Detection of two bright FRB-like radio bursts from magnetar SGR 1935+2154 during a multi-frequency monitoring campaign](https://arxiv.org/abs/2007.05101)
 
 * [Constraining the X-ray - Infrared spectral index of second-timescale flares from SGR1935+2154 with Palomar Gattini-IR](https://arxiv.org/abs/2007.02978)
 
