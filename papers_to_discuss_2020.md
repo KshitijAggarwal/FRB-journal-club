@@ -77,6 +77,10 @@
 
 <h3> Theory </h3>
 
+* [What does FRB light-curve variability tell us about the emission mechanism?](https://arxiv.org/abs/2007.07265)
+
+* [Are Fast Radio Bursts Produced By Large Glitches Of Anomalous X-ray Pulsars?](https://arxiv.org/abs/2007.08370)
+
 * [Free electron laser in magnetars/Fast Radio Bursts](https://arxiv.org/abs/2006.16029)
 
 * [What binary systems are the most likely sources for periodically repeating FRBs?](https://arxiv.org/abs/2006.10328)
