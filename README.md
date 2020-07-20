@@ -15,6 +15,8 @@ Papers Discussed:
 
 * [Detection of two bright FRB-like radio bursts from magnetar SGR 1935+2154 during a multi-frequency monitoring campaign](https://arxiv.org/abs/2007.05101)
 
+* [Periodic Windowed Behavior in SGR1935+2154 SGR Bursts](https://arxiv.org/abs/2006.16480)
+
 
 <h2>29 June</h2>
 Papers Discussed:
