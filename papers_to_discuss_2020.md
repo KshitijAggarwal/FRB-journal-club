@@ -6,10 +6,6 @@
 
 * [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
 
-* [A New Method to Measure Hubble Parameter H(z) using Fast Radio Bursts](https://arxiv.org/abs/2004.12649)
-
-* [Is GRB 110715A the progenitor of FRB 171209?](https://arxiv.org/abs/2004.12050)
-
 * [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
 
 * [Applying saliency-map analysis in searches for pulsars and fast radio bursts](https://arxiv.org/abs/2005.11066)
@@ -36,20 +32,12 @@
 
 * [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
 
-* [Dispersion measure: Confusion, Constants & Clarity](https://arxiv.org/abs/2007.02886v1)
-
-* [A Distant Fast Radio Burst Associated to its Host Galaxy with the Very Large Array](https://arxiv.org/abs/2007.02155)
-
 
 <h4> 1935+2154 </h4>
-
-* [Detection of two bright FRB-like radio bursts from magnetar SGR 1935+2154 during a multi-frequency monitoring campaign](https://arxiv.org/abs/2007.05101)
 
 * [Constraining the X-ray - Infrared spectral index of second-timescale flares from SGR1935+2154 with Palomar Gattini-IR](https://arxiv.org/abs/2007.02978)
 
 * [Fast Radio Burst Trains from Magnetar Oscillations](https://arxiv.org/abs/2006.16231)
-
-* [Periodic Windowed Behavior in SGR1935+2154 SGR Bursts](https://arxiv.org/abs/2006.16480)
 
 * [Scintillation can explain the spectral structure of the bright radio burst from SGR 1935+2154](https://arxiv.org/abs/2006.13184)
 
