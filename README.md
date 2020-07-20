@@ -2,6 +2,20 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>20 July</h2>
+Papers Discussed:
+
+* [A New Method to Measure Hubble Parameter H(z) using Fast Radio Bursts](https://arxiv.org/abs/2004.12649)
+
+* [Is GRB 110715A the progenitor of FRB 171209?](https://arxiv.org/abs/2004.12050)
+
+* [Dispersion measure: Confusion, Constants & Clarity](https://arxiv.org/abs/2007.02886v1)
+
+* [A Distant Fast Radio Burst Associated to its Host Galaxy with the Very Large Array](https://arxiv.org/abs/2007.02155)
+
+* [Detection of two bright FRB-like radio bursts from magnetar SGR 1935+2154 during a multi-frequency monitoring campaign](https://arxiv.org/abs/2007.05101)
+
+
 <h2>29 June</h2>
 Papers Discussed:
 
