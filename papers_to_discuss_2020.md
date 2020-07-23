@@ -32,6 +32,7 @@
 
 * [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
 
+* [Galactic contribution to the dispersion measure of extragalactic fast radio bursts](https://arxiv.org/abs/2007.11542)
 
 <h4> 1935+2154 </h4>
 
