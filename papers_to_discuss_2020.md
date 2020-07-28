@@ -34,6 +34,8 @@
 
 * [Galactic contribution to the dispersion measure of extragalactic fast radio bursts](https://arxiv.org/abs/2007.11542)
 
+* [A targeted search for repeating fast radio bursts associated with gamma-ray bursts](https://arxiv.org/abs/2007.13246)
+
 <h4> 1935+2154 </h4>
 
 * [Constraining the X-ray - Infrared spectral index of second-timescale flares from SGR1935+2154 with Palomar Gattini-IR](https://arxiv.org/abs/2007.02978)
