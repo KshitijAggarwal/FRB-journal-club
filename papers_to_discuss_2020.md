@@ -36,6 +36,8 @@
 
 * [A targeted search for repeating fast radio bursts associated with gamma-ray bursts](https://arxiv.org/abs/2007.13246)
 
+* [Detection of 15 bursts from FRB 180916.J0158+65 with the uGMRT](https://arxiv.org/abs/2007.14404)
+
 <h4> 1935+2154 </h4>
 
 * [Constraining the X-ray - Infrared spectral index of second-timescale flares from SGR1935+2154 with Palomar Gattini-IR](https://arxiv.org/abs/2007.02978)
