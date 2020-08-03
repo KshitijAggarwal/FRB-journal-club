@@ -20,8 +20,6 @@
 
 * [Constraining HeII Reionization Detection Uncertainties via Fast Radio Bursts](https://arxiv.org/abs/2006.11072)
 
-* [A population analysis of pulse broadening in ASKAP Fast Radio Bursts](https://arxiv.org/abs/2006.16502)
-
 * [Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102](https://arxiv.org/abs/2007.01616)
 
 * [On the true fractions of repeating and non-repeating FRB sources](https://arxiv.org/abs/2007.02400)
@@ -35,8 +33,6 @@
 * [Galactic contribution to the dispersion measure of extragalactic fast radio bursts](https://arxiv.org/abs/2007.11542)
 
 * [A targeted search for repeating fast radio bursts associated with gamma-ray bursts](https://arxiv.org/abs/2007.13246)
-
-* [Detection of 15 bursts from FRB 180916.J0158+65 with the uGMRT](https://arxiv.org/abs/2007.14404)
 
 * [Dispersion measures of fast radio burst host galaxies derived from IllustrisTNG simulation](https://arxiv.org/abs/2007.13935)
 
@@ -77,8 +73,6 @@
 * [Are Fast Radio Bursts Produced By Large Glitches Of Anomalous X-ray Pulsars?](https://arxiv.org/abs/2007.08370)
 
 * [Free electron laser in magnetars/Fast Radio Bursts](https://arxiv.org/abs/2006.16029)
-
-* [What binary systems are the most likely sources for periodically repeating FRBs?](https://arxiv.org/abs/2006.10328)
 
 * [Periodically-repeating fast radio bursts: Lense-Thirring precession of a debris disk?](https://arxiv.org/abs/2006.01552)
 
