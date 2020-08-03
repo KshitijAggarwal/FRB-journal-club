@@ -2,6 +2,17 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>3 August</h2>
+Papers Discussed:
+
+* [A population analysis of pulse broadening in ASKAP Fast Radio Bursts](https://arxiv.org/abs/2006.16502)
+
+* [What binary systems are the most likely sources for periodically repeating FRBs?](https://arxiv.org/abs/2006.10328)
+
+* [Detection of 15 bursts from FRB 180916.J0158+65 with the uGMRT](https://arxiv.org/abs/2007.14404)
+
+
+
 <h2>20 July</h2>
 Papers Discussed:
 
