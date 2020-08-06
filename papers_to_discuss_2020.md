@@ -36,6 +36,9 @@
 
 * [Dispersion measures of fast radio burst host galaxies derived from IllustrisTNG simulation](https://arxiv.org/abs/2007.13935)
 
+* [Fast radio bursts to be detected with the Square Kilometre Array](https://arxiv.org/abs/2008.00007)
+
+
 <h4> 1935+2154 </h4>
 
 * [Constraining the X-ray - Infrared spectral index of second-timescale flares from SGR1935+2154 with Palomar Gattini-IR](https://arxiv.org/abs/2007.02978)
@@ -67,6 +70,8 @@
 * [Revisiting the confrontation of the shock-powered synchrotron maser model with the Galactic FRB 200428](https://arxiv.org/abs/2006.00484)
 
 <h3> Theory </h3>
+
+* [Fast Radio Burst Breakouts from Magnetar Burst Fireballs](https://arxiv.org/abs/2008.01114)
 
 * [What does FRB light-curve variability tell us about the emission mechanism?](https://arxiv.org/abs/2007.07265)
 
