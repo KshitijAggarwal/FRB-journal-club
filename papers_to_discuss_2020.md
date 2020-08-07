@@ -38,6 +38,7 @@
 
 * [Fast radio bursts to be detected with the Square Kilometre Array](https://arxiv.org/abs/2008.00007)
 
+* [A simple relationship for the spectro-temporal structure of bursts from FRB 121102](https://arxiv.org/abs/2008.02395)
 
 <h4> 1935+2154 </h4>
 
