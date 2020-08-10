@@ -40,6 +40,8 @@
 
 * [A simple relationship for the spectro-temporal structure of bursts from FRB 121102](https://arxiv.org/abs/2008.02395)
 
+* [FRB 121102 Bursts at a Constant Rate per Log Time](https://arxiv.org/abs/2008.02809)
+
 <h4> 1935+2154 </h4>
 
 * [Constraining the X-ray - Infrared spectral index of second-timescale flares from SGR1935+2154 with Palomar Gattini-IR](https://arxiv.org/abs/2007.02978)
