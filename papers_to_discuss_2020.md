@@ -40,6 +40,8 @@
 
 * [First Discovery of a Fast Radio Burst at 350 MHz by the GBNCC Survey](https://arxiv.org/abs/2008.04217)
 
+* [FRBs: the Dispersion Measure of Host Galaxies](https://arxiv.org/abs/2008.04634)
+
 <h4> 1935+2154 </h4>
 
 * [Multi-Wavelength Constraints on the Outflow Properties of the Extremely Bright Millisecond Radio Bursts from the Galactic Magnetar SGR 1935+2154](https://arxiv.org/abs/2008.03634)
