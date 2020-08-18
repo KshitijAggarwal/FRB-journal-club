@@ -32,14 +32,6 @@
 
 * [Galactic contribution to the dispersion measure of extragalactic fast radio bursts](https://arxiv.org/abs/2007.11542)
 
-* [Dispersion measures of fast radio burst host galaxies derived from IllustrisTNG simulation](https://arxiv.org/abs/2007.13935)
-
-* [Fast radio bursts to be detected with the Square Kilometre Array](https://arxiv.org/abs/2008.00007)
-
-* [Repeating behaviour of FRB 121102: periodicity, waiting times and energy distribution](https://arxiv.org/abs/2008.03461)
-
-* [First Discovery of a Fast Radio Burst at 350 MHz by the GBNCC Survey](https://arxiv.org/abs/2008.04217)
-
 * [FRBs: the Dispersion Measure of Host Galaxies](https://arxiv.org/abs/2008.04634)
 
 <h4> 1935+2154 </h4>
@@ -63,8 +55,6 @@
 * [Fast Radio Bursts from reconnection events in magnetar magnetospheres](http://www.physics.purdue.edu/~lyutikov/FRB_magnetar.pdf)
 
 * [On the magnetospheric origin of Repeating Fast Radio Bursts](https://arxiv.org/abs/2005.02100)
-
-* [A unified picture of Galactic and cosmological fast radio bursts](https://arxiv.org/abs/2005.06736)
 
 * [A Magnetar-Asteroid Impact Model for FRB 200428 Associated with an X-ray Burst from SGR 1935+2154](https://arxiv.org/abs/2005.12048)
 
