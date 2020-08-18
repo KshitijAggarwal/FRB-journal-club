@@ -3,6 +3,18 @@
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
 
+<h2>17 August</h2>
+Papers Discussed:
+
+* [A unified picture of Galactic and cosmological fast radio bursts](https://arxiv.org/abs/2005.06736)
+
+* [Repeating behaviour of FRB 121102: periodicity, waiting times and energy distribution](https://arxiv.org/abs/2008.03461)
+
+* [First Discovery of a Fast Radio Burst at 350 MHz by the GBNCC Survey](https://arxiv.org/abs/2008.04217)
+
+* [Fast radio bursts to be detected with the Square Kilometre Array](https://arxiv.org/abs/2008.00007)
+
+
 <h2>10 August</h2>
 Papers Discussed:
 
@@ -14,6 +26,7 @@ Papers Discussed:
 
 * [On the Distance of SGR 1935+2154 Associated with FRB 200428](https://arxiv.org/abs/2005.11109)
 
+* [Dispersion measures of fast radio burst host galaxies derived from IllustrisTNG simulation](https://arxiv.org/abs/2007.13935)
 
 
 <h2>3 August</h2>
