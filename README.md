@@ -3,6 +3,18 @@
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
 
+<h2>24 August</h2>
+Papers Discussed:
+
+* [Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?](https://arxiv.org/abs/2001.02688)
+
+* [Applying saliency-map analysis in searches for pulsars and fast radio bursts](https://arxiv.org/abs/2005.11066)
+
+* [On the true fractions of repeating and non-repeating FRB sources](https://arxiv.org/abs/2007.02400)
+
+* [Understanding FRB 200428 in the synchrotron maser shock model: consistency and possible challenge](https://arxiv.org/abs/2008.05635)
+
+
 <h2>17 August</h2>
 Papers Discussed:
 
