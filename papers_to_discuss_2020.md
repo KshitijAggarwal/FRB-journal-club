@@ -8,8 +8,6 @@
 
 * [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
 
-* [Applying saliency-map analysis in searches for pulsars and fast radio bursts](https://arxiv.org/abs/2005.11066)
-
 * [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
 
 * [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
@@ -21,8 +19,6 @@
 * [Constraining HeII Reionization Detection Uncertainties via Fast Radio Bursts](https://arxiv.org/abs/2006.11072)
 
 * [Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102](https://arxiv.org/abs/2007.01616)
-
-* [On the true fractions of repeating and non-repeating FRB sources](https://arxiv.org/abs/2007.02400)
 
 * [Gravitational Microlensing Time Delays at High Optical Depth: Image Parities and the Temporal Properties of Fast Radio Bursts](https://arxiv.org/abs/2007.03919)
 
@@ -109,7 +105,5 @@
 * [Stimulated-emission based model of fast radio bursts](https://arxiv.org/abs/2001.10454)
 
 * [Fast radio bursts as strong waves interacting with ambient medium](https://arxiv.org/abs/2001.10758)
-
-* [Wandering Massive Black Holes or Analogs of the First Repeating Fast Radio Burst?](https://arxiv.org/abs/2001.02688)
 
 * [Fast Radio Bursts from Interacting Binary Neutron Star Systems](https://arxiv.org/abs/2002.00335)
