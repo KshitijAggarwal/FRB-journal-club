@@ -30,6 +30,10 @@
 
 * [FRBs: the Dispersion Measure of Host Galaxies](https://arxiv.org/abs/2008.04634)
 
+* [No redshift evolution of non-repeating fast radio-burst rates](https://arxiv.org/abs/2008.09621)
+
+* [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
+
 <h4> 1935+2154 </h4>
 
 * [Multi-Wavelength Constraints on the Outflow Properties of the Extremely Bright Millisecond Radio Bursts from the Galactic Magnetar SGR 1935+2154](https://arxiv.org/abs/2008.03634)
