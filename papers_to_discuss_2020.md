@@ -34,6 +34,12 @@
 
 * [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
 
+* [Radio emission from a decade old Type I superluminous supernova, PTF10hgi: Comparison with FRB121102](https://arxiv.org/abs/2008.11375)
+
+* [A Synoptic VLBI Technique for Localizing Non-Repeating Fast Radio Bursts with CHIME/FRB](https://arxiv.org/abs/2008.11738)
+
+* [Constraining the transient high-energy activity of FRB180916.J0158+65 with Insight-HXMT followup observations](https://arxiv.org/abs/2008.11965)
+
 <h4> 1935+2154 </h4>
 
 * [Multi-Wavelength Constraints on the Outflow Properties of the Extremely Bright Millisecond Radio Bursts from the Galactic Magnetar SGR 1935+2154](https://arxiv.org/abs/2008.03634)
