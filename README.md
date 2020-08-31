@@ -2,6 +2,23 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>31 August</h2>
+Papers Discussed:
+
+* [Radio emission from a decade old Type I superluminous supernova, PTF10hgi: Comparison with FRB121102](https://arxiv.org/abs/2008.11375)
+
+* [A Synoptic VLBI Technique for Localizing Non-Repeating Fast Radio Bursts with CHIME/FRB](https://arxiv.org/abs/2008.11738)
+
+* [Constraining the transient high-energy activity of FRB180916.J0158+65 with Insight-HXMT followup observations](https://arxiv.org/abs/2008.11965)
+
+* [Galactic contribution to the dispersion measure of extragalactic fast radio bursts](https://arxiv.org/abs/2007.11542)
+
+* [FRBs: the Dispersion Measure of Host Galaxies](https://arxiv.org/abs/2008.04634)
+
+* [No redshift evolution of non-repeating fast radio-burst rates](https://arxiv.org/abs/2008.09621)
+
+* [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
+
 
 <h2>24 August</h2>
 Papers Discussed:
