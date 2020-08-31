@@ -40,7 +40,13 @@
 
 * [Constraining the transient high-energy activity of FRB180916.J0158+65 with Insight-HXMT followup observations](https://arxiv.org/abs/2008.11965)
 
+* [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
+
+* [LOFAR early-time search for coherent radio emission from Short GRB 181123B](https://arxiv.org/abs/2008.12657)
+
 <h4> 1935+2154 </h4>
+
+* [Neutrino Counterparts of Fast Radio Bursts](https://arxiv.org/abs/2008.12318)
 
 * [Multi-Wavelength Constraints on the Outflow Properties of the Extremely Bright Millisecond Radio Bursts from the Galactic Magnetar SGR 1935+2154](https://arxiv.org/abs/2008.03634)
 
