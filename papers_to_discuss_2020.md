@@ -6,8 +6,6 @@
 
 * [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
 
-* [Cosmology with gravitationally lensed repeating Fast Radio Bursts](https://arxiv.org/abs/2004.11643)
-
 * [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
 
 * [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
@@ -26,19 +24,7 @@
 
 * [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
 
-* [Galactic contribution to the dispersion measure of extragalactic fast radio bursts](https://arxiv.org/abs/2007.11542)
-
-* [FRBs: the Dispersion Measure of Host Galaxies](https://arxiv.org/abs/2008.04634)
-
-* [No redshift evolution of non-repeating fast radio-burst rates](https://arxiv.org/abs/2008.09621)
-
 * [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
-
-* [Radio emission from a decade old Type I superluminous supernova, PTF10hgi: Comparison with FRB121102](https://arxiv.org/abs/2008.11375)
-
-* [A Synoptic VLBI Technique for Localizing Non-Repeating Fast Radio Bursts with CHIME/FRB](https://arxiv.org/abs/2008.11738)
-
-* [Constraining the transient high-energy activity of FRB180916.J0158+65 with Insight-HXMT followup observations](https://arxiv.org/abs/2008.11965)
 
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
 
