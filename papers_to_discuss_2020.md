@@ -30,6 +30,9 @@
 
 * [LOFAR early-time search for coherent radio emission from Short GRB 181123B](https://arxiv.org/abs/2008.12657)
 
+* [Extremely band-limited repetition from a fast radio burst source](https://arxiv.org/abs/2009.01214)
+
+
 <h4> 1935+2154 </h4>
 
 * [Neutrino Counterparts of Fast Radio Bursts](https://arxiv.org/abs/2008.12318)
@@ -61,6 +64,8 @@
 * [Revisiting the confrontation of the shock-powered synchrotron maser model with the Galactic FRB 200428](https://arxiv.org/abs/2006.00484)
 
 <h3> Theory </h3>
+
+* [On the magnetoionic environments of fast radio bursts](https://arxiv.org/abs/2009.00790)
 
 * [Fast Radio Burst Breakouts from Magnetar Burst Fireballs](https://arxiv.org/abs/2008.01114)
 
