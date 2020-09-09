@@ -32,6 +32,7 @@
 
 * [Extremely band-limited repetition from a fast radio burst source](https://arxiv.org/abs/2009.01214)
 
+* [Spectro-temporal analysis of a sample of bursts from FRB 121102](https://arxiv.org/abs/2009.03795)
 
 <h4> 1935+2154 </h4>
 
