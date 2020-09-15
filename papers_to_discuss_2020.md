@@ -28,12 +28,6 @@
 
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
 
-* [LOFAR early-time search for coherent radio emission from Short GRB 181123B](https://arxiv.org/abs/2008.12657)
-
-* [Extremely band-limited repetition from a fast radio burst source](https://arxiv.org/abs/2009.01214)
-
-* [Spectro-temporal analysis of a sample of bursts from FRB 121102](https://arxiv.org/abs/2009.03795)
-
 <h4> 1935+2154 </h4>
 
 * [Neutrino Counterparts of Fast Radio Bursts](https://arxiv.org/abs/2008.12318)
