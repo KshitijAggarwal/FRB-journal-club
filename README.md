@@ -2,6 +2,16 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>15 September</h2>
+Papers Discussed: 
+
+* [LOFAR early-time search for coherent radio emission from Short GRB 181123B](https://arxiv.org/abs/2008.12657)
+
+* [Extremely band-limited repetition from a fast radio burst source](https://arxiv.org/abs/2009.01214)
+
+* [Spectro-temporal analysis of a sample of bursts from FRB 121102](https://arxiv.org/abs/2009.03795)
+
+
 <h2>31 August</h2>
 Papers Discussed:
 
