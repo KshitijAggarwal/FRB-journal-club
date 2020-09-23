@@ -28,6 +28,8 @@
 
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
 
+* [Bursts before Burst: A Comparative Study on FRB 200428-associated X-ray Burst and other FRB-absent X-ray Bursts from SGR J1935+2154](https://arxiv.org/abs/2009.10342)
+
 <h4> 1935+2154 </h4>
 
 * [Neutrino Counterparts of Fast Radio Bursts](https://arxiv.org/abs/2008.12318)
