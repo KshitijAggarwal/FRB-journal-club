@@ -1,12 +1,6 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Rotation Measure Evolution of the Repeating Fast Radio Burst Source FRB 121102](https://arxiv.org/abs/2009.12135)
-
 * [Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics](https://arxiv.org/abs/2009.11735)
-
-* [Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for their Progenitors](https://arxiv.org/abs/2009.10747)
-
-* [Searching for Gravitational Waves with Strongly Lensed Repeating Fast Radio Bursts](https://arxiv.org/abs/2009.11252)
 
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
 
@@ -23,8 +17,6 @@
 * [Constraining HeII Reionization Detection Uncertainties via Fast Radio Bursts](https://arxiv.org/abs/2006.11072)
 
 * [Dispersion measure components within host galaxies of Fast Radio Bursts: observational constraints from statistical properties of FRBs](https://arxiv.org/abs/2005.12891)
-
-* [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
 
 * [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
 
@@ -72,8 +64,6 @@
 <h3> Theory </h3>
 
 * [Exploring the effects of magnetar bursts in pulsar wind nebulae](https://arxiv.org/abs/2009.07737)
-
-* [On the magnetoionic environments of fast radio bursts](https://arxiv.org/abs/2009.00790)
 
 * [Fast Radio Burst Breakouts from Magnetar Burst Fireballs](https://arxiv.org/abs/2008.01114)
 
