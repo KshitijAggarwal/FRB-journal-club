@@ -2,7 +2,23 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
-<h2>15 September</h2>
+<h2>28 September</h2>
+
+Papers Discussed: 
+
+* [Rotation Measure Evolution of the Repeating Fast Radio Burst Source FRB 121102](https://arxiv.org/abs/2009.12135)
+
+* [Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for their Progenitors](https://arxiv.org/abs/2009.10747)
+
+* [Searching for Gravitational Waves with Strongly Lensed Repeating Fast Radio Bursts](https://arxiv.org/abs/2009.11252)
+
+* [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
+
+* [On the magnetoionic environments of fast radio bursts](https://arxiv.org/abs/2009.00790)
+
+
+
+<h2>14 September</h2>
 Papers Discussed: 
 
 * [LOFAR early-time search for coherent radio emission from Short GRB 181123B](https://arxiv.org/abs/2008.12657)
