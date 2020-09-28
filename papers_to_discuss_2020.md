@@ -1,34 +1,35 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
-
-* [The multiwavelength counterparts of fast radio bursts](https://arxiv.org/abs/2004.10787)
-
-* [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
-
-* [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
-
-* [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
-
-* [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
-
-* [Dispersion measure components within host galaxies of Fast Radio Bursts: observational constraints from statistical properties of FRBs](https://arxiv.org/abs/2005.12891)
-
-* [Constraining HeII Reionization Detection Uncertainties via Fast Radio Bursts](https://arxiv.org/abs/2006.11072)
-
-* [Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102](https://arxiv.org/abs/2007.01616)
-
-* [Gravitational Microlensing Time Delays at High Optical Depth: Image Parities and the Temporal Properties of Fast Radio Bursts](https://arxiv.org/abs/2007.03919)
-
-* [Probing primordial non-Gaussianity with Fast Radio Bursts](https://arxiv.org/abs/2007.04054)
-
-* [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
-
-* [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
+* [Bursts before Burst: A Comparative Study on FRB 200428-associated X-ray Burst and other FRB-absent X-ray Bursts from SGR J1935+2154](https://arxiv.org/abs/2009.10342)
 
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
 
-* [Bursts before Burst: A Comparative Study on FRB 200428-associated X-ray Burst and other FRB-absent X-ray Bursts from SGR J1935+2154](https://arxiv.org/abs/2009.10342)
+* [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
+
+* [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
+
+* [Probing primordial non-Gaussianity with Fast Radio Bursts](https://arxiv.org/abs/2007.04054)
+
+* [Gravitational Microlensing Time Delays at High Optical Depth: Image Parities and the Temporal Properties of Fast Radio Bursts](https://arxiv.org/abs/2007.03919)
+
+* [Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102](https://arxiv.org/abs/2007.01616)
+
+* [Constraining HeII Reionization Detection Uncertainties via Fast Radio Bursts](https://arxiv.org/abs/2006.11072)
+
+* [Dispersion measure components within host galaxies of Fast Radio Bursts: observational constraints from statistical properties of FRBs](https://arxiv.org/abs/2005.12891)
+
+* [Cosmological parameter estimation for dynamical dark energy models with future fast radio burst observations](https://arxiv.org/abs/2006.01450)
+
+* [High time resolution and polarisation properties of ASKAP-localised fast radio bursts](https://arxiv.org/abs/2005.13162)
+
+* [Disentangling the Cosmic Web Towards FRB 190608](https://arxiv.org/abs/2005.13157)
+
+* [Reconstruction of Reionization History through Dispersion Measure of Fast Radio Bursts](https://arxiv.org/abs/2004.11276)
+
+* [The multiwavelength counterparts of fast radio bursts](https://arxiv.org/abs/2004.10787)
+
+* [Wave effects in the microlensing of pulsars and FRBs by point masses](https://arxiv.org/abs/2002.01570)
+
 
 <h4> 1935+2154 </h4>
 
