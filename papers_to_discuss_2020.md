@@ -1,6 +1,12 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Bursts before Burst: A Comparative Study on FRB 200428-associated X-ray Burst and other FRB-absent X-ray Bursts from SGR J1935+2154](https://arxiv.org/abs/2009.10342)
+* [Rotation Measure Evolution of the Repeating Fast Radio Burst Source FRB 121102](https://arxiv.org/abs/2009.12135)
+
+* [Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics](https://arxiv.org/abs/2009.11735)
+
+* [Host Galaxy Properties and Offset Distributions of Fast Radio Bursts: Implications for their Progenitors](https://arxiv.org/abs/2009.10747)
+
+* [Searching for Gravitational Waves with Strongly Lensed Repeating Fast Radio Bursts](https://arxiv.org/abs/2009.11252)
 
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
 
@@ -33,6 +39,8 @@
 
 <h4> 1935+2154 </h4>
 
+* [Bursts before Burst: A Comparative Study on FRB 200428-associated X-ray Burst and other FRB-absent X-ray Bursts from SGR J1935+2154](https://arxiv.org/abs/2009.10342)
+
 * [Neutrino Counterparts of Fast Radio Bursts](https://arxiv.org/abs/2008.12318)
 
 * [Multi-Wavelength Constraints on the Outflow Properties of the Extremely Bright Millisecond Radio Bursts from the Galactic Magnetar SGR 1935+2154](https://arxiv.org/abs/2008.03634)
@@ -62,6 +70,8 @@
 * [Revisiting the confrontation of the shock-powered synchrotron maser model with the Galactic FRB 200428](https://arxiv.org/abs/2006.00484)
 
 <h3> Theory </h3>
+
+* [Exploring the effects of magnetar bursts in pulsar wind nebulae](https://arxiv.org/abs/2009.07737)
 
 * [On the magnetoionic environments of fast radio bursts](https://arxiv.org/abs/2009.00790)
 
