@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Localized FRBs are Consistent with Magnetar Progenitors Formed in Core-Collapse Supernovae](https://arxiv.org/abs/2009.13030)
+
 * [Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics](https://arxiv.org/abs/2009.11735)
 
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
