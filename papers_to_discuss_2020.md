@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Observing superluminous supernovae and long gamma ray bursts as potential birthplaces of repeating fast radio bursts](https://arxiv.org/abs/2009.14042)
+
+* [Multiwavelength Radio Observations of Two Repeating Fast Radio Burst Sources: FRB 121102 and FRB 180916.J0158+65](https://arxiv.org/abs/2009.13559)
+
 * [Localized FRBs are Consistent with Magnetar Progenitors Formed in Core-Collapse Supernovae](https://arxiv.org/abs/2009.13030)
 
 * [Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics](https://arxiv.org/abs/2009.11735)
