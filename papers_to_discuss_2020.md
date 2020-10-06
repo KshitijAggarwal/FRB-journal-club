@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Statistical modelling of the cosmological dispersion measure](https://arxiv.org/abs/2010.01560)
+
 * [Observing superluminous supernovae and long gamma ray bursts as potential birthplaces of repeating fast radio bursts](https://arxiv.org/abs/2009.14042)
 
 * [Multiwavelength Radio Observations of Two Repeating Fast Radio Burst Sources: FRB 121102 and FRB 180916.J0158+65](https://arxiv.org/abs/2009.13559)
