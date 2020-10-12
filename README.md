@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>12 October</h2>
+
+Papers Discussed: 
+
+* [Statistical modelling of the cosmological dispersion measure](https://arxiv.org/abs/2010.01560)
+
+* [Observing superluminous supernovae and long gamma ray bursts as potential birthplaces of repeating fast radio bursts](https://arxiv.org/abs/2009.14042)
+
+* [Multiwavelength Radio Observations of Two Repeating Fast Radio Burst Sources: FRB 121102 and FRB 180916.J0158+65](https://arxiv.org/abs/2009.13559)
+
+* [Bursts before Burst: A Comparative Study on FRB 200428-associated X-ray Burst and other FRB-absent X-ray Bursts from SGR J1935+2154](https://arxiv.org/abs/2009.10342)
+
+
 <h2>28 September</h2>
 
 Papers Discussed: 
