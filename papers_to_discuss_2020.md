@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Microsecond polarimetry of the repeating FRB 20180916B](https://arxiv.org/abs/2010.05800)
+
 * [Localized FRBs are Consistent with Magnetar Progenitors Formed in Core-Collapse Supernovae](https://arxiv.org/abs/2009.13030)
 
 * [Confronting the Magnetar Interpretation of Fast Radio Bursts Through Their Host Galaxy Demographics](https://arxiv.org/abs/2009.11735)
