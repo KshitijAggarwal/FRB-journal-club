@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [An analysis pipeline for CHIME/FRB full-array baseband data](https://arxiv.org/abs/2010.06748)
+
+* [Late-Time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts](https://arxiv.org/abs/2010.06612)
+
 * [Microsecond polarimetry of the repeating FRB 20180916B](https://arxiv.org/abs/2010.05800)
 
 * [Localized FRBs are Consistent with Magnetar Progenitors Formed in Core-Collapse Supernovae](https://arxiv.org/abs/2009.13030)
