@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Self-modulation of Fast Radio Bursts](https://arxiv.org/abs/2010.08282)
+
 * [An analysis pipeline for CHIME/FRB full-array baseband data](https://arxiv.org/abs/2010.06748)
 
 * [Late-Time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts](https://arxiv.org/abs/2010.06612)
