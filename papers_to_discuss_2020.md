@@ -1,5 +1,23 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [FRB 181112 as a Rapidly-Rotating Massive Neutron Star just after a Binary Neutron Star Merger?: Implications for Future Constraints on Neutron Star Equations of State](https://arxiv.org/abs/2010.07796)
+
+* [Periodic structure in the FRB 121102 spectra](https://arxiv.org/abs/2010.15145)
+
+* [The capability of the Australian Square Kilometre Array Pathfinder to detect prompt radio bursts from neutron star mergers](https://arxiv.org/abs/2010.09949)
+
+* [Dispersion and Rotation Measures from the Ejecta of Compact Binary Mergers: Clue to the Progenitors of Fast Radio Bursts](https://arxiv.org/abs/2010.10702)
+
+* [A shared law between sources of repeating fast radio bursts](https://arxiv.org/abs/2010.14041)
+
+* [Implications of the lowest frequency detection of the persistent counterpart of FRB121102](https://arxiv.org/abs/2010.14334)
+
+* [Repeating Fast Radio Bursts from Pulsar-Asteroid Belt Collisions: Frequency Drifting and Polarization](https://arxiv.org/abs/2010.14379)
+
+* [Fast Radio Burst Dispersion Measure Distribution as a Probe of Helium Reionization](https://arxiv.org/abs/2010.14530)
+
+* [Double-peaked Pulse Profile of FRB 200428: Synchrotron Maser from Magnetized Shocks Encountering a Density Jump](https://arxiv.org/abs/2010.14787)
+
 * [Self-modulation of Fast Radio Bursts](https://arxiv.org/abs/2010.08282)
 
 * [An analysis pipeline for CHIME/FRB full-array baseband data](https://arxiv.org/abs/2010.06748)
