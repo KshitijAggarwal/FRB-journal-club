@@ -4,27 +4,17 @@
 
 * [Periodic structure in the FRB 121102 spectra](https://arxiv.org/abs/2010.15145)
 
-* [The capability of the Australian Square Kilometre Array Pathfinder to detect prompt radio bursts from neutron star mergers](https://arxiv.org/abs/2010.09949)
-
 * [Dispersion and Rotation Measures from the Ejecta of Compact Binary Mergers: Clue to the Progenitors of Fast Radio Bursts](https://arxiv.org/abs/2010.10702)
-
-* [A shared law between sources of repeating fast radio bursts](https://arxiv.org/abs/2010.14041)
-
-* [Implications of the lowest frequency detection of the persistent counterpart of FRB121102](https://arxiv.org/abs/2010.14334)
 
 * [Repeating Fast Radio Bursts from Pulsar-Asteroid Belt Collisions: Frequency Drifting and Polarization](https://arxiv.org/abs/2010.14379)
 
 * [Fast Radio Burst Dispersion Measure Distribution as a Probe of Helium Reionization](https://arxiv.org/abs/2010.14530)
-
-* [Double-peaked Pulse Profile of FRB 200428: Synchrotron Maser from Magnetized Shocks Encountering a Density Jump](https://arxiv.org/abs/2010.14787)
 
 * [Self-modulation of Fast Radio Bursts](https://arxiv.org/abs/2010.08282)
 
 * [An analysis pipeline for CHIME/FRB full-array baseband data](https://arxiv.org/abs/2010.06748)
 
 * [Late-Time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts](https://arxiv.org/abs/2010.06612)
-
-* [Microsecond polarimetry of the repeating FRB 20180916B](https://arxiv.org/abs/2010.05800)
 
 * [Localized FRBs are Consistent with Magnetar Progenitors Formed in Core-Collapse Supernovae](https://arxiv.org/abs/2009.13030)
 
@@ -35,8 +25,6 @@
 * [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
 
 * [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
-
-* [Probing primordial non-Gaussianity with Fast Radio Bursts](https://arxiv.org/abs/2007.04054)
 
 * [Gravitational Microlensing Time Delays at High Optical Depth: Image Parities and the Temporal Properties of Fast Radio Bursts](https://arxiv.org/abs/2007.03919)
 
