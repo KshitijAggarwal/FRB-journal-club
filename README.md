@@ -2,6 +2,23 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>2 November</h2>
+
+Papers Discussed: 
+
+* [The capability of the Australian Square Kilometre Array Pathfinder to detect prompt radio bursts from neutron star mergers](https://arxiv.org/abs/2010.09949)
+
+* [A shared law between sources of repeating fast radio bursts](https://arxiv.org/abs/2010.14041)
+
+* [Implications of the lowest frequency detection of the persistent counterpart of FRB121102](https://arxiv.org/abs/2010.14334)
+
+* [Double-peaked Pulse Profile of FRB 200428: Synchrotron Maser from Magnetized Shocks Encountering a Density Jump](https://arxiv.org/abs/2010.14787)
+
+* [Microsecond polarimetry of the repeating FRB 20180916B](https://arxiv.org/abs/2010.05800)
+
+* [Probing primordial non-Gaussianity with Fast Radio Bursts](https://arxiv.org/abs/2007.04054)
+
+
 <h2>12 October</h2>
 
 Papers Discussed: 
