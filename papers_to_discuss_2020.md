@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Diverse polarization angle swings from a repeating fast radio burst source](https://arxiv.org/abs/2011.00171)
+
+* [Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles](https://arxiv.org/abs/2011.01339)
+
 * [FRB 181112 as a Rapidly-Rotating Massive Neutron Star just after a Binary Neutron Star Merger?: Implications for Future Constraints on Neutron Star Equations of State](https://arxiv.org/abs/2010.07796)
 
 * [Periodic structure in the FRB 121102 spectra](https://arxiv.org/abs/2010.15145)
