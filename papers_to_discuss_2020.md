@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500)
+
+* [The 60-pc Environment of FRB 20180916B](https://arxiv.org/abs/2011.03257)
+
 * [Diverse polarization angle swings from a repeating fast radio burst source](https://arxiv.org/abs/2011.00171)
 
 * [Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles](https://arxiv.org/abs/2011.01339)
