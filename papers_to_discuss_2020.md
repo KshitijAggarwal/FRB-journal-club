@@ -1,14 +1,8 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [On the energy and redshift distributions of fast radio bursts](https://arxiv.org/abs/2011.06151)
-
 * [X-ray and Radio Bursts from the Magnetar 1E1547.0-5408](https://arxiv.org/abs/2011.06607)
 
 * [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500)
-
-* [The 60-pc Environment of FRB 20180916B](https://arxiv.org/abs/2011.03257)
-
-* [Diverse polarization angle swings from a repeating fast radio burst source](https://arxiv.org/abs/2011.00171)
 
 * [Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles](https://arxiv.org/abs/2011.01339)
 
@@ -37,8 +31,6 @@
 * [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
 
 * [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
-
-* [Gravitational Microlensing Time Delays at High Optical Depth: Image Parities and the Temporal Properties of Fast Radio Bursts](https://arxiv.org/abs/2007.03919)
 
 * [Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102](https://arxiv.org/abs/2007.01616)
 
