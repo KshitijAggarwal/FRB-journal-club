@@ -2,6 +2,21 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Have a look at this review article ([Fast Radio Bursts](https://arxiv.org/abs/1904.07947)) for an observational and theoretical introduction about FRBs.  
 
+<h2>16 November</h2>
+
+Papers Discussed: 
+
+* [On the energy and redshift distributions of fast radio bursts](https://arxiv.org/abs/2011.06151)
+
+* [The 60-pc Environment of FRB 20180916B](https://arxiv.org/abs/2011.03257)
+
+* [Diverse polarization angle swings from a repeating fast radio burst source](https://arxiv.org/abs/2011.00171)
+
+* [Gravitational Microlensing Time Delays at High Optical Depth: Image Parities and the Temporal Properties of Fast Radio Bursts](https://arxiv.org/abs/2007.03919)
+
+* [A population analysis of pulse broadening in ASKAP Fast Radio Bursts](https://arxiv.org/abs/2006.16502)
+
+
 <h2>2 November</h2>
 
 Papers Discussed: 
