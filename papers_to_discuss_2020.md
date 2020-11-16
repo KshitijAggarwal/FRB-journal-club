@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [On the energy and redshift distributions of fast radio bursts](https://arxiv.org/abs/2011.06151)
+
+* [X-ray and Radio Bursts from the Magnetar 1E1547.0-5408](https://arxiv.org/abs/2011.06607)
+
 * [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500)
 
 * [The 60-pc Environment of FRB 20180916B](https://arxiv.org/abs/2011.03257)
