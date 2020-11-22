@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
+
 * [Deep optical observations contemporaneous with emission from the periodic FRB 180916.J0158+65](https://arxiv.org/abs/2011.07561)
 
 * [X-ray and Radio Bursts from the Magnetar 1E1547.0-5408](https://arxiv.org/abs/2011.06607)
