@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Estimating fast transient detection pipeline efficiencies at UTMOST via real-time injection of mock FRBs](https://arxiv.org/abs/2011.10191)
+
 * [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
 
 * [Deep optical observations contemporaneous with emission from the periodic FRB 180916.J0158+65](https://arxiv.org/abs/2011.07561)
