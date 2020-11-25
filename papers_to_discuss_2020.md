@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Exploring the epoch of hydrogen reionization using FRBs](https://arxiv.org/abs/2011.11643)
+
+* [The Environment of FRB 121102](https://arxiv.org/abs/2011.11666)
+
 * [Estimating fast transient detection pipeline efficiencies at UTMOST via real-time injection of mock FRBs](https://arxiv.org/abs/2011.10191)
 
 * [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
