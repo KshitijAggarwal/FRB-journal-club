@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [FRB131104 Swift BAT data revisited: No evidence of a gamma-ray counterpart](https://arxiv.org/abs/2011.12555)
+
 * [Exploring the epoch of hydrogen reionization using FRBs](https://arxiv.org/abs/2011.11643)
 
 * [The Environment of FRB 121102](https://arxiv.org/abs/2011.11666)
