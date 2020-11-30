@@ -2,6 +2,18 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>30 November</h2>
+
+Papers Discussed: 
+
+* [Estimating fast transient detection pipeline efficiencies at UTMOST via real-time injection of mock FRBs](https://arxiv.org/abs/2011.10191)
+
+* [An analysis pipeline for CHIME/FRB full-array baseband data](https://arxiv.org/abs/2010.06748)
+
+* [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
+
+* [On the Non-detection of Circular Polarisation from Repeating Fast Radio Bursts](https://arxiv.org/abs/2011.03960)
+
 <h2>16 November</h2>
 
 Papers Discussed: 
