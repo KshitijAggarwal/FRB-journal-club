@@ -6,8 +6,6 @@
 
 * [The Environment of FRB 121102](https://arxiv.org/abs/2011.11666)
 
-* [Estimating fast transient detection pipeline efficiencies at UTMOST via real-time injection of mock FRBs](https://arxiv.org/abs/2011.10191)
-
 * [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
 
 * [Deep optical observations contemporaneous with emission from the periodic FRB 180916.J0158+65](https://arxiv.org/abs/2011.07561)
@@ -30,8 +28,6 @@
 
 * [Self-modulation of Fast Radio Bursts](https://arxiv.org/abs/2010.08282)
 
-* [An analysis pipeline for CHIME/FRB full-array baseband data](https://arxiv.org/abs/2010.06748)
-
 * [Late-Time Radio and Millimeter Observations of Superluminous Supernovae and Long Gamma Ray Bursts: Implications for Obscured Star Formation, Central Engines, and Fast Radio Bursts](https://arxiv.org/abs/2010.06612)
 
 * [Localized FRBs are Consistent with Magnetar Progenitors Formed in Core-Collapse Supernovae](https://arxiv.org/abs/2009.13030)
@@ -41,8 +37,6 @@
 * [Limits on precursor and afterglow radio emission from a fast radio burst in a star-forming galaxy](https://arxiv.org/abs/2008.12488)
 
 * [Redshift estimates for fast radio bursts and implications on intergalactic magnetic fields](https://arxiv.org/abs/2008.10536)
-
-* [Probing the intergalactic turbulence with fast radio bursts](https://arxiv.org/abs/2007.04089)
 
 * [Periodic fast radio bursts from forcedly precessing neutron stars, anomalous torque, and internal magnetic field for FRB 180916.J0158+65 and FRB 121102](https://arxiv.org/abs/2007.01616)
 
