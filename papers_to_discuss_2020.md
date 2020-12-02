@@ -87,6 +87,8 @@
 
 <h3> Theory </h3>
 
+* [Fast radio burst repeaters produced via Kozai-Lidov feeding of neutron stars in binary systems](https://arxiv.org/abs/2012.00029)
+
 * [Exploring the effects of magnetar bursts in pulsar wind nebulae](https://arxiv.org/abs/2009.07737)
 
 * [Fast Radio Burst Breakouts from Magnetar Burst Fireballs](https://arxiv.org/abs/2008.01114)
