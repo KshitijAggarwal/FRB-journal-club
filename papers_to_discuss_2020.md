@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The Cosmic Dispersion Measure in the EAGLE Simulations](https://arxiv.org/abs/2011.14547)
+
 * [FRB131104 Swift BAT data revisited: No evidence of a gamma-ray counterpart](https://arxiv.org/abs/2011.12555)
 
 * [Exploring the epoch of hydrogen reionization using FRBs](https://arxiv.org/abs/2011.11643)
@@ -56,6 +58,8 @@
 
 
 <h4> 1935+2154 </h4>
+
+* [Persistent Emission Properties of SGR J1935+2154 During Its 2020 Active Episode](https://arxiv.org/abs/2012.01871)
 
 * [Neutrino Counterparts of Fast Radio Bursts](https://arxiv.org/abs/2008.12318)
 
