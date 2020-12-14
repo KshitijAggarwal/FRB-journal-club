@@ -2,25 +2,13 @@
 
 * [Multi-dimensional population modelling using frbpoppy: magnetars can produce the observed Fast Radio Burst sky](https://arxiv.org/abs/2012.06396)
 
-* [Real-time triggering capabilities for Fast Radio Bursts at the MeerKAT telescope](https://arxiv.org/abs/2012.05173)
-
-* [Synthesizing the repeating FRB population using frbpoppy](https://arxiv.org/abs/2012.02460)
-
 * [Intergalactic medium dispersion measures of fast radio bursts estimated from IllustrisTNG simulation and their cosmological applications](https://arxiv.org/abs/2011.14494)
-
-* [The Cosmic Dispersion Measure in the EAGLE Simulations](https://arxiv.org/abs/2011.14547)
-
-* [FRB131104 Swift BAT data revisited: No evidence of a gamma-ray counterpart](https://arxiv.org/abs/2011.12555)
-
-* [Exploring the epoch of hydrogen reionization using FRBs](https://arxiv.org/abs/2011.11643)
 
 * [The Environment of FRB 121102](https://arxiv.org/abs/2011.11666)
 
 * [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
 
 * [Deep optical observations contemporaneous with emission from the periodic FRB 180916.J0158+65](https://arxiv.org/abs/2011.07561)
-
-* [X-ray and Radio Bursts from the Magnetar 1E1547.0-5408](https://arxiv.org/abs/2011.06607)
 
 * [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500)
 
