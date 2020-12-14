@@ -2,6 +2,23 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>14 December</h2>
+
+Papers Discussed: 
+
+* [Real-time triggering capabilities for Fast Radio Bursts at the MeerKAT telescope](https://arxiv.org/abs/2012.05173)
+
+* [Synthesizing the repeating FRB population using frbpoppy](https://arxiv.org/abs/2012.02460)
+
+* [The Cosmic Dispersion Measure in the EAGLE Simulations](https://arxiv.org/abs/2011.14547)
+
+* [FRB131104 Swift BAT data revisited: No evidence of a gamma-ray counterpart](https://arxiv.org/abs/2011.12555)
+
+* [Exploring the epoch of hydrogen reionization using FRBs](https://arxiv.org/abs/2011.11643)
+
+* [X-ray and Radio Bursts from the Magnetar 1E1547.0-5408](https://arxiv.org/abs/2011.06607)
+
+
 <h2>30 November</h2>
 
 Papers Discussed: 
