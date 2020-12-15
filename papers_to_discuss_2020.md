@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A comparison between repeating bursts of FRB 121102 and giant pulses from Crab pulsar and its applications](https://arxiv.org/abs/2012.07303)
+
 * [Multi-dimensional population modelling using frbpoppy: magnetars can produce the observed Fast Radio Burst sky](https://arxiv.org/abs/2012.06396)
 
 * [Intergalactic medium dispersion measures of fast radio bursts estimated from IllustrisTNG simulation and their cosmological applications](https://arxiv.org/abs/2011.14494)
