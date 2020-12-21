@@ -2,6 +2,21 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>21 December</h2>
+
+Papers Discussed: 
+
+* [Progress in Understanding the Enigmatic Fast Radio Bursts](https://arxiv.org/abs/2012.10377)
+
+* [Chromatic periodic activity down to 120 MHz in a Fast Radio Burst](https://arxiv.org/abs/2012.08348)
+
+* [LOFAR Detection of 110-188 MHz Emission and Frequency-Dependent Activity from FRB 20180916B](https://arxiv.org/abs/2012.08372)
+
+* [A comparison between repeating bursts of FRB 121102 and giant pulses from Crab pulsar and its applications](https://arxiv.org/abs/2012.07303)
+
+* [Intergalactic medium dispersion measures of fast radio bursts estimated from IllustrisTNG simulation and their cosmological applications](https://arxiv.org/abs/2011.14494)
+
+
 <h2>14 December</h2>
 
 Papers Discussed: 
