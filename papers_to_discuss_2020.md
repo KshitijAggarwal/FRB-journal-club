@@ -1,16 +1,6 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Progress in Understanding the Enigmatic Fast Radio Bursts](https://arxiv.org/abs/2012.10377)
-
-* [Chromatic periodic activity down to 120 MHz in a Fast Radio Burst](https://arxiv.org/abs/2012.08348)
-
-* [LOFAR Detection of 110-188 MHz Emission and Frequency-Dependent Activity from FRB 20180916B](https://arxiv.org/abs/2012.08372)
-
-* [A comparison between repeating bursts of FRB 121102 and giant pulses from Crab pulsar and its applications](https://arxiv.org/abs/2012.07303)
-
 * [Multi-dimensional population modelling using frbpoppy: magnetars can produce the observed Fast Radio Burst sky](https://arxiv.org/abs/2012.06396)
-
-* [Intergalactic medium dispersion measures of fast radio bursts estimated from IllustrisTNG simulation and their cosmological applications](https://arxiv.org/abs/2011.14494)
 
 * [The Environment of FRB 121102](https://arxiv.org/abs/2011.11666)
 
