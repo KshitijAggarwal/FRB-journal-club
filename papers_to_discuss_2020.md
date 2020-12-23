@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Fourier domain excision of periodic radio frequency interference](https://arxiv.org/abs/2012.11630)
+
+* [A High-Resolution View of Fast Radio Burst Host Environments](https://arxiv.org/abs/2012.11617)
+
 * [Multi-dimensional population modelling using frbpoppy: magnetars can produce the observed Fast Radio Burst sky](https://arxiv.org/abs/2012.06396)
 
 * [The Environment of FRB 121102](https://arxiv.org/abs/2011.11666)
