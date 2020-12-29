@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A search for hard X-ray bursts occurring simultaneously to fast radio bursts in the repeating FRB 121102](https://arxiv.org/abs/2012.14266)
+
 * [Fourier domain excision of periodic radio frequency interference](https://arxiv.org/abs/2012.11630)
 
 * [A High-Resolution View of Fast Radio Burst Host Environments](https://arxiv.org/abs/2012.11617)
