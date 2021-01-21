@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The z--DM distribution of fast radio bursts](https://arxiv.org/abs/2101.08005)
+
+* [The fast radio burst population evolves with the star-formation rate](https://arxiv.org/abs/2101.07998)
+
+* [Possible periodic activity in the short bursts of SGR 1806-20: connection to fast radio bursts](https://arxiv.org/abs/2101.07923)
+
 * [Constraining Galaxy Haloes from the Dispersion and Scattering of Fast Radio Bursts and Pulsars](https://arxiv.org/abs/2101.04784)
 
 * [The Physics of Fast Radio Bursts](https://arxiv.org/abs/2101.04907)
