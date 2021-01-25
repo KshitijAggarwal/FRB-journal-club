@@ -1,9 +1,5 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [A search for hard X-ray bursts occurring simultaneously to fast radio bursts in the repeating FRB 121102](https://arxiv.org/abs/2012.14266)
-
-* [Fourier domain excision of periodic radio frequency interference](https://arxiv.org/abs/2012.11630)
-
 * [A High-Resolution View of Fast Radio Burst Host Environments](https://arxiv.org/abs/2012.11617)
 
 * [Multi-dimensional population modelling using frbpoppy: magnetars can produce the observed Fast Radio Burst sky](https://arxiv.org/abs/2012.06396)
@@ -12,8 +8,6 @@
 
 * [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
 
-* [Deep optical observations contemporaneous with emission from the periodic FRB 180916.J0158+65](https://arxiv.org/abs/2011.07561)
-
 * [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500)
 
 * [Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles](https://arxiv.org/abs/2011.01339)
@@ -21,8 +15,6 @@
 * [FRB 181112 as a Rapidly-Rotating Massive Neutron Star just after a Binary Neutron Star Merger?: Implications for Future Constraints on Neutron Star Equations of State](https://arxiv.org/abs/2010.07796)
 
 * [Periodic structure in the FRB 121102 spectra](https://arxiv.org/abs/2010.15145)
-
-* [Dispersion and Rotation Measures from the Ejecta of Compact Binary Mergers: Clue to the Progenitors of Fast Radio Bursts](https://arxiv.org/abs/2010.10702)
 
 * [Repeating Fast Radio Bursts from Pulsar-Asteroid Belt Collisions: Frequency Drifting and Polarization](https://arxiv.org/abs/2010.14379)
 
