@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Galactic Radio Explorer: an all-sky monitor for bright radio bursts](https://arxiv.org/abs/2101.09905)
+
 * [Revealing the cosmic reionisation history with fast radio bursts in the era of Square Kilometre Array](https://arxiv.org/abs/2101.08798)
 
 * [The z--DM distribution of fast radio bursts](https://arxiv.org/abs/2101.08005)
