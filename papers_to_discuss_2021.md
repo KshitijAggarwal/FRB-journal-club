@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Effect of Redshift Distributions of Fast Radio Bursts on Cosmological Constraints](https://arxiv.org/abs/2102.00579)
+
 * [Galactic Radio Explorer: an all-sky monitor for bright radio bursts](https://arxiv.org/abs/2101.09905)
 
 * [Revealing the cosmic reionisation history with fast radio bursts in the era of Square Kilometre Array](https://arxiv.org/abs/2101.08798)
