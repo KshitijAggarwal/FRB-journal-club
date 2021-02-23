@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [CRAFTS for Fast Radio Bursts Extending the dispersion-fluence relation with new FRBs detected by FAST](https://arxiv.org/abs/2102.10546)
+
+* [Probabilistic Association of Transients to their Hosts (PATH)](https://arxiv.org/abs/2102.10627)
+
 * [Periodic Fast Radio Bursts from ULX-Like Binaries](https://arxiv.org/abs/2102.06138)
 
 * [Effect of Redshift Distributions of Fast Radio Bursts on Cosmological Constraints](https://arxiv.org/abs/2102.00579)
