@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Consistent equivalence principle tests with fast radio bursts](https://arxiv.org/abs/2102.11554)
+
 * [Emission Properties of Periodic Fast Radio Bursts from the Motion of Magnetars: Testing Dynamical Models](https://arxiv.org/abs/2101.05836)
 
 * [CRAFTS for Fast Radio Bursts Extending the dispersion-fluence relation with new FRBs detected by FAST](https://arxiv.org/abs/2102.10546)
