@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A nearby repeating fast radio burst in the direction of M81](https://arxiv.org/abs/2103.01295)
+
 * [Consistent equivalence principle tests with fast radio bursts](https://arxiv.org/abs/2102.11554)
 
 * [Emission Properties of Periodic Fast Radio Bursts from the Motion of Magnetars: Testing Dynamical Models](https://arxiv.org/abs/2101.05836)
