@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Multi-frequency observations of SGR J1935+2154](https://arxiv.org/abs/2103.06052)
+
 * [A nearby repeating fast radio burst in the direction of M81](https://arxiv.org/abs/2103.01295)
 
 * [Consistent equivalence principle tests with fast radio bursts](https://arxiv.org/abs/2102.11554)
