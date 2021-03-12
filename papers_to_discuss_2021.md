@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Emission Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2103.00470)
+
+* [Constraining the Epoch of Reionization With Highly Dispersed Fast Radio Bursts](https://arxiv.org/abs/2103.03252)
+
+* [Repeating Fast Radio Bursts from Collapse of Strange Star Crust](https://arxiv.org/abs/2103.04165)
+
 * [Multi-frequency observations of SGR J1935+2154](https://arxiv.org/abs/2103.06052)
 
 * [A nearby repeating fast radio burst in the direction of M81](https://arxiv.org/abs/2103.01295)
