@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Coherent emission in pulsars, magnetars and Fast Radio Bursts: reconnection-driven free electron laser](https://arxiv.org/abs/2102.07010)
+
+* [An accreting stellar binary model for active periodic fast radio bursts](https://arxiv.org/abs/2102.06796)
+
 * [Emission Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2103.00470)
 
 * [Constraining the Epoch of Reionization With Highly Dispersed Fast Radio Bursts](https://arxiv.org/abs/2103.03252)
