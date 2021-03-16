@@ -1,5 +1,15 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Constraints on the abundance of primordial black holes with different mass distributions from lensing of fast radio bursts](https://arxiv.org/abs/2103.08510)
+
+* [Reconstruction of Baryon Fraction in Intergalactic Medium through Dispersion Measurements of Fast Radio Bursts](https://arxiv.org/abs/2103.08479)
+
+* [MeerTRAP in the era of multi-messenger astrophysics](https://arxiv.org/abs/2103.08410)
+
+* [Multiwavelength observations of Fast Radio Bursts](https://arxiv.org/abs/2103.07786)
+
+* [The First Fast Radio Burst Detected with VLITE-Fast](https://iopscience.iop.org/article/10.3847/2515-5172/abea22)
+
 * [Coherent emission in pulsars, magnetars and Fast Radio Bursts: reconnection-driven free electron laser](https://arxiv.org/abs/2102.07010)
 
 * [An accreting stellar binary model for active periodic fast radio bursts](https://arxiv.org/abs/2102.06796)
