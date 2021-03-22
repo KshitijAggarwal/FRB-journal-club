@@ -1,20 +1,10 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
-* [Fast radio burst detection in the presence of coloured noise](https://arxiv.org/abs/2103.10233)
-
 * [Millisecond Magnetars](https://arxiv.org/abs/2103.10878)
-
-* [Distinguishing Time Clustering of Astrophysical Bursts](https://arxiv.org/abs/2103.10618)
 
 * [Constraints on the abundance of primordial black holes with different mass distributions from lensing of fast radio bursts](https://arxiv.org/abs/2103.08510)
 
 * [Reconstruction of Baryon Fraction in Intergalactic Medium through Dispersion Measurements of Fast Radio Bursts](https://arxiv.org/abs/2103.08479)
-
-* [MeerTRAP in the era of multi-messenger astrophysics](https://arxiv.org/abs/2103.08410)
-
-* [Multiwavelength observations of Fast Radio Bursts](https://arxiv.org/abs/2103.07786)
-
-* [The First Fast Radio Burst Detected with VLITE-Fast](https://iopscience.iop.org/article/10.3847/2515-5172/abea22)
 
 * [Coherent emission in pulsars, magnetars and Fast Radio Bursts: reconnection-driven free electron laser](https://arxiv.org/abs/2102.07010)
 
@@ -33,8 +23,6 @@
 * [Consistent equivalence principle tests with fast radio bursts](https://arxiv.org/abs/2102.11554)
 
 * [Emission Properties of Periodic Fast Radio Bursts from the Motion of Magnetars: Testing Dynamical Models](https://arxiv.org/abs/2101.05836)
-
-* [CRAFTS for Fast Radio Bursts Extending the dispersion-fluence relation with new FRBs detected by FAST](https://arxiv.org/abs/2102.10546)
 
 * [Probabilistic Association of Transients to their Hosts (PATH)](https://arxiv.org/abs/2102.10627)
 
