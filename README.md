@@ -2,6 +2,22 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>22 March</h2>
+
+Papers Discussed:
+
+* [Fast radio burst detection in the presence of coloured noise](https://arxiv.org/abs/2103.10233)
+
+* [Distinguishing Time Clustering of Astrophysical Bursts](https://arxiv.org/abs/2103.10618)
+
+* [MeerTRAP in the era of multi-messenger astrophysics](https://arxiv.org/abs/2103.08410)
+
+* [Multiwavelength observations of Fast Radio Bursts](https://arxiv.org/abs/2103.07786)
+
+* [The First Fast Radio Burst Detected with VLITE-Fast](https://iopscience.iop.org/article/10.3847/2515-5172/abea22)
+
+* [CRAFTS for Fast Radio Bursts Extending the dispersion-fluence relation with new FRBs detected by FAST](https://arxiv.org/abs/2102.10546)
+
 
 <h2>8 February</h2>
 
