@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Fast radio burst detection in the presence of coloured noise](https://arxiv.org/abs/2103.10233)
+
+* [Millisecond Magnetars](https://arxiv.org/abs/2103.10878)
+
+* [Distinguishing Time Clustering of Astrophysical Bursts](https://arxiv.org/abs/2103.10618)
+
 * [Constraints on the abundance of primordial black holes with different mass distributions from lensing of fast radio bursts](https://arxiv.org/abs/2103.08510)
 
 * [Reconstruction of Baryon Fraction in Intergalactic Medium through Dispersion Measurements of Fast Radio Bursts](https://arxiv.org/abs/2103.08479)
