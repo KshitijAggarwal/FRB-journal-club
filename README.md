@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>29 March</h2>
+
+Papers Discussed:
+
+* [Reconstruction of Baryon Fraction in Intergalactic Medium through Dispersion Measurements of Fast Radio Bursts](https://arxiv.org/abs/2103.08479)
+
+* [Multi-frequency observations of SGR J1935+2154](https://arxiv.org/abs/2103.06052)
+
+* [A nearby repeating fast radio burst in the direction of M81](https://arxiv.org/abs/2103.01295)
+
+* [An accreting stellar binary model for active periodic fast radio bursts](https://arxiv.org/abs/2102.06796)
+
+
 <h2>22 March</h2>
 
 Papers Discussed:
