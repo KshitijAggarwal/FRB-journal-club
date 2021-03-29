@@ -4,21 +4,13 @@
 
 * [Constraints on the abundance of primordial black holes with different mass distributions from lensing of fast radio bursts](https://arxiv.org/abs/2103.08510)
 
-* [Reconstruction of Baryon Fraction in Intergalactic Medium through Dispersion Measurements of Fast Radio Bursts](https://arxiv.org/abs/2103.08479)
-
 * [Coherent emission in pulsars, magnetars and Fast Radio Bursts: reconnection-driven free electron laser](https://arxiv.org/abs/2102.07010)
-
-* [An accreting stellar binary model for active periodic fast radio bursts](https://arxiv.org/abs/2102.06796)
 
 * [Emission Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2103.00470)
 
 * [Constraining the Epoch of Reionization With Highly Dispersed Fast Radio Bursts](https://arxiv.org/abs/2103.03252)
 
 * [Repeating Fast Radio Bursts from Collapse of Strange Star Crust](https://arxiv.org/abs/2103.04165)
-
-* [Multi-frequency observations of SGR J1935+2154](https://arxiv.org/abs/2103.06052)
-
-* [A nearby repeating fast radio burst in the direction of M81](https://arxiv.org/abs/2103.01295)
 
 * [Consistent equivalence principle tests with fast radio bursts](https://arxiv.org/abs/2102.11554)
 
