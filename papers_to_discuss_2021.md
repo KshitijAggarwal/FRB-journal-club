@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Bounding the photon mass with cosmological propagation of fast radio bursts](https://arxiv.org/abs/2103.15299)
+
 * [Millisecond Magnetars](https://arxiv.org/abs/2103.10878)
 
 * [Constraints on the abundance of primordial black holes with different mass distributions from lensing of fast radio bursts](https://arxiv.org/abs/2103.08510)
