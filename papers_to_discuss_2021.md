@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A new measurement of the Hubble constant using Fast Radio Bursts](https://arxiv.org/abs/2104.04538)
+
 * [Multi-wavelength follow-up of FRB 180309](https://arxiv.org/abs/2104.03991)
 
 * [A Real-Time Detection Pipeline for Transient Sources in Radio Images using Convolutional Neural Networks](https://arxiv.org/abs/2103.15418)
