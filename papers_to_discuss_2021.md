@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Constraining bright optical counterparts of Fast Radio Bursts](https://arxiv.org/abs/2104.09727)
+
 * [Robust Assessment of Clustering Methods for Fast Radio Transient Candidates](https://arxiv.org/abs/2104.07046)
 
 * [A new measurement of the Hubble constant using Fast Radio Bursts](https://arxiv.org/abs/2104.04538)
