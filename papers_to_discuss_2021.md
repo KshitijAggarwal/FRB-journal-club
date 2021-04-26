@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Statistical properties of fast radio bursts elucidate their origins: magnetars are favoured over gamma-ray bursts](https://arxiv.org/abs/2104.11617)
+
+* [Spectral-temporal features of repeating ( one-off ) FRBs and Axion Star](https://arxiv.org/abs/2104.11389)
+
 * [Constraining bright optical counterparts of Fast Radio Bursts](https://arxiv.org/abs/2104.09727)
 
 * [Robust Assessment of Clustering Methods for Fast Radio Transient Candidates](https://arxiv.org/abs/2104.07046)
