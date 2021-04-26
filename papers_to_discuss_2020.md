@@ -8,8 +8,6 @@
 
 * [The dispersion measure and scattering of FRBs: Contributions from the intergalactic medium, foreground halos, and hosts](https://arxiv.org/abs/2011.08519)
 
-* [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500)
-
 * [Fast radio bursts: do repeaters and non-repeaters originate in statistically similar ensembles](https://arxiv.org/abs/2011.01339)
 
 * [FRB 181112 as a Rapidly-Rotating Massive Neutron Star just after a Binary Neutron Star Merger?: Implications for Future Constraints on Neutron Star Equations of State](https://arxiv.org/abs/2010.07796)
