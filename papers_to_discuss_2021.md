@@ -30,8 +30,6 @@
 
 * [Periodic Fast Radio Bursts from ULX-Like Binaries](https://arxiv.org/abs/2102.06138)
 
-* [Effect of Redshift Distributions of Fast Radio Bursts on Cosmological Constraints](https://arxiv.org/abs/2102.00579)
-
 * [Revealing the cosmic reionisation history with fast radio bursts in the era of Square Kilometre Array](https://arxiv.org/abs/2101.08798)
 
 * [The z--DM distribution of fast radio bursts](https://arxiv.org/abs/2101.08005)
