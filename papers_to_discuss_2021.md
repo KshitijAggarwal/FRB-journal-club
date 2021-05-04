@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [AGILE Observations of Fast Radio Bursts](https://arxiv.org/abs/2105.00685)
+
 * [Spectral-temporal features of repeating ( one-off ) FRBs and Axion Star](https://arxiv.org/abs/2104.11389)
 
 * [Robust Assessment of Clustering Methods for Fast Radio Transient Candidates](https://arxiv.org/abs/2104.07046)
