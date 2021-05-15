@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [FRBs Lensed by Point Masses I. Lens Mass Estimation for Doubly Imaged FRBs](https://arxiv.org/abs/2105.05868)
+
 * [The Galactic neutron star population I -- an extragalactic view of the Milky Way and the implications for fast radio bursts](https://arxiv.org/abs/2105.04549)
 
 * [AGILE Observations of Fast Radio Bursts](https://arxiv.org/abs/2105.00685)
