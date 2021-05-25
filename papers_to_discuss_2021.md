@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A Bright Fast Radio Burst from FRB 20200120E with Sub-100-Nanosecond Structure](https://arxiv.org/abs/2105.10987)
+
+* [Burst timescales and luminosities link young pulsars and fast radio bursts](https://arxiv.org/abs/2105.11446)
+
+* [A repeating fast radio burst source in a globular cluster](https://arxiv.org/abs/2105.11445)
+
 * [FRBs Lensed by Point Masses I. Lens Mass Estimation for Doubly Imaged FRBs](https://arxiv.org/abs/2105.05868)
 
 * [The Galactic neutron star population I -- an extragalactic view of the Milky Way and the implications for fast radio bursts](https://arxiv.org/abs/2105.04549)
