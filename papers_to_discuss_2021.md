@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [An analysis of the time-frequency structure of several bursts from FRB\,121102 detected with MeerKAT](https://arxiv.org/abs/2105.11822)
+
 * [A Bright Fast Radio Burst from FRB 20200120E with Sub-100-Nanosecond Structure](https://arxiv.org/abs/2105.10987)
 
 * [Burst timescales and luminosities link young pulsars and fast radio bursts](https://arxiv.org/abs/2105.11446)
