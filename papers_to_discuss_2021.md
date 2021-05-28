@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Kinematics of Crab Giant Pulses](https://arxiv.org/abs/2105.08851)
+
+* [Narrow-banded giant pulses from the Crab pulsar](https://arxiv.org/abs/2105.13316)
+
+* [Do the periodic activities of repeating fast radio bursts represent the spins of neutron stars?](https://arxiv.org/abs/2105.13122)
+
 * [An analysis of the time-frequency structure of several bursts from FRB\,121102 detected with MeerKAT](https://arxiv.org/abs/2105.11822)
 
 * [A Bright Fast Radio Burst from FRB 20200120E with Sub-100-Nanosecond Structure](https://arxiv.org/abs/2105.10987)
