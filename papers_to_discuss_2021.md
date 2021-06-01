@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Binary comb models for FRB 121102](https://arxiv.org/abs/2105.14480)
+
 * [Kinematics of Crab Giant Pulses](https://arxiv.org/abs/2105.08851)
 
 * [Narrow-banded giant pulses from the Crab pulsar](https://arxiv.org/abs/2105.13316)
