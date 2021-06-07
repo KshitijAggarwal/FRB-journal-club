@@ -3,6 +3,21 @@
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
 
+<h2>7 June </h2>
+
+Papers Discussed:
+
+* [Kinematics of Crab Giant Pulses](https://arxiv.org/abs/2105.08851)
+
+* [Narrow-banded giant pulses from the Crab pulsar](https://arxiv.org/abs/2105.13316)
+
+* [An analysis of the time-frequency structure of several bursts from FRB\,121102 detected with MeerKAT](https://arxiv.org/abs/2105.11822)
+
+* [Multi-wavelength follow-up of FRB 180309](https://arxiv.org/abs/2104.03991)
+
+* [The Thousand-Pulsar-Array programme on MeerKAT III: Giant pulse characteristics of PSR J0540−6919](https://arxiv.org/abs/2105.09096)
+
+
 <h2>26 April</h2>
 
 Papers Discussed:
