@@ -1,5 +1,13 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Fast Radio Burst Morphology in the First CHIME/FRB Catalog](https://arxiv.org/abs/2106.04356)
+
+* [CHIME/FRB Catalog 1 results: statistical cross-correlations with large-scale structure](https://arxiv.org/abs/2106.04354)
+
+* [No Evidence for Galactic Latitude Dependence of the Fast Radio Burst Sky Distribution](https://arxiv.org/abs/2106.04353)
+
+* [The First CHIME/FRB Fast Radio Burst Catalog](https://arxiv.org/abs/2106.04352)
+
 * [Binary comb models for FRB 121102](https://arxiv.org/abs/2105.14480)
 
 * [Do the periodic activities of repeating fast radio bursts represent the spins of neutron stars?](https://arxiv.org/abs/2105.13122)
