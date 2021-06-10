@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [When Outliers Are Different](https://arxiv.org/abs/2106.05212)
+
+* [Searching for radio pulsation from SGR 1935+2154 with the Parkes Ultra-Wideband Low receiver](https://arxiv.org/abs/2106.04821)
+
 * [Fast Radio Burst Morphology in the First CHIME/FRB Catalog](https://arxiv.org/abs/2106.04356)
 
 * [CHIME/FRB Catalog 1 results: statistical cross-correlations with large-scale structure](https://arxiv.org/abs/2106.04354)
