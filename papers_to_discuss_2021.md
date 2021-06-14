@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A FRB in a Globular Cluster: Why This Neutron Star is Different From (Almost) All Other Neutron Stars](https://arxiv.org/abs/2106.06066)
+
 * [When Outliers Are Different](https://arxiv.org/abs/2106.05212)
 
 * [Searching for radio pulsation from SGR 1935+2154 with the Parkes Ultra-Wideband Low receiver](https://arxiv.org/abs/2106.04821)
