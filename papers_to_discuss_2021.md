@@ -4,10 +4,6 @@
 
 * [When Outliers Are Different](https://arxiv.org/abs/2106.05212)
 
-* [Searching for radio pulsation from SGR 1935+2154 with the Parkes Ultra-Wideband Low receiver](https://arxiv.org/abs/2106.04821)
-
-* [Fast Radio Burst Morphology in the First CHIME/FRB Catalog](https://arxiv.org/abs/2106.04356)
-
 * [CHIME/FRB Catalog 1 results: statistical cross-correlations with large-scale structure](https://arxiv.org/abs/2106.04354)
 
 * [No Evidence for Galactic Latitude Dependence of the Fast Radio Burst Sky Distribution](https://arxiv.org/abs/2106.04353)
@@ -19,8 +15,6 @@
 * [Do the periodic activities of repeating fast radio bursts represent the spins of neutron stars?](https://arxiv.org/abs/2105.13122)
 
 * [A Bright Fast Radio Burst from FRB 20200120E with Sub-100-Nanosecond Structure](https://arxiv.org/abs/2105.10987)
-
-* [Burst timescales and luminosities link young pulsars and fast radio bursts](https://arxiv.org/abs/2105.11446)
 
 * [A repeating fast radio burst source in a globular cluster](https://arxiv.org/abs/2105.11445)
 
