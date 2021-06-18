@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The host galaxy and persistent radio counterpart of FRB 20201124A](https://arxiv.org/abs/2106.09710)
+
+* [Fast Afterglows of Fast Radio Bursts](https://arxiv.org/abs/2106.09540)
+
+* [An Arecibo 327 MHz Search for Radio Pulsars and Bursts in the Dwarf Irregular Galaxies Leo A and T](https://arxiv.org/abs/2106.09134)
+
 * [A FRB in a Globular Cluster: Why This Neutron Star is Different From (Almost) All Other Neutron Stars](https://arxiv.org/abs/2106.06066)
 
 * [When Outliers Are Different](https://arxiv.org/abs/2106.05212)
