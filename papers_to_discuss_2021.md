@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Chronicling the Host Galaxy Properties of the Remarkable Repeating FRB 20201124A](https://arxiv.org/abs/2106.11993)
+
 * [The host galaxy and persistent radio counterpart of FRB 20201124A](https://arxiv.org/abs/2106.09710)
 
 * [Fast Afterglows of Fast Radio Bursts](https://arxiv.org/abs/2106.09540)
