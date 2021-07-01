@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A comparison of Galactic electron density models using PyGEDM](https://arxiv.org/abs/2106.15816)
+
+* [Fast Radio Bursts as crustal dynamical events induced by magnetic field evolution in young magnetars](https://arxiv.org/abs/2106.15030)
+
 * [Chronicling the Host Galaxy Properties of the Remarkable Repeating FRB 20201124A](https://arxiv.org/abs/2106.11993)
 
 * [The host galaxy and persistent radio counterpart of FRB 20201124A](https://arxiv.org/abs/2106.09710)
