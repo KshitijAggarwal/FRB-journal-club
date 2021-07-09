@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Periodicity Search on X-ray Bursts of SGR J1935+2154 Using 8.5-year Fermi/GBM Data](https://arxiv.org/abs/2107.03800)
+
+* [A Polarization Pipeline for Fast Radio Bursts Detected by CHIME/FRB](https://arxiv.org/abs/2107.03491)
+
+* [Dynamical Formation Channels for Fast Radio Bursts in Globular Clusters](https://arxiv.org/abs/2107.03394)
+
 * [A comparison of Galactic electron density models using PyGEDM](https://arxiv.org/abs/2106.15816)
 
 * [Fast Radio Bursts as crustal dynamical events induced by magnetic field evolution in young magnetars](https://arxiv.org/abs/2106.15030)
