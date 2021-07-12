@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Implications of a rapidly varying FRB in a globular cluster of M81](https://arxiv.org/abs/2107.04059)
+
 * [Periodicity Search on X-ray Bursts of SGR J1935+2154 Using 8.5-year Fermi/GBM Data](https://arxiv.org/abs/2107.03800)
 
 * [A Polarization Pipeline for Fast Radio Bursts Detected by CHIME/FRB](https://arxiv.org/abs/2107.03491)
