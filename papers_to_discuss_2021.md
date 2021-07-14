@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Comprehensive analysis of a dense sample of FRB 121102 bursts](https://arxiv.org/abs/2107.05658)
+
+* [Localizing FRBs through VLBI with the Algonquin Radio Observatory 10-m Telescope](https://arxiv.org/abs/2107.05659)
+
 * [Implications of a rapidly varying FRB in a globular cluster of M81](https://arxiv.org/abs/2107.04059)
 
 * [Periodicity Search on X-ray Bursts of SGR J1935+2154 Using 8.5-year Fermi/GBM Data](https://arxiv.org/abs/2107.03800)
