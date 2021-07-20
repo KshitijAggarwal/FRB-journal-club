@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Sub-second periodicity in a fast radio burst](https://arxiv.org/abs/2107.08463)
+
+* [A bimodal burst energy distribution of a repeating fast radio burst source](https://arxiv.org/abs/2107.08205)
+
 * [Comprehensive analysis of a dense sample of FRB 121102 bursts](https://arxiv.org/abs/2107.05658)
 
 * [Localizing FRBs through VLBI with the Algonquin Radio Observatory 10-m Telescope](https://arxiv.org/abs/2107.05659)
