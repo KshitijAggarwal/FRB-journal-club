@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Absence of bursts between 4-8 GHz from FRB20200120E located in an M81 Globular Cluster](https://arxiv.org/abs/2107.09445)
+
 * [Sub-second periodicity in a fast radio burst](https://arxiv.org/abs/2107.08463)
 
 * [A bimodal burst energy distribution of a repeating fast radio burst source](https://arxiv.org/abs/2107.08205)
