@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Fast radio bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113)
+
+* [An Arecibo Search for Fast Radio Transients from M87](https://arxiv.org/abs/2107.09687)
+
 * [Absence of bursts between 4-8 GHz from FRB20200120E located in an M81 Globular Cluster](https://arxiv.org/abs/2107.09445)
 
 * [Sub-second periodicity in a fast radio burst](https://arxiv.org/abs/2107.08463)
