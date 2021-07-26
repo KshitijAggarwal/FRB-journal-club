@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Measuring interstellar turbulence in fast radio burst host galaxies](https://arxiv.org/abs/2107.11334)
+
+* [Modeling Fast Radio Burst Dispersion and Scattering Properties in the First CHIME/FRB Catalog](https://arxiv.org/abs/2107.10858)
+
 * [Fast radio bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113)
 
 * [An Arecibo Search for Fast Radio Transients from M87](https://arxiv.org/abs/2107.09687)
