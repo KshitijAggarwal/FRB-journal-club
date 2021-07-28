@@ -1,5 +1,15 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Free-free absorption in hot relativistic flows: application to fast radio bursts](https://arxiv.org/abs/2107.12989)
+
+* [Non-Axisymmetric Precession of Magnetars and Fast Radio Bursts](https://arxiv.org/abs/2107.12911)
+
+* [Polarization properties of FRB 20201124A from detections with the 100-m Effelsberg Radio Telescope](https://arxiv.org/abs/2107.12892)
+
+* [Empirical Assessment of Aperiodic and Periodic Radio Bursts from Young Precessing Magnetars](https://arxiv.org/abs/2107.12874)
+
+* [Similar Scale-invariant Behaviors between Soft Gamma-ray Repeaters and An Extreme Epoch from FRB 121102](https://arxiv.org/abs/2107.12605)
+
 * [Measuring interstellar turbulence in fast radio burst host galaxies](https://arxiv.org/abs/2107.11334)
 
 * [Modeling Fast Radio Burst Dispersion and Scattering Properties in the First CHIME/FRB Catalog](https://arxiv.org/abs/2107.10858)
