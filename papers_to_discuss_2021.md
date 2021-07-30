@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Constraining mechanism associated with fast radio burst and glitch from SGR J1935](https://arxiv.org/abs/2107.13725)
+
+* [A detection of circumgalactic gas with fast radio bursts](https://arxiv.org/abs/2107.13692)
+
+* [Down-drifting, bandwidth and beaming of fast radio bursts](https://arxiv.org/abs/2107.13549)
+
 * [Free-free absorption in hot relativistic flows: application to fast radio bursts](https://arxiv.org/abs/2107.12989)
 
 * [Non-Axisymmetric Precession of Magnetars and Fast Radio Bursts](https://arxiv.org/abs/2107.12911)
