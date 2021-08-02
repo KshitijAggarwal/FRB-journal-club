@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [The Fast Radio Burst FRB 20201124A in a star forming region: constraints to the progenitor and multiwavelength counterparts](https://arxiv.org/abs/2107.14339)
+
+* [What it takes to measure reionization with fast radio bursts](https://arxiv.org/abs/2107.14242)
+
 * [Constraining mechanism associated with fast radio burst and glitch from SGR J1935](https://arxiv.org/abs/2107.13725)
 
 * [A detection of circumgalactic gas with fast radio bursts](https://arxiv.org/abs/2107.13692)
