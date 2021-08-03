@@ -1,5 +1,15 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Burst properties of the highly active FRB 20201124A using uGMRT](https://arxiv.org/abs/2108.00697)
+
+* [81 New Candidate Fast Radio Bursts in Parkes Archive](https://arxiv.org/abs/2108.00609)
+
+* [An 8\% Determination of the Hubble Constant from localized Fast Radio Bursts](https://arxiv.org/abs/2108.00581)
+
+* [Periodic Activities of Repeating Fast Radio Bursts from Be/X-ray Binary Systems](https://arxiv.org/abs/2108.00350)
+
+* [Scintillation timescale measurement of the highly active FRB20201124A](https://arxiv.org/abs/2108.00052)
+
 * [The Fast Radio Burst FRB 20201124A in a star forming region: constraints to the progenitor and multiwavelength counterparts](https://arxiv.org/abs/2107.14339)
 
 * [What it takes to measure reionization with fast radio bursts](https://arxiv.org/abs/2107.14242)
