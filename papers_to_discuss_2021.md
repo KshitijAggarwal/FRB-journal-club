@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Characterizing the FRB host galaxy population and its connection to transients in the local and extragalactic Universe](https://arxiv.org/abs/2108.01282)
+
+* [Redshift Estimation and Constraints on Intergalactic and Interstellar Media from Dispersion and Scattering of Fast Radio Bursts](https://arxiv.org/abs/2108.01172)
+
 * [Burst properties of the highly active FRB 20201124A using uGMRT](https://arxiv.org/abs/2108.00697)
 
 * [81 New Candidate Fast Radio Bursts in Parkes Archive](https://arxiv.org/abs/2108.00609)
