@@ -1,5 +1,15 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [VOLKS2: a transient search and localization pipeline for VLBI observations](https://arxiv.org/abs/2108.05602)
+
+* [4−8 GHz Spectro-temporal Emission from the Galactic Center Magnetar PSR J1745−2900](https://arxiv.org/abs/2108.05602)
+
+* [A forecast of using fast radio burst observations to constrain holographic dark energy](https://arxiv.org/abs/2108.04127)
+
+* [Multi-epoch searches for relativistic binary pulsars and fast transients in the Galactic Centre](https://arxiv.org/abs/2108.05241)
+
+* [Observational effects of banded repeating FRBs](https://arxiv.org/abs/2108.04474)
+
 * [Characterizing the FRB host galaxy population and its connection to transients in the local and extragalactic Universe](https://arxiv.org/abs/2108.01282)
 
 * [Redshift Estimation and Constraints on Intergalactic and Interstellar Media from Dispersion and Scattering of Fast Radio Bursts](https://arxiv.org/abs/2108.01172)
