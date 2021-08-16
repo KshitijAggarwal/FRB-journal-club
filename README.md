@@ -2,6 +2,19 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>16 August </h2>
+
+Papers Discussed:
+
+* [A bimodal burst energy distribution of a repeating fast radio burst source](https://arxiv.org/abs/2107.08205)
+
+* [Burst properties of the highly active FRB 20201124A using uGMRT](https://arxiv.org/abs/2108.00697)
+
+* [Absence of bursts between 4-8 GHz from FRB20200120E located in an M81 Globular Cluster](https://arxiv.org/abs/2107.09445)
+
+* [An Arecibo 327 MHz Search for Radio Pulsars and Bursts in the Dwarf Irregular Galaxies Leo A and T](https://arxiv.org/abs/2106.09134)
+
+
 <h2>14 June </h2>
 
 Papers Discussed:
