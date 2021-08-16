@@ -14,8 +14,6 @@
 
 * [Redshift Estimation and Constraints on Intergalactic and Interstellar Media from Dispersion and Scattering of Fast Radio Bursts](https://arxiv.org/abs/2108.01172)
 
-* [Burst properties of the highly active FRB 20201124A using uGMRT](https://arxiv.org/abs/2108.00697)
-
 * [81 New Candidate Fast Radio Bursts in Parkes Archive](https://arxiv.org/abs/2108.00609)
 
 * [An 8\% Determination of the Hubble Constant from localized Fast Radio Bursts](https://arxiv.org/abs/2108.00581)
@@ -52,11 +50,7 @@
 
 * [An Arecibo Search for Fast Radio Transients from M87](https://arxiv.org/abs/2107.09687)
 
-* [Absence of bursts between 4-8 GHz from FRB20200120E located in an M81 Globular Cluster](https://arxiv.org/abs/2107.09445)
-
 * [Sub-second periodicity in a fast radio burst](https://arxiv.org/abs/2107.08463)
-
-* [A bimodal burst energy distribution of a repeating fast radio burst source](https://arxiv.org/abs/2107.08205)
 
 * [Comprehensive analysis of a dense sample of FRB 121102 bursts](https://arxiv.org/abs/2107.05658)
 
@@ -79,8 +73,6 @@
 * [The host galaxy and persistent radio counterpart of FRB 20201124A](https://arxiv.org/abs/2106.09710)
 
 * [Fast Afterglows of Fast Radio Bursts](https://arxiv.org/abs/2106.09540)
-
-* [An Arecibo 327 MHz Search for Radio Pulsars and Bursts in the Dwarf Irregular Galaxies Leo A and T](https://arxiv.org/abs/2106.09134)
 
 * [A FRB in a Globular Cluster: Why This Neutron Star is Different From (Almost) All Other Neutron Stars](https://arxiv.org/abs/2106.06066)
 
