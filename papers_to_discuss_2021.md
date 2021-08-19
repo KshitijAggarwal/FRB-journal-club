@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Can a strong radio burst escape the magnetosphere of a magnetar?](https://arxiv.org/abs/2108.07881)
+
 * [VOLKS2: a transient search and localization pipeline for VLBI observations](https://arxiv.org/abs/2108.05602)
 
 * [4−8 GHz Spectro-temporal Emission from the Galactic Center Magnetar PSR J1745−2900](https://arxiv.org/abs/2108.05602)
