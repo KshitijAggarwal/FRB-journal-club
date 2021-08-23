@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Constrains on optical emission of FAST-detected FRB 20181130B with GWAC synchronized observations](https://arxiv.org/abs/2108.06931)
+
+* [Reconciling the 16.35-day period of FRB 20180916B with jet precession](https://arxiv.org/abs/2108.08982)
+
+* [Can Primordial Black Holes as all Dark Matter explain Fast Radio Bursts?](https://arxiv.org/abs/2108.08717)
+
 * [Can a strong radio burst escape the magnetosphere of a magnetar?](https://arxiv.org/abs/2108.07881)
 
 * [VOLKS2: a transient search and localization pipeline for VLBI observations](https://arxiv.org/abs/2108.05602)
