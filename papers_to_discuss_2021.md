@@ -1,5 +1,13 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Estimating the contribution of foreground halos to the FRB 180924 dispersion measure](https://arxiv.org/abs/2108.09881)
+
+* [A phenomenological model for measuring generalised Faraday rotation](https://arxiv.org/abs/2108.09429)
+
+* [Gamma-ray and Optical Observations of Repeating Fast Radio Bursts with VERITAS](https://arxiv.org/abs/2108.09354)
+
+* [First Results from the REAL-time Transient Acquisition backend (REALTA) at the Irish LOFAR station](https://arxiv.org/abs/2108.11251)
+
 * [Constrains on optical emission of FAST-detected FRB 20181130B with GWAC synchronized observations](https://arxiv.org/abs/2108.06931)
 
 * [Reconciling the 16.35-day period of FRB 20180916B with jet precession](https://arxiv.org/abs/2108.08982)
