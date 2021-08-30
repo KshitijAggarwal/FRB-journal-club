@@ -2,6 +2,15 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+<h2>30 August </h2>
+
+Papers Discussed:
+
+* [Polarization properties of FRB 20201124A from detections with the 100-m Effelsberg Radio Telescope](https://arxiv.org/abs/2107.12892)
+
+* [The First CHIME/FRB Fast Radio Burst Catalog](https://arxiv.org/abs/2106.04352)
+
+
 <h2>16 August </h2>
 
 Papers Discussed:
