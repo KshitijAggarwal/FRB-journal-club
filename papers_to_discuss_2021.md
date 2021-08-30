@@ -56,8 +56,6 @@
 
 * [Non-Axisymmetric Precession of Magnetars and Fast Radio Bursts](https://arxiv.org/abs/2107.12911)
 
-* [Polarization properties of FRB 20201124A from detections with the 100-m Effelsberg Radio Telescope](https://arxiv.org/abs/2107.12892)
-
 * [Empirical Assessment of Aperiodic and Periodic Radio Bursts from Young Precessing Magnetars](https://arxiv.org/abs/2107.12874)
 
 * [Similar Scale-invariant Behaviors between Soft Gamma-ray Repeaters and An Extreme Epoch from FRB 121102](https://arxiv.org/abs/2107.12605)
@@ -101,8 +99,6 @@
 * [CHIME/FRB Catalog 1 results: statistical cross-correlations with large-scale structure](https://arxiv.org/abs/2106.04354)
 
 * [No Evidence for Galactic Latitude Dependence of the Fast Radio Burst Sky Distribution](https://arxiv.org/abs/2106.04353)
-
-* [The First CHIME/FRB Fast Radio Burst Catalog](https://arxiv.org/abs/2106.04352)
 
 * [Binary comb models for FRB 121102](https://arxiv.org/abs/2105.14480)
 
