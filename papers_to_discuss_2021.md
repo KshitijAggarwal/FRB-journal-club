@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Probing cosmology and gastrophysics with fast radio bursts: Cross-correlations of dark matter haloes and cosmic dispersion measures](https://arxiv.org/abs/2108.12205)
+
+* [A Local Universe Host for the Repeating Fast Radio Burst FRB 20181030A](https://arxiv.org/abs/2108.12122)
+
 * [Estimating the contribution of foreground halos to the FRB 180924 dispersion measure](https://arxiv.org/abs/2108.09881)
 
 * [A phenomenological model for measuring generalised Faraday rotation](https://arxiv.org/abs/2108.09429)
