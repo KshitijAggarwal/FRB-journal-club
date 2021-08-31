@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [IQRM: real-time adaptive RFI masking for radio transient and pulsar searches](https://arxiv.org/abs/2108.12434)
+
 * [Probing cosmology and gastrophysics with fast radio bursts: Cross-correlations of dark matter haloes and cosmic dispersion measures](https://arxiv.org/abs/2108.12205)
 
 * [A Local Universe Host for the Repeating Fast Radio Burst FRB 20181030A](https://arxiv.org/abs/2108.12122)
