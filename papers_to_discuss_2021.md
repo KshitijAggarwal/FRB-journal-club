@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Probing Gravitational Slip with Strongly Lensed Fast Radio Bursts](https://arxiv.org/abs/2109.00403)
+
+* [Constraining the Cosmic Baryon Distribution with Fast Radio Burst Foreground Mapping](https://arxiv.org/abs/2109.00386)
+
 * [IQRM: real-time adaptive RFI masking for radio transient and pulsar searches](https://arxiv.org/abs/2108.12434)
 
 * [Probing cosmology and gastrophysics with fast radio bursts: Cross-correlations of dark matter haloes and cosmic dispersion measures](https://arxiv.org/abs/2108.12205)
