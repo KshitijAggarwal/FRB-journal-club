@@ -2,6 +2,18 @@
 
 Public repository for FRB Journal Club at Department of Physics and Astronomy at WVU. Take a look at these review articles: [Fast Radio Bursts](https://arxiv.org/abs/1904.07947) and [The Physical Mechanisms of Fast Radio Bursts](https://arxiv.org/abs/2011.03500), for an observational and theoretical introduction of FRBs. 
 
+
+<h2>13 September </h2>
+
+Papers Discussed:
+
+* [A Local Universe Host for the Repeating Fast Radio Burst FRB 20181030A](https://arxiv.org/abs/2108.12122)
+
+* [VOLKS2: a transient search and localization pipeline for VLBI observations](https://arxiv.org/abs/2108.05602)
+
+* [Sub-second periodicity in a fast radio burst](https://arxiv.org/abs/2107.08463)
+
+
 <h2>30 August </h2>
 
 Papers Discussed:
