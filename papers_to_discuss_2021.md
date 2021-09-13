@@ -10,8 +10,6 @@
 
 * [Probing cosmology and gastrophysics with fast radio bursts: Cross-correlations of dark matter haloes and cosmic dispersion measures](https://arxiv.org/abs/2108.12205)
 
-* [A Local Universe Host for the Repeating Fast Radio Burst FRB 20181030A](https://arxiv.org/abs/2108.12122)
-
 * [Estimating the contribution of foreground halos to the FRB 180924 dispersion measure](https://arxiv.org/abs/2108.09881)
 
 * [A phenomenological model for measuring generalised Faraday rotation](https://arxiv.org/abs/2108.09429)
@@ -27,8 +25,6 @@
 * [Can Primordial Black Holes as all Dark Matter explain Fast Radio Bursts?](https://arxiv.org/abs/2108.08717)
 
 * [Can a strong radio burst escape the magnetosphere of a magnetar?](https://arxiv.org/abs/2108.07881)
-
-* [VOLKS2: a transient search and localization pipeline for VLBI observations](https://arxiv.org/abs/2108.05602)
 
 * [4−8 GHz Spectro-temporal Emission from the Galactic Center Magnetar PSR J1745−2900](https://arxiv.org/abs/2108.05602)
 
@@ -75,8 +71,6 @@
 * [Fast radio bursts at the dawn of the 2020s](https://arxiv.org/abs/2107.10113)
 
 * [An Arecibo Search for Fast Radio Transients from M87](https://arxiv.org/abs/2107.09687)
-
-* [Sub-second periodicity in a fast radio burst](https://arxiv.org/abs/2107.08463)
 
 * [Comprehensive analysis of a dense sample of FRB 121102 bursts](https://arxiv.org/abs/2107.05658)
 
