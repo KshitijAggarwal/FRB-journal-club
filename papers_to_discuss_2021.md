@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A maximum likelihood estimate of the parameters of the FRB population](https://arxiv.org/abs/2109.06785)
+
 * [Asymmetric HI 21 cm lines of fast radio burst hosts: connection with galaxy interaction](https://arxiv.org/abs/2109.02663)
 
 * [Probing Gravitational Slip with Strongly Lensed Fast Radio Bursts](https://arxiv.org/abs/2109.00403)
