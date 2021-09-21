@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A sudden period of high activity from repeating Fast Radio Burst 20201124A](https://arxiv.org/abs/2109.09254)
+
+* [Search for lensing signatures from the latest fast radio burst observations and constraints on the abundance of primordial black holes](https://arxiv.org/abs/2109.09251)
+
 * [Dual-frequency single-pulse study of PSR B0950+08](https://arxiv.org/abs/2109.08500)
 
 * [The CHIME FRB population do not track the star formation history of the universe](https://arxiv.org/abs/2109.07558)
