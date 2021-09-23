@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Periodic activity from fast radio burst FRB180916 explained in the frameof the orbiting asteroid model](https://arxiv.org/abs/2109.10577)
+
 * [A sudden period of high activity from repeating Fast Radio Burst 20201124A](https://arxiv.org/abs/2109.09254)
 
 * [Search for lensing signatures from the latest fast radio burst observations and constraints on the abundance of primordial black holes](https://arxiv.org/abs/2109.09251)
