@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Comparative Analysis of the Observational Properties of Fast Radio Bursts at the Frequencies of 111 and 1400 MHz](https://arxiv.org/abs/2109.11881)
+
 * [Circularly polarized radio emission from the repeating fast radio burst source FRB 20201124A](https://arxiv.org/abs/2109.11535)
 
 * [Periodic activity from fast radio burst FRB180916 explained in the frameof the orbiting asteroid model](https://arxiv.org/abs/2109.10577)
