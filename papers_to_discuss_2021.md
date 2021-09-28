@@ -2,8 +2,6 @@
 
 * [Comparative Analysis of the Observational Properties of Fast Radio Bursts at the Frequencies of 111 and 1400 MHz](https://arxiv.org/abs/2109.11881)
 
-* [Circularly polarized radio emission from the repeating fast radio burst source FRB 20201124A](https://arxiv.org/abs/2109.11535)
-
 * [Periodic activity from fast radio burst FRB180916 explained in the frameof the orbiting asteroid model](https://arxiv.org/abs/2109.10577)
 
 * [A sudden period of high activity from repeating Fast Radio Burst 20201124A](https://arxiv.org/abs/2109.09254)
@@ -21,8 +19,6 @@
 * [Probing Gravitational Slip with Strongly Lensed Fast Radio Bursts](https://arxiv.org/abs/2109.00403)
 
 * [Constraining the Cosmic Baryon Distribution with Fast Radio Burst Foreground Mapping](https://arxiv.org/abs/2109.00386)
-
-* [IQRM: real-time adaptive RFI masking for radio transient and pulsar searches](https://arxiv.org/abs/2108.12434)
 
 * [Probing cosmology and gastrophysics with fast radio bursts: Cross-correlations of dark matter haloes and cosmic dispersion measures](https://arxiv.org/abs/2108.12205)
 
