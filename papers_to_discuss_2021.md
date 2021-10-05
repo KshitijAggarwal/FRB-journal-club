@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A clock stabilization system for CHIME/FRB Outriggers](https://arxiv.org/abs/2110.00576)
+
+* [Faraday depolarization by multi-path propagation and application to FRBs](https://arxiv.org/abs/2110.00028)
+
 * [Comparative Analysis of the Observational Properties of Fast Radio Bursts at the Frequencies of 111 and 1400 MHz](https://arxiv.org/abs/2109.11881)
 
 * [Periodic activity from fast radio burst FRB180916 explained in the frameof the orbiting asteroid model](https://arxiv.org/abs/2109.10577)
