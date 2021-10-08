@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Fourier-domain dedispersion](https://arxiv.org/abs/2110.03482)
+
 * [A clock stabilization system for CHIME/FRB Outriggers](https://arxiv.org/abs/2110.00576)
 
 * [Faraday depolarization by multi-path propagation and application to FRBs](https://arxiv.org/abs/2110.00028)
