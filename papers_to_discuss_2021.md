@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A repeating FRB in a dense environment with a compact persistent radio source](https://arxiv.org/abs/2110.07418)
+
+* [Long and Short Fast Radio Bursts are Different from Repeating and Non-repeating Transients](https://arxiv.org/abs/2110.07227)
+
 * [Fourier-domain dedispersion](https://arxiv.org/abs/2110.03482)
 
 * [A clock stabilization system for CHIME/FRB Outriggers](https://arxiv.org/abs/2110.00576)
