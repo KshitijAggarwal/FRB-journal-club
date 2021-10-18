@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [FRBs Lensed by Point Masses II. The multi-peaked FRBs from the point view of microlensing](https://arxiv.org/abs/2110.07643)
+
 * [A repeating FRB in a dense environment with a compact persistent radio source](https://arxiv.org/abs/2110.07418)
 
 * [Long and Short Fast Radio Bursts are Different from Repeating and Non-repeating Transients](https://arxiv.org/abs/2110.07227)
