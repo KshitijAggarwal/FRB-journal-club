@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Uncloaking hidden repeating fast radio bursts with unsupervised machine learning](https://arxiv.org/abs/2110.09440)
+
+* [Earth-mass primordial black hole mergers as sources for non-repeating FRBs](https://arxiv.org/abs/2110.08981)
+
+* [Escape of Fast Radio Bursts from magnetars' magnetospheres](https://arxiv.org/abs/2110.08435)
+
 * [FRBs Lensed by Point Masses II. The multi-peaked FRBs from the point view of microlensing](https://arxiv.org/abs/2110.07643)
 
 * [A repeating FRB in a dense environment with a compact persistent radio source](https://arxiv.org/abs/2110.07418)
