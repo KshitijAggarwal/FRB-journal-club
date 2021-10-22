@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [FRB 190520B -- A FRB in a Supernova Remnant?](https://arxiv.org/abs/2110.10847)
+
+* [A Toy Model for the Time-Frequency Structure of Fast Radio Bursts: Implications for the CHIME Burst Dichotomy](https://arxiv.org/abs/2110.10738)
+
 * [Uncloaking hidden repeating fast radio bursts with unsupervised machine learning](https://arxiv.org/abs/2110.09440)
 
 * [Earth-mass primordial black hole mergers as sources for non-repeating FRBs](https://arxiv.org/abs/2110.08981)
