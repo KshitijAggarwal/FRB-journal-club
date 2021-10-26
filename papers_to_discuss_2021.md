@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [A GPU based single-pulse search pipeline (GSP) with database and its application to the commensal radio astronomy FAST survey (CRAFTS)](https://arxiv.org/abs/2110.12749#)
+
 * [FRB 190520B -- A FRB in a Supernova Remnant?](https://arxiv.org/abs/2110.10847)
 
 * [A Toy Model for the Time-Frequency Structure of Fast Radio Bursts: Implications for the CHIME Burst Dichotomy](https://arxiv.org/abs/2110.10738)
