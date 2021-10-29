@@ -1,5 +1,11 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [On the Fast Radio Burst and Persistent Radio Source Populations](https://arxiv.org/abs/2110.15323)
+
+* [Constraining the nature of FRB-emitting bunches via photo-magnetic cascades](https://arxiv.org/abs/2110.15244)
+
+* [Search for fast radio transients using Arecibo drift-scan observations at 1.4 GHz](https://arxiv.org/abs/2110.14698)
+
 * [A GPU based single-pulse search pipeline (GSP) with database and its application to the commensal radio astronomy FAST survey (CRAFTS)](https://arxiv.org/abs/2110.12749#)
 
 * [FRB 190520B -- A FRB in a Supernova Remnant?](https://arxiv.org/abs/2110.10847)
