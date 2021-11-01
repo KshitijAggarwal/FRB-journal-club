@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Global Sky Models can Improve Flux Estimates in Pulsar and FRB Studies](https://arxiv.org/abs/2110.15469)
+
 * [On the Fast Radio Burst and Persistent Radio Source Populations](https://arxiv.org/abs/2110.15323)
 
 * [Constraining the nature of FRB-emitting bunches via photo-magnetic cascades](https://arxiv.org/abs/2110.15244)
