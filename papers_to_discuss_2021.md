@@ -1,5 +1,9 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Radio and X-ray observations of giant pulses from XTE J1810-197](https://arxiv.org/abs/2111.01641)
+
+* [Milliarcsecond localisation of the repeating FRB 20201124A](https://arxiv.org/abs/2111.01600)
+
 * [Global Sky Models can Improve Flux Estimates in Pulsar and FRB Studies](https://arxiv.org/abs/2110.15469)
 
 * [On the Fast Radio Burst and Persistent Radio Source Populations](https://arxiv.org/abs/2110.15323)
