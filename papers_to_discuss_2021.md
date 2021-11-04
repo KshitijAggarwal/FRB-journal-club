@@ -1,5 +1,7 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Multiband Detection of Repeating FRB 20180916B](https://arxiv.org/abs/2111.02382)
+
 * [Radio and X-ray observations of giant pulses from XTE J1810-197](https://arxiv.org/abs/2111.01641)
 
 * [Milliarcsecond localisation of the repeating FRB 20201124A](https://arxiv.org/abs/2111.01600)
