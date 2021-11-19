@@ -1,5 +1,13 @@
 <h2> Papers to be discussed in upcoming weeks</h2>
 
+* [Scintillation Timescales of Bright FRBs Detected by CHIME/FRB](https://arxiv.org/abs/2111.08753)
+
+* [Three aspects of the radius-to-frequency mapping in fast radio bursts](https://arxiv.org/abs/2111.09548)
+
+* [Fast Radio Burst Distributions Consistent with the First CHIME/FRB Catalog](https://arxiv.org/abs/2111.07476)
+
+* [Statistical measurements of dispersion measure fluctuations of FRBs](https://arxiv.org/abs/2111.07417)
+
 * [Multiband Detection of Repeating FRB 20180916B](https://arxiv.org/abs/2111.02382)
 
 * [Radio and X-ray observations of giant pulses from XTE J1810-197](https://arxiv.org/abs/2111.01641)
